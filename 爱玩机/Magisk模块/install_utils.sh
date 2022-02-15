@@ -80,7 +80,9 @@ function busybox_install() {
   busyboxPath="${install_path}"/busybox
   chmod 0755 "${busyboxPath}"
   for applet in $($busyboxPath --list); do
-    if [ -L ${systemBinPath}/"${applet}" ]; then
+    if [ ! -L ${systemBinPath}/"${applet}" ]; then
+      echo "异常的：${applet}"
+    else
       $busyboxPath ln -sf busybox "$install_path"/"${applet}"
     fi
 
