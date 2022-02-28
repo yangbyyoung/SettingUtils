@@ -9,16 +9,13 @@ if [ -z "$userId" ]; then
   box_path=$filesPath/busybox
   install_path=$filesPath/busybox
   cache_path=$filesPath/busybox/cache
-  donatePic=${cache_path}/doantPic
-  pictures=${cache_path}/Pictures
+
 
 else
   filesPath=/data/user/$userId/${pkgName}/files
   box_path=$filesPath/busybox
   install_path=$filesPath/busybox
   cache_path=$filesPath/busybox/cache
-  donatePic=${cache_path}/doantPic
-  pictures=${cache_path}/Pictures
 
 fi
 
@@ -99,9 +96,6 @@ else
   exit 127
 
 fi
-
-cp -p -r "${donatePic}" "$filesPath"
-cp -p -r "${pictures}" "$filesPath"
 
 cp -p -r "${adbpath}" "${box_path}"/adb
 cp -p -r "${fastbootpath}" "${box_path}"/fastboot
