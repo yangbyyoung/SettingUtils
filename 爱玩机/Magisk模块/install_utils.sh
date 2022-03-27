@@ -9,13 +9,16 @@ if [ -z "$userId" ]; then
   box_path=$filesPath/busybox
   install_path=$filesPath/busybox
   cache_path=$filesPath/busybox/cache
-
+  donatePic=${cache_path}/doantPic
+  pictures=${cache_path}/Pictures
 
 else
   filesPath=/data/user/$userId/${pkgName}/files
   box_path=$filesPath/busybox
   install_path=$filesPath/busybox
   cache_path=$filesPath/busybox/cache
+  donatePic=${cache_path}/doantPic
+  pictures=${cache_path}/Pictures
 
 fi
 
@@ -73,12 +76,13 @@ chmod -R 0777 "${busyboxpath}"
 chmod -R 0777 "${adbpath}"
 chmod -R 0777 "${fastbootpath}"
 function busybox_install() {
-  systemBinPath=system/bin
+  systemBinPath=/system/bin
   busyboxPath="${install_path}"/busybox
   chmod 0755 "${busyboxPath}"
-  for applet in $($busyboxPath --list); do
-    if [ ! -L ${systemBinPath}/"${applet}" ]; then
-      $busyboxPath ln -sf busybox "$install_path"/"${applet}"
+  ${busyboxPath} --install -s ${install_path}
+  for file in $(ls ${systemBinPath}); do
+    if [ "$file" != "unzip" ] && [ "$file" != "busybox" ] && [ "$file" != "tar" ]; then
+      [ ! -L ${systemBinPath}/$file ] && rm -rf $install_path/$file 2>/dev/null
     fi
 
   done
@@ -96,6 +100,9 @@ else
   exit 127
 
 fi
+
+cp -p -r "${donatePic}" "$filesPath"
+cp -p -r "${pictures}" "$filesPath"
 
 cp -p -r "${adbpath}" "${box_path}"/adb
 cp -p -r "${fastbootpath}" "${box_path}"/fastboot
