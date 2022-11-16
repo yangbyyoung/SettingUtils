@@ -38,7 +38,8 @@
   {
     "packageName": "com.bigsea.bsfilms",
     "filePath": [
-      "/sdcard/Android/data/com.bigsea.bsfilms/files/Download"
+      "/sdcard/Android/data/com.bigsea.bsfilms/files/Download",
+      "/data/com.bigsea.bsfilms/files"
     ]
   },
   {
