@@ -48,6 +48,13 @@
       "/sdcard/Android/data/com.miui.systemAdSolution/files/miad",
       "/sdcard/miad"
     ]
+  },
+  {
+    "packageName": "com.apkpure.aegon",
+    "filePath": [
+      "/data/com.apkpure.aegon/cache/splash"
+    ]
   }
+
 ]
 
