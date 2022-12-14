@@ -125,12 +125,12 @@
       "className": "com.android.settings.UsageStatsActivity"
     },
     {
-      "label": "安装未知应用",
+      "label": "权限管理：允许安装未知应用",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$ManageExternalSourcesActivity"
     },
     {
-      "label": "悬浮窗权限：显示在其他应用的上层",
+      "label": "权限管理：悬浮窗权限，显示在其他应用的上层",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$OverlaySettingsActivity"
     },
@@ -158,7 +158,7 @@
       "className": "com.miui.optimizecenter.deepclean.installedapp.InstalledAppsActivity"
     },
     {
-      "label": "特殊权限访问设置",
+      "label": "权限管理：特殊权限访问设置",
       "packageName": "com.android.settings",
       "className": "com.android.settings.SubSettings"
     },
@@ -186,11 +186,6 @@
       "label": "谷歌服务",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.googlebase.ui.GmsCoreSettings"
-    },
-    {
-      "label": "广告设置",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.ad.AdServiceSettings"
     },
     {
       "label": "手机瘦身",
