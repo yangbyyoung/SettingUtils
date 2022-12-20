@@ -158,11 +158,6 @@
       "className": "com.miui.optimizecenter.deepclean.installedapp.InstalledAppsActivity"
     },
     {
-      "label": "权限管理：特殊权限访问设置",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.SubSettings"
-    },
-    {
       "label": "高级显示风格",
       "packageName": "com.xiaomi.misettings",
       "className": "com.xiaomi.misettings.display.ScreenExpertActivity"
@@ -189,7 +184,6 @@
     },
     {
       "label": "手机瘦身",
-      "action": "android.intent.action.MAIN",
       "packageName": "com.miui.cleanmaster",
       "className": "com.miui.optimizecenter.deepclean.DeepCleanActivity"
     },
@@ -215,7 +209,6 @@
     },
     {
       "label": "悬浮球设置",
-      "action": "android.intent.action.MAIN",
       "packageName": "com.miui.touchassistant",
       "className": "com.miui.touchassistant.MainActivity"
     },
@@ -226,7 +219,6 @@
     },
     {
       "label": "网速测速：网速知多少！",
-      "action": "android.intent.action.MAIN",
       "packageName": "com.android.providers.downloads.ui",
       "className": "com.android.networkspeed.TestSpeedActivity"
     },
