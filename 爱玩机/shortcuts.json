@@ -270,14 +270,14 @@
   ],
   "android": [
     {
+      "label": "通知日志：历史通知记录",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.notification.history.NotificationHistoryActivity"
+    },
+    {
       "label": "多用户管理：安卓原生用户管理",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$UserSettingsActivity"
-    },
-    {
-      "label": "手机信息测试：SIM卡+WIFI检测",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.Settings$TestingSettingsActivity"
     },
     {
       "label": "手机信息测试：SIM卡+WIFI检测",
