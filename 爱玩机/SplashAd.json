@@ -54,6 +54,12 @@
     "filePath": [
       "/data/com.apkpure.aegon/cache/splash"
     ]
+  },
+  {
+    "packageName": "com.taobao.idlefish",
+    "filePath": [
+      "/sdcard/Android/data/com.taobao.idlefish/files/ad"
+    ]
   }
 
 ]
