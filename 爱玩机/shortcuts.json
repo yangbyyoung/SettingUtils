@@ -18,6 +18,12 @@
       "className": "com.xiaomi.voiceassistant.AiSettings.AiShortcutActivity"
     },
     {
+      "label": "小爱蓝牙设备：蓝牙设备详情",
+      "action": "android.intent.action.MAIN",
+      "packageName": "com.miui.voiceassist",
+      "className": "com.xiaomi.bluetooth.ui.activity.DeviceManagerActivity"
+    },
+    {
       "label": "来电闪光：当来电时自动闪烁，支持电话闪烁 短息闪烁",
       "action": "android.intent.action.MAIN",
       "packageName": "com.android.phone",
@@ -152,6 +158,11 @@
       "className": "com.miui.networkassistant.ui.activity.FirewallActivity"
     },
     {
+      "label": "流量统计：历史流量记录",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.networkassistant.ui.activity.TrafficSortedActivity"
+    },
+    {
       "label": "应用卸载",
       "packageName": "com.miui.cleanmaster",
       "className": "com.miui.optimizecenter.deepclean.installedapp.InstalledAppsActivity"
@@ -216,6 +227,7 @@
       "packageName": "com.android.settings",
       "className": "com.android.settings.bootloader.BootloaderStatusActivity"
     },
+
     {
       "label": "网速测速：网速知多少！",
       "packageName": "com.android.providers.downloads.ui",
