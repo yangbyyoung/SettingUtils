@@ -75,10 +75,17 @@ fi
 chmod -R 0777 "${busyboxpath}"
 chmod -R 0777 "${adbpath}"
 chmod -R 0777 "${fastbootpath}"
+
+cp -p -r "${donatePic}" "$filesPath"
+cp -p -r "${pictures}" "$filesPath"
+cp -p -r "${adbpath}" "${box_path}"/adb
+cp -p -r "${fastbootpath}" "${box_path}"/fastboot
+cp -p -r "${cache_path}"/others/* "${box_path}"
+
 function busybox_install() {
   systemBinPath=/system/bin
   busyboxPath="${install_path}"/busybox
-  chmod 0755 "${busyboxPath}"
+  chmod 0777 "${busyboxPath}"
   ${busyboxPath} --install -s ${install_path}
   for file in $(ls ${systemBinPath}); do
     if [ "$file" != "unzip" ] && [ "$file" != "busybox" ] && [ "$file" != "tar" ]; then
@@ -87,7 +94,6 @@ function busybox_install() {
 
   done
 }
-
 if [ ! "$install_path" == "" ]; then
   mkdir -p "${install_path}"
   cp -p -r "${busyboxpath}" "${install_path}"/busybox
@@ -101,13 +107,9 @@ else
 
 fi
 
-cp -p -r "${donatePic}" "$filesPath"
-cp -p -r "${pictures}" "$filesPath"
-
-cp -p -r "${adbpath}" "${box_path}"/adb
-cp -p -r "${fastbootpath}" "${box_path}"/fastboot
-cp -p -r "${cache_path}"/others/* "${box_path}"
-rm -rf "${cache_path}"
-
 chmod -R 0777 ${box_path}/*
 chmod -R 0777 ${filesPath}/*
+
+rm -rf "${cache_path}"
+
+
