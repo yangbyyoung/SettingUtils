@@ -1,0 +1,322 @@
+{
+  "MIUI": [
+    {
+      "label": "小爱调教：录屏教学设置",
+      "packageName": "com.miui.voiceassist",
+      "className": "com.xiaomi.voiceassistant.skills.ui.VoiceAssistantTeachingActivity"
+    },
+    {
+      "label": "小爱调教：直接打开录屏教学",
+      "packageName": "com.miui.voiceassist",
+      "className": "com.xiaomi.voiceassistant.skills.ui.RecordLearningActivity"
+    },
+    {
+      "label": "小爱快捷：该功能仅支持4.2以上版本小爱",
+      "packageName": "com.miui.voiceassist",
+      "className": "com.xiaomi.voiceassistant.AiSettings.AiShortcutActivity"
+    },
+    {
+      "label": "小爱蓝牙设备：蓝牙设备详情",
+      "packageName": "com.miui.voiceassist",
+      "className": "com.xiaomi.bluetooth.ui.activity.DeviceManagerActivity"
+    },
+    {
+      "label": "来电闪光：当来电时自动闪烁，支持电话闪烁 短息闪烁",
+      "packageName": "com.android.phone",
+      "className": "com.android.phone.settings.AnswerStateSetting"
+    },
+    {
+      "label": "来电接听：当来电时自动接听，支持接听名单，延迟接听等",
+      "packageName": "com.android.phone",
+      "className": "com.android.phone.settings.AutoAnswerSetting"
+    },
+    {
+      "label": "自动录音：当来电时自动录音，支持开启关闭，录音设置等",
+      "packageName": "com.android.phone",
+      "className": "com.android.phone.settings.CallRecordSetting"
+    },
+    {
+      "label": "来电拦截：拦截你不想要的",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.antispam.ui.activity.CallInterceptSettingsActivity"
+    },
+    {
+      "label": "小区广播短信：调用安卓原生自带的",
+      "packageName": "com.android.phone",
+      "className": "com.android.phone.CellBroadcastSms"
+    },
+    {
+      "label": "QQ专清：企鹅最大毒瘤",
+      "packageName": "com.miui.cleanmaster",
+      "className": "com.miui.optimizecenter.deepclean.tencent.WeChatQQCleanActivity"
+    },
+    {
+      "label": "耗电曲线图",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.powercenter.batteryhistory.BatteryHistoryDetailActivity"
+    },
+    {
+      "label": "运行模式：MIUI8和9的均衡和性能模式选择",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.fuelgauge.PowerModeSettings"
+    },
+    {
+      "label": "电池信息：查看电池状态",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.BatteryInfo"
+    },
+    {
+      "label": "神隐模式：高效控制后台",
+      "packageName": "com.miui.powerkeeper",
+      "className": "com.miui.powerkeeper.ui.HiddenAppsContainerManagementActivity"
+    },
+    {
+      "label": "智能场景省电",
+      "packageName": "com.miui.powerkeeper",
+      "className": "com.miui.powerkeeper.ui.ScenarioPowerSavingActivity"
+    },
+    {
+      "label": "极致省电：开启/关闭MIUI自带极致省电模式",
+      "packageName": "com.miui.powerkeeper",
+      "className": "com.miui.powerkeeper.ui.ExtremeModePickAppsActivity"
+    },
+    {
+      "label": "电池样式选择",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.fuelgauge.BatteryIndicatorStyle"
+    },
+    {
+      "label": "定时开关机",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.powercenter.bootshutdown.PowerShutdownOnTime"
+    },
+    {
+      "label": "应用管理",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$ManageApplicationsActivity"
+    },
+    {
+      "label": "隐私授权与撤回",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.privacy.PrivacyRevocationSettings"
+    },
+    {
+      "label": "有权查看使用情况的应用",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$UsageAccessSettingsActivity"
+    },
+    {
+      "label": "可修改系统设置",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$WriteSettingsActivity"
+    },
+    {
+      "label": "使用情况统计数据",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.UsageStatsActivity"
+    },
+    {
+      "label": "权限管理：允许安装未知应用",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$ManageExternalSourcesActivity"
+    },
+    {
+      "label": "权限管理：悬浮窗权限，显示在其他应用的上层",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$OverlaySettingsActivity"
+    },
+    {
+      "label": "通知使用权限",
+      "packageName": "com.android.settings",
+      "className": "om.android.settings.Settings$NotificationAccessSettingsActivity"
+    },
+    {
+      "label": "自启管理：管理你不需要的自启",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.permcenter.autostart.AutoStartManagementActivity"
+    },
+    {
+      "label": "联网设置：更省流量",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.networkassistant.ui.activity.FirewallActivity"
+    },
+    {
+      "label": "流量统计：历史流量记录",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.networkassistant.ui.activity.TrafficSortedActivity"
+    },
+    {
+      "label": "应用卸载",
+      "packageName": "com.miui.cleanmaster",
+      "className": "com.miui.optimizecenter.deepclean.installedapp.InstalledAppsActivity"
+    },
+    {
+      "label": "高级显示风格",
+      "packageName": "com.xiaomi.misettings",
+      "className": "com.xiaomi.misettings.display.ScreenExpertActivity"
+    },
+    {
+      "label": "防闪烁模式",
+      "packageName": "com.xiaomi.misettings",
+      "className": "com.xiaomi.misettings.display.AntiFlickerMode.AntiFlickerActivity"
+    },
+    {
+      "label": "经典护眼",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.display.ClassicProtectionActivity"
+    },
+    {
+      "label": "纸质护眼",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.display.PaperProtectionActivity"
+    },
+    {
+      "label": "谷歌服务",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.googlebase.ui.GmsCoreSettings"
+    },
+    {
+      "label": "手机瘦身",
+      "packageName": "com.miui.cleanmaster",
+      "className": "com.miui.optimizecenter.deepclean.DeepCleanActivity"
+    },
+    {
+      "label": "后台查杀：管理正在运行的服务",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.optimizemanage.OptimizemanageMainActivity"
+    },
+    {
+      "label": "保护套开关",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.MiuiSmartCoverGuideActivity"
+    },
+    {
+      "label": "设备使用时间提醒：只能一小时",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.usagestats.DeviceTimeoverActivity"
+    },
+    {
+      "label": "传送门设置",
+      "packageName": "com.miui.contentextension",
+      "className": "com.miui.contentextension.setting.MainSettingsActivity"
+    },
+    {
+      "label": "悬浮球设置",
+      "packageName": "com.miui.touchassistant",
+      "className": "com.miui.touchassistant.MainActivity"
+    },
+    {
+      "label": "设备解锁状态",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.bootloader.BootloaderStatusActivity"
+    },
+    {
+      "label": "网速测速：网速知多少！",
+      "packageName": "com.android.providers.downloads.ui",
+      "className": "com.android.networkspeed.TestSpeedActivity"
+    },
+    {
+      "label": "热点共享设置：精准限制",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.networkassistant.ui.activity.TetheringStatsSettingActivity"
+    },
+    {
+      "label": "网络调试：快速锁定2G/3G/4G服务",
+      "packageName": "com.android.phone",
+      "className": "com.android.phone.settings.PreferredNetworkTypeListPreference"
+    },
+    {
+      "label": "相册管理：清理和整理相册",
+      "packageName": "com.miui.gallery",
+      "className": "com.miui.gallery.activity.CleanerActivity"
+    },
+    {
+      "label": "USB挂载方式：选择USB连接电脑的方式",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.UsbSettings"
+    },
+    {
+      "label": "工厂模式：硬件检测",
+      "packageName": "com.huaqin.factory",
+      "className": "com.huaqin.factory.ControlCenterActivity"
+    },
+    {
+      "label": "3D Touch：该功能需要开启3D预加载",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.display.ForceTouchGuideActivity"
+    },
+    {
+      "label": "驾车模式设置",
+      "packageName": "com.xiaomi.drivemode",
+      "className": "com.xiaomi.drivemode.UserGuideActivity"
+    },
+    {
+      "label": "系统个性化广告设置",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.ad.AdServiceSettings"
+    }
+  ],
+  "android": [
+    {
+      "label": "通知日志：历史通知记录",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.notification.history.NotificationHistoryActivity"
+    },
+    {
+      "label": "多用户管理：安卓原生用户管理",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$UserSettingsActivity"
+    },
+    {
+      "label": "手机信息测试：SIM卡+WIFI检测",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$TestingSettingsActivity"
+    },
+    {
+      "label": "彩蛋玩耍：甜品盒",
+      "packageName": "com.android.systemui",
+      "className": "com.android.systemui.DessertCase"
+    },
+    {
+      "label": "彩蛋玩耍：直升机飞飞飞",
+      "packageName": "com.android.systemui",
+      "className": "com.android.systemui.egg.MLandActivity"
+    },
+    {
+      "label": "彩蛋玩耍：随意涂鸦",
+      "packageName": "com.android.egg",
+      "className": "com.android.egg.paint.PaintActivity"
+    },
+    {
+      "label": "权限管理：有权查看使用情况的应用",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$UsageAccessSettingsActivity"
+    },
+    {
+      "label": "权限管理：悬浮窗权限管理",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$OverlaySettingsActivity"
+    },
+    {
+      "label": "安卓系统文件管理器",
+      "packageName": "com.google.android.documentsui",
+      "className": "com.android.documentsui.files.FilesActivity"
+    },
+    {
+      "label": "系统内存使用情况",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$MemorySettingsActivity"
+    },
+    {
+      "label": "正在运行的服务：安卓原生的正在运行的服务",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.SubSettings",
+      "extra": "S.:settings:show_fragment_title=正在运行的服务_爱玩机工具箱\ni.:settings:source_metrics=39\ni.:android:show_fragment_title=-1\ni.:show_fragment_title_resid=-1\nS.:settings:show_fragment=com.android.settings.applications.RunningServices"
+    },
+    {
+      "label": "系统内存使用情况",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$AppMemoryUsageActivity"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="原生Xposed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/爱玩机/原生Xposed/xposed-magisk.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/原生Xposed/xposed-v87-v88.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Busybox_for_Android_NDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/爱玩机/Busybox_for_Android_NDK.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

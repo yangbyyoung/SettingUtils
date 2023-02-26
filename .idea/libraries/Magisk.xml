@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Magisk模块">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/Magisk-爱玩机扩展V19.02S.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/magisk_LSPosed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/EdXp三件套.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/安卓8.0Xposed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/ViPER4AndroidFXforMagiskv20.3_Viper4AndroidFX.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/LSP三件套.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/ViPER4AndroidFXforMagiskv20.2-_Viper4AndroidFX.zip!/" />
+      <root url="jar://$PROJECT_DIR$/爱玩机/Magisk模块/音量键极速救砖_五倍呵护版.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
