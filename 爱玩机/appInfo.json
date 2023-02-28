@@ -352,5 +352,13 @@
     "10086",
     "10086",
     "10086"
+  ],
+  "magiskModules": [
+    "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
+    "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
+  ],
+  "xposedModules": [
+    "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed.json",
+    "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed.json"
   ]
 }
