@@ -200,5 +200,19 @@
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz"
     ]
+  },
+  {
+    "fileName": "magiskModules",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
+    ]
+  },
+  {
+    "fileName": "xposedModules",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed.json",
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed.json"
+    ]
   }
 ]
