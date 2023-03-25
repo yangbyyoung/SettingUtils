@@ -1,6 +1,6 @@
 {
   "title": "测试公告",
   "summary": "这是一条公告",
-  "isQuery": false,
+  "isQuery": true,
   "intent": "https://www.coolapk.com/apk/com.byyoung.setting"
 }
