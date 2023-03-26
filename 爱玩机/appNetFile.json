@@ -188,6 +188,13 @@
     ]
   },
   {
+    "fileName": "vipInfo.json",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json"
+    ]
+  },
+  {
     "fileName": "authorInfo.json.gz",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/authorInfo.json.gz",
