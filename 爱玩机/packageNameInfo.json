@@ -861,6 +861,22 @@
     {
       "permissionName": "android.permission.READ_PRIVILEGED_PHONE_STATE",
       "label": "读取手机状态"
+    },
+
+
+    {
+      "permissionName": "miui.permission.READ_STEPS",
+      "label": "读取MIUI系统步数"
+    }, {
+      "permissionName": "miui.permission.WRITE_STEPS",
+      "label": "写入MIUI系统步数"
+    }, {
+      "permissionName": "android.permission.MODIFY_DAY_NIGHT_MODE",
+      "label": "调整、切换系统夜/白天模式"
+    },
+    {
+      "permissionName": "android.permission.READ_APN_SETTINGS",
+      "label": "读取VPN偏好设置"
     }
   ]
 }
