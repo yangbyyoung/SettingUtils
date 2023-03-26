@@ -853,6 +853,14 @@
     {
       "permissionName": "android.permission.MONITOR_LOCATION",
       "label": "监控当前位置"
+    },
+    {
+      "permissionName": "android.permission.DELETE_PACKAGES",
+      "label": "向系统申请卸载应用请求"
+    },
+    {
+      "permissionName": "android.permission.READ_PRIVILEGED_PHONE_STATE",
+      "label": "读取手机状态"
     }
   ]
 }
