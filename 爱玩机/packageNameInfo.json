@@ -61,6 +61,70 @@
       "appLabel": "Mircs"
     }
   ],
+  "splashAd": [
+    {
+      "packageName": "com.youku.phone",
+      "filePath": [
+        "/sdcard/Android/data/com.youku.phone/files/ad"
+      ]
+    },
+    {
+      "packageName": "com.ss.android.article.video",
+      "filePath": [
+        "/data/com.ss.android.article.video/files/splashCache"
+      ]
+    },
+    {
+      "packageName": "com.sina.weibo",
+      "filePath": [
+        "/data/com.sina.weibo/files/sina/weibo/.wbadcache"
+      ]
+    },
+    {
+      "packageName": "com.netease.mail",
+      "filePath": [
+        "/sdcard/Android/data/com.netease.mail/files/.autoClean"
+      ]
+    },
+    {
+      "packageName": "tv.danmaku.bili",
+      "filePath": [
+        "/data/tv.danmaku.bili/files/splash2"
+      ]
+    },
+    {
+      "packageName": "com.douban.frodo",
+      "filePath": [
+        "/data/com.douban.frodo/cache/douban_ad"
+      ]
+    },
+    {
+      "packageName": "com.bigsea.bsfilms",
+      "filePath": [
+        "/sdcard/Android/data/com.bigsea.bsfilms/files/Download",
+        "/data/com.bigsea.bsfilms/files"
+      ]
+    },
+    {
+      "packageName": "com.miui.systemAdSolution",
+      "filePath": [
+        "/sdcard/Android/data/com.miui.systemAdSolution/files/miad",
+        "/sdcard/miad"
+      ]
+    },
+    {
+      "packageName": "com.apkpure.aegon",
+      "filePath": [
+        "/data/com.apkpure.aegon/cache/splash"
+      ]
+    },
+    {
+      "packageName": "com.taobao.idlefish",
+      "filePath": [
+        "/sdcard/Android/data/com.taobao.idlefish/files/ad"
+      ]
+    }
+  ],
   "permissionInfo": [
     {
       "permissionName": "android.permission.android.permission.ACCESS_ALL_DOWNLOADS",
