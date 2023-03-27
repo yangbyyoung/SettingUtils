@@ -926,15 +926,15 @@
       "permissionName": "android.permission.READ_PRIVILEGED_PHONE_STATE",
       "label": "读取手机状态"
     },
-
-
     {
       "permissionName": "miui.permission.READ_STEPS",
       "label": "读取MIUI系统步数"
-    }, {
+    },
+    {
       "permissionName": "miui.permission.WRITE_STEPS",
       "label": "写入MIUI系统步数"
-    }, {
+    },
+    {
       "permissionName": "android.permission.MODIFY_DAY_NIGHT_MODE",
       "label": "调整、切换系统夜/白天模式"
     },
@@ -944,11 +944,23 @@
     },
     {
       "permissionName": "android.permission.INSTALL_SHORTCUT",
-      "label": "允许应用程序在设备主屏幕上创建快捷方式"
-    }
-  ,{
+      "label": "在设备主屏幕上创建快捷方式"
+    },
+    {
       "permissionName": "android.permission.SCHEDULE_EXACT_ALARM",
-      "label": "允许应用程序在特定的时间点进行精确的闹钟调度"
+      "label": "在特定的时间点进行精确的闹钟调度"
+    },
+    {
+      "permissionName": "android.permission.USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+      "label": "使用ICC(集成电路卡)认证与设备标识符一起进行身份验证"
+    },
+    {
+      "permissionName": "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE",
+      "label": "绑定通知监听器服务并接收通知的信息"
+    },
+    {
+      "permissionName": "android.permission.BIND_JOB_SERVICE",
+      "label": "绑定耗时服务并执行后台任务"
     }
   ]
 }
