@@ -2,5 +2,6 @@
   "title": "测试公告",
   "summary": "这是一条公告",
   "isQuery": false,
+  "allUser":false,
   "intent": "https://www.coolapk.com/apk/com.byyoung.setting"
 }
