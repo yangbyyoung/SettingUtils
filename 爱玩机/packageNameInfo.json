@@ -941,6 +941,14 @@
     {
       "permissionName": "android.permission.READ_APN_SETTINGS",
       "label": "读取VPN偏好设置"
+    },
+    {
+      "permissionName": "android.permission.INSTALL_SHORTCUT",
+      "label": "允许应用程序在设备主屏幕上创建快捷方式"
+    }
+  ,{
+      "permissionName": "android.permission.SCHEDULE_EXACT_ALARM",
+      "label": "允许应用程序在特定的时间点进行精确的闹钟调度"
     }
   ]
 }
