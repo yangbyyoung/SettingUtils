@@ -962,14 +962,10 @@
       "permissionName": "android.permission.BIND_JOB_SERVICE",
       "label": "绑定耗时服务并执行后台任务"
     },
-
-
-
     {
       "permissionName": "android.permission.READ_PHONE_STATE_REAL",
       "label": "读取手机状态"
     },
-
     {
       "permissionName": "android.permission.READ_CONTACTS_REAL",
       "label": "读取联系人列表"
@@ -982,6 +978,5 @@
       "permissionName": "android.permission.READ_CALENDAR_REAL",
       "label": "读取用户日历数据"
     }
-
   ]
 }
