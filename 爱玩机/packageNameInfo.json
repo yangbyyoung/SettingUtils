@@ -977,6 +977,26 @@
     {
       "permissionName": "android.permission.READ_CALENDAR_REAL",
       "label": "读取用户日历数据"
+    },
+    {
+      "permissionName": "android.permission.INSTALL_PACKAGES",
+      "label": "安装 APK 文件"
+    },
+    {
+      "permissionName": "android.permission.WRITE_USER_DICTIONARY",
+      "label": "向用户词典中写入新词"
+    },
+    {
+      "permissionName": "android.permission.READ_USER_DICTIONARY",
+      "label": "向用户词典读取新词"
+    },
+    {
+      "permissionName": "android.permission.GRANT_RUNTIME_PERMISSIONS",
+      "label": "在运行时授予其他应用程序权限"
+    },
+    {
+      "permissionName": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+      "label": "在用户不知情的情况下更新其他应用程序"
     }
   ]
 }
