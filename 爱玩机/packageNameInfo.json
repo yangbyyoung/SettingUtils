@@ -997,6 +997,10 @@
     {
       "permissionName": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
       "label": "在用户不知情的情况下更新其他应用程序"
+    },
+    {
+      "permissionName": "android.permission.HIDE_OVERLAY_WINDOWS",
+      "label": "用于在其他应用程序界面之上显示自定义的窗口"
     }
   ]
 }
