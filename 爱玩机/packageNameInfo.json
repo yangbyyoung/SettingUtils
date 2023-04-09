@@ -1001,6 +1001,10 @@
     {
       "permissionName": "android.permission.HIDE_OVERLAY_WINDOWS",
       "label": "用于在其他应用程序界面之上显示自定义的窗口"
+    },
+    {
+      "permissionName": "android.permission.ACCESS_RESTRICTED_SETTINGS",
+      "label": "访问被限制的设置"
     }
   ]
 }
