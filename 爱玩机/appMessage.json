@@ -1,7 +1,7 @@
 {
-  "title": "测试公告",
-  "summary": "这是一条公告",
-  "isQuery": false,
-  "allUser": false,
+  "title": "故障提示",
+  "summary": "近期收到部分用户反馈以下：\n1：应用无法登录操作服务器数据等？\n答：禁用所有模块重启系统排查是否因模块导致网络拦截异常！\n2：获取本地数据失败？\n答：尝试更新最新版客户端试试（点击关于我们，应用版本）",
+  "isQuery": true,
+  "allUser": true,
   "intent": "https://www.coolapk.com/apk/com.byyoung.setting"
 }
