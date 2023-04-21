@@ -242,5 +242,12 @@
       "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed.json",
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed.json"
     ]
+  },
+  {
+    "fileName": "paymentPic.zip",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/paymentPic.zip",
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/paymentPic.zip"
+    ]
   }
 ]
