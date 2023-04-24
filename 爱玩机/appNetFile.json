@@ -11,13 +11,29 @@
     ]
   },
   {
-    "fileName": "paymentPic.zip",
+    "fileName": "QQ_Pay.png",
     "fileUrl": [
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/paymentPic.zip",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/paymentPic.zip",
-      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/paymentPic.zip"
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/QQ_Pay.png",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/QQ_Pay.png",
+      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/QQ_Pay.png"
     ]
   },
+  {
+    "fileName": "WX_Pay.png",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/WX_Pay.png",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/WX_Pay.png",
+      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/WX_Pay.png"
+    ]
+  },
+  {
+  "fileName": "Zfb_Pay.png",
+  "fileUrl": [
+    "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/Zfb_Pay.png",
+    "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/Zfb_Pay.png",
+    "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA//paymentPic/Zfb_Pay.png"
+  ]
+},
   {
     "fileName": "音量键极速救砖_六倍呵护版.zip",
     "fileUrl": [
