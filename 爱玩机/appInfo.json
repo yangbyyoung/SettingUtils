@@ -400,5 +400,10 @@
   "magiskModules": [
     "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
     "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
+  ],
+  "proxyGithub": [
+    "https://hub.gitmirror.com",
+    "https://ghproxy.com",
+    "https://gh.api.99988866.xyz"
   ]
 }
