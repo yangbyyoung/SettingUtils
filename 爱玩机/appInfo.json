@@ -401,5 +401,7 @@
     "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
     "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
   ],
-  "proxyGithub": []
+  "proxyGithub": [
+    "https://ghproxy.com"
+  ]
 }
