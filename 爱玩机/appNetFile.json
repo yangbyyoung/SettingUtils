@@ -141,8 +141,8 @@
   {
     "fileName": "general.json",
     "fileUrl": [
-      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/zh-cn/general.json",
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json",
+      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/zh-cn/general.json",
       "https://jihulab.com/mercuryli/blocker-general-rules/-/raw/main/zh-cn/general.json"
     ]
   },
