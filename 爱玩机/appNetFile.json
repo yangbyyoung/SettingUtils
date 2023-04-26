@@ -278,8 +278,8 @@
   {
     "fileName": "magiskModules",
     "fileUrl": [
-      "ftp://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
-      "ftp://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
+      "file://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
+      "file://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
     ]
   },
   {
