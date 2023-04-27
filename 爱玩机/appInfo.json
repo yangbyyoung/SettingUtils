@@ -402,6 +402,7 @@
     "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
   ],
   "proxyGithub": [
-    "https://ghproxy.com"
+    "https://ghproxy.com",
+    "https://hub.gitmirror.com"
   ]
 }
