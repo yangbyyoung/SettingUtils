@@ -315,6 +315,20 @@
     ]
   },
   {
+    "fileName": "com.intent.get",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk",
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk"
+    ]
+  },
+  {
+    "fileName": "com.byyang.appmodify",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk",
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk"
+    ]
+  },
+  {
     "fileName": "com.modify.installer",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-安装器接管_com.modify.installer.apk",
@@ -328,7 +342,6 @@
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-MIUI高级设置_com.byyoung.miuisetting.apk"
     ]
   },
-
   {
     "fileName": "statusbar.lyric",
     "fileUrl": [
@@ -341,20 +354,6 @@
     "fileUrl": [
       "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•息_cn.aodlyric.xiaowine.apk",
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/墨•息_cn.aodlyric.xiaowine.apk"
-    ]
-  },
-  {
-    "fileName": "com.intent.get",
-    "fileUrl": [
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk",
-      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk"
-    ]
-  },
-  {
-    "fileName": "com.byyang.appmodify",
-    "fileUrl": [
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk",
-      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk"
     ]
   }
 ]
