@@ -131,6 +131,11 @@
       "className": "om.android.settings.Settings$NotificationAccessSettingsActivity"
     },
     {
+      "label": "通知样式",
+      "packageName": "com.miui.notification",
+      "className": "miui.notification.management.activity.NotificationDisplaySettingsActivity"
+    },
+    {
       "label": "自启管理：管理你不需要的自启",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.permcenter.autostart.AutoStartManagementActivity"
