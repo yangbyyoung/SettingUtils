@@ -2,12 +2,12 @@
   {
     "fileName": "爱玩机全机型兼容包.zip",
     "fileUrl": [
-      "https://wwgh.lanzouw.com/ipnEe0qzg4yb",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
+      "https://www.lanzoui.com/inmcG0u7mdpi",
       "https://www.123pan.com/s/DuvbVv-C40A3",
-      "https://wwgh.lanzouw.com/ipnEe0qzg4yb"
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK_New.zip",
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK_New.zip",
+      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK_New.zip",
+      "https://www.lanzoui.com/inmcG0u7mdpi"
     ]
   },
   {
@@ -51,14 +51,6 @@
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E9%9F%B3%E9%87%8F%E9%94%AE%E6%9E%81%E9%80%9F%E6%95%91%E7%A0%96_%E4%BA%94%E5%80%8D%E5%91%B5%E6%8A%A4%E7%89%88.zip",
       "https://www.lanzouw.com/iAxx008ty48j",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E9%9F%B3%E9%87%8F%E9%94%AE%E6%9E%81%E9%80%9F%E6%95%91%E7%A0%96_%E4%BA%94%E5%80%8D%E5%91%B5%E6%8A%A4%E7%89%88.zip"
-    ]
-  },
-  {
-    "fileName": "爱玩机-快捷捕抓.apk",
-    "fileUrl": [
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%88%B1%E7%8E%A9%E6%9C%BA-%E5%BF%AB%E6%8D%B7%E6%8D%95%E6%8A%93%E5%A2%9E%E5%BC%BA.apk",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%88%B1%E7%8E%A9%E6%9C%BA-%E5%BF%AB%E6%8D%B7%E6%8D%95%E6%8A%93%E5%A2%9E%E5%BC%BA.apk",
-      "https://wwp.lanzouw.com/iqora07rg07i"
     ]
   },
   {
@@ -123,34 +115,10 @@
     ]
   },
   {
-    "fileName": "statusbar.lyric.apk",
-    "fileUrl": [
-      "https://www.coolapk.com/apk/statusbar.lyric",
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E5%A2%A8%E2%80%A2%E7%8A%B6%E6%80%81%E6%A0%8F%E6%AD%8C%E8%AF%8D-statusbar.lyric.apk",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E5%A2%A8%E2%80%A2%E7%8A%B6%E6%80%81%E6%A0%8F%E6%AD%8C%E8%AF%8D-statusbar.lyric.apk"
-    ]
-  },
-  {
-    "fileName": "cn.aodlyric.xiaowine.apk",
-    "fileUrl": [
-      "https://www.coolapk.com/apk/cn.aodlyric.xiaowine",
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E5%A2%A8%E2%80%A2%E6%81%AF-cn.aodlyric.xiaowine.apk",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E5%A2%A8%E2%80%A2%E6%81%AF-cn.aodlyric.xiaowine.apk"
-    ]
-  },
-  {
     "fileName": "com.variable.apkhook.apk",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E6%BA%90%E8%AE%A1%E5%88%92-com.variable.apkhook.apk",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E6%BA%90%E8%AE%A1%E5%88%92-com.variable.apkhook.apk"
-    ]
-  },
-  {
-    "fileName": "general.json",
-    "fileUrl": [
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json",
-      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/zh-cn/general.json",
-      "https://jihulab.com/mercuryli/blocker-general-rules/-/raw/main/zh-cn/general.json"
     ]
   },
   {
@@ -340,6 +308,7 @@
   {
     "fileName": "cn.aodlyric.xiaowine",
     "fileUrl": [
+      "https://www.coolapk.com/apk/cn.aodlyric.xiaowine",
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/墨•息_cn.aodlyric.xiaowine.apk",
       "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•息_cn.aodlyric.xiaowine.apk"
     ]
