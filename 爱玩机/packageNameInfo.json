@@ -847,6 +847,10 @@
       "label": "读取剪贴板服务内容"
     },
     {
+      "permissionName": "android.permission.READ_CLIPBOARD_IN_BACKGROUND",
+      "label": "在后台读取剪贴板服务内容"
+    },
+    {
       "permissionName": "android.permission.TOAST_WINDOW",
       "label": "在屏幕上短时间显示消息"
     },

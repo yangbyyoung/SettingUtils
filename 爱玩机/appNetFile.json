@@ -172,13 +172,6 @@
     ]
   },
   {
-    "fileName": "payload-arm64",
-    "fileUrl": [
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/payload-arm64",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/payload-arm64"
-    ]
-  },
-  {
     "fileName": "payload_arm64",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/payload_arm64",
