@@ -10,5 +10,17 @@
         ]
       }
     ]
+  },
+  {
+    "moduleId": "zygisk_shamiko",
+    "versionInfo": [
+      {
+        "versionName": "v0.7-ksu-fix2 (KSU专用)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v0.7-ksu-fix2-141-release.zip",
+          "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v0.7-ksu-fix2-141-release.zip"
+        ]
+      }
+    ]
   }
 ]
