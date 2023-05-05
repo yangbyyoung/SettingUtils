@@ -306,8 +306,8 @@
       "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•息_cn.aodlyric.xiaowine.apk"
     ]
   },
-  {    "fileName": "versionConfig.json",
-
+  {
+    "fileName": "versionConfig.json",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/versionConfig.json",
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/versionConfig.json"
