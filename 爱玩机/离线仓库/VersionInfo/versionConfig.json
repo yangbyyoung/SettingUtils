@@ -22,5 +22,24 @@
         ]
       }
     ]
+  },
+  {
+    "moduleId": "chili.xposed.chimi",
+    "versionInfo": [
+      {
+        "versionName": "3.07.07 (MIUI12.5以下专用)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/chimi_12.5-.apk",
+          "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/chimi_12.5-.apk"
+        ]
+      },
+      {
+        "versionName": "5.60.28 (MIUI12.5-MIUI13.0专用)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/chimi_12.5-13.0.apk",
+          "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/chimi_12.5-13.0.apk"
+        ]
+      }
+    ]
   }
 ]
