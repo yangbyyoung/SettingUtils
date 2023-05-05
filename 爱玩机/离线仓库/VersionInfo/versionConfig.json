@@ -1,0 +1,14 @@
+[
+  {
+    "moduleId": "zygisk_lsposed",
+    "versionInfo": [
+      {
+        "versionName": "v1.8.6 (稳定版)",
+        "fileUrl": [
+          "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Zygisk-LSPosed_6712.zip",
+          "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Zygisk-LSPosed_6712.zip"
+        ]
+      }
+    ]
+  }
+]
