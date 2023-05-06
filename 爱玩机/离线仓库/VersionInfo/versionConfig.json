@@ -12,6 +12,18 @@
     ]
   },
   {
+    "moduleId": "riru_lsposed",
+    "versionInfo": [
+      {
+        "versionName": "v1.8.6 (稳定版)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/LSPosed-v1.8.6-6712-riru-release.zip",
+          "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/LSPosed-v1.8.6-6712-riru-release.zip"
+        ]
+      }
+    ]
+  },
+  {
     "moduleId": "zygisk_shamiko",
     "versionInfo": [
       {
