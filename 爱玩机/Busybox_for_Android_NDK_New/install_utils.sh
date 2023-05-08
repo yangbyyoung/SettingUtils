@@ -9,7 +9,7 @@ else
   filesDir=/data/user/$userId/${pkgName}/files
 fi
 installDir=$filesDir/busybox
-installCacheDir=$installDir/cache
+installCacheDir=$installDir/busybox/cache
 
 abi=$(getprop ro.product.cpu.abi)
 
