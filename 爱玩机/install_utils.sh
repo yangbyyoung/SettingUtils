@@ -3,24 +3,13 @@ userId="$2"
 if [ -z "$pkgName" ]; then
   pkgName="com.byyoung.setting"
 fi
-
 if [ -z "$userId" ]; then
-  filesPath=/data/data/${pkgName}/files
-  box_path=$filesPath/busybox
-  install_path=$filesPath/busybox
-  cache_path=$filesPath/busybox/cache
-  donatePic=${cache_path}/doantPic
-  pictures=${cache_path}/Pictures
-
+  filesDir=/data/data/${pkgName}/files
 else
-  filesPath=/data/user/$userId/${pkgName}/files
-  box_path=$filesPath/busybox
-  install_path=$filesPath/busybox
-  cache_path=$filesPath/busybox/cache
-  donatePic=${cache_path}/doantPic
-  pictures=${cache_path}/Pictures
-
+  filesDir=/data/user/$userId/${pkgName}/files
 fi
+installDir=$filesDir/busybox
+installCacheDir=$installDir/busybox/cache
 
 abi=$(getprop ro.product.cpu.abi)
 
@@ -35,79 +24,62 @@ mips*) ARCH=mips ;;
 esac
 
 if [[ "$ARCH" == arm64 ]]; then
-  busyboxpath=${cache_path}/busybox/busybox-arm64
-  adbpath=${cache_path}/adb/adb-arm
-  fastbootpath=${cache_path}/fastboot/fastboot-arm
+  busyBoxFile=${installCacheDir}/busybox/busybox-arm64
+  adbFile=${installCacheDir}/adb/adb-arm
+  fastBootFile=${installCacheDir}/fastboot/fastboot-arm
 
 elif [[ "$ARCH" == arm ]]; then
-  busyboxpath=${cache_path}/busybox/busybox-arm
-  adbpath=${cache_path}/adb/adb-arm
-  fastbootpath=${cache_path}/fastboot/fastboot-arm
+  busyBoxFile=${installCacheDir}/busybox/busybox-arm
+  adbFile=${installCacheDir}/adb/adb-arm
+  fastBootFile=${installCacheDir}/fastboot/fastboot-arm
 
 elif [[ "$ARCH" == x86_64 ]]; then
-  busyboxpath=${cache_path}/busybox/busybox-arm
-  adbpath=${cache_path}/adb/adb-x86
-  fastbootpath=${cache_path}/fastboot/fastboot-x86
+  busyBoxFile=${installCacheDir}/busybox/busybox-arm
+  adbFile=${installCacheDir}/adb/adb-x86
+  fastBootFile=${installCacheDir}/fastboot/fastboot-x86
 
 elif [[ "$ARCH" == x86 ]]; then
-  busyboxpath=${cache_path}/busybox/busybox-x86
-  adbpath=${cache_path}/adb/adb-x86
-  fastbootpath=${cache_path}/fastboot/fastboot-x86
-
-elif [[ "$ARCH" == mips64 ]]; then
-  busyboxpath=${cache_path}/busybox/busybox-mips
-  adbpath=${cache_path}/adb/adb-arm
-  fastbootpath=${cache_path}/fastboot/fastboot-arm
-
-elif [[ "$ARCH" == mips ]]; then
-  busyboxpath=${cache_path}/busybox-mips64
-  adbpath=${cache_path}/adb/adb-arm
-  fastbootpath=${cache_path}/fastboot/fastboot-arm
+  busyBoxFile=${installCacheDir}/busybox/busybox-x86
+  adbFile=${installCacheDir}/adb/adb-x86
+  fastBootFile=${installCacheDir}/fastboot/fastboot-x86
 
 else
-  busyboxpath=${cache_path}/busybox/busybox-arm64
-  adbpath=${cache_path}/adb/adb-arm
-  fastbootpath=${cache_path}/fastboot/fastboot-arm
+  busyBoxFile=${installCacheDir}/busybox/busybox-arm64
+  adbFile=${installCacheDir}/adb/adb-arm
+  fastBootFile=${installCacheDir}/fastboot/fastboot-arm
   echo "Unknown!"
-
 fi
 
-chmod -R 0777 "${busyboxpath}"
-chmod -R 0777 "${adbpath}"
-chmod -R 0777 "${fastbootpath}"
+chmod -R 0777 "${busyBoxFile}"
+chmod -R 0777 "${adbFile}"
+chmod -R 0777 "${fastBootFile}"
 
-cp -p -r "${donatePic}" "$filesPath"
-cp -p -r "${pictures}" "$filesPath"
-cp -p -r "${adbpath}" "${box_path}"/adb
-cp -p -r "${fastbootpath}" "${box_path}"/fastboot
-cp -p -r "${cache_path}"/others/* "${box_path}"
+cp -p -r "${adbFile}" "${installDir}"/adb
+cp -p -r "${fastBootFile}" "${installDir}"/fastboot
+cp -p -r "${installCacheDir}"/others/* "${installDir}"
 
-function busybox_install() {
-  systemBinPath=/system/bin
-  busyboxPath="${install_path}"/busybox
-  chmod 0777 "${busyboxPath}"
-  ${busyboxPath} --install -s ${install_path}
-  for file in $(ls ${systemBinPath}); do
-    if [ "$file" != "unzip" ] && [ "$file" != "zip" ] && [ "$file" != "busybox" ] && [ "$file" != "tar" ]; then
-      [ ! -L ${systemBinPath}/$file ] && rm -rf $install_path/$file 2>/dev/null
-    fi
-
+if [ -f "$busyBoxFile" ]; then
+  chmod -R 0777 "$busyBoxFile"
+  cp -p -r "$busyBoxFile" "${installDir}"/busybox
+  cd "${installDir}" || exit 127
+  for applet in $($busyBoxFile --list); do
+    case "$applet" in
+    "sh" | "busybox" | "svc" | "date")
+      echo 'Skip' >/dev/null
+      ;;
+    *)
+      $busyBoxFile ln -sf busybox "$applet"
+      ;;
+    esac
   done
-}
-if [ ! "$install_path" == "" ]; then
-  mkdir -p "${install_path}"
-  cp -p -r "${busyboxpath}" "${install_path}"/busybox
-  cd "$install_path" || exit 127
-  if [[ -f busybox ]]; then
-    busybox_install
-  fi
+  echo '' >busybox_installed
+
 else
   echo "获取BusyBox路径异常" 1>&2
   exit 127
 
 fi
 
-chmod -R 0777 ${box_path}/*
-chmod -R 0777 ${filesPath}/*
-
-rm -rf "${cache_path}"
+chmod -R 0777 "${filesDir}"/*
+chmod -R 0777 "${installDir}"/*
+rm -rf "${installCacheDir}"
