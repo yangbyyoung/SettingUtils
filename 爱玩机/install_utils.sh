@@ -88,7 +88,7 @@ function busybox_install() {
   chmod 0777 "${busyboxPath}"
   ${busyboxPath} --install -s ${install_path}
   for file in $(ls ${systemBinPath}); do
-    if [ "$file" != "unzip" ] && [ "$file" != "busybox" ] && [ "$file" != "tar" ]; then
+    if [ "$file" != "unzip" ] && [ "$file" != "zip" ] && [ "$file" != "busybox" ] && [ "$file" != "tar" ]; then
       [ ! -L ${systemBinPath}/$file ] && rm -rf $install_path/$file 2>/dev/null
     fi
 
@@ -111,5 +111,3 @@ chmod -R 0777 ${box_path}/*
 chmod -R 0777 ${filesPath}/*
 
 rm -rf "${cache_path}"
-
-
