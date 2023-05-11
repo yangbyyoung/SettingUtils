@@ -41,19 +41,6 @@
   {
     "ModulesVersion": "19.0",
     "UpdateType": "Stable",
-    "cloudModuleAuditTime": "2022-10-31 00:00:00",
-    "color": "MD2_Rest",
-    "notificationQuery": false,
-    "peopleHasMembers": 995,
-    "updatelog": "模块仓库优化，新增模块锁，被锁模块只能下载不提供上传服务\n修复应用联网概率性出现获取本地时间失败异常\n合并应用模块版本与magisk助手功能\n修复magisk助手唤醒输入法概率性遮挡问题\n修复应用缓存清理概率加载后崩溃\n重做夜间模式紫色主题\n重做应用权限管理页面，点击开关可快速授权，点击其他地方可单独唤醒该权限的其他设定，例如仅在使用时允许\n重做仓库页面，修复部分模块详情过多导致滑动卡顿\n优化模块仓库排序逻辑，避免部分情况下概率性数据错乱\n本次补偿码：8f013b1742",
-    "version": "S-22.0.6.0",
-    "createdAt": "2023-04-19 21:37:46",
-    "objectId": "7f3689d9c8",
-    "updatedAt": "2023-04-19 21:37:46"
-  },
-  {
-    "ModulesVersion": "19.0",
-    "UpdateType": "Stable",
     "UpdateTypeLabel": "稳定版(Stable)",
     "cloudModuleAuditTime": "2022-10-31 00:00:00",
     "color": "MD2_Rest",
