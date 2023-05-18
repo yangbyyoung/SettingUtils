@@ -278,6 +278,11 @@
       "className": "com.android.settings.Settings$TestingSettingsActivity"
     },
     {
+      "label": "极暗模式",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$ReduceBrightColorsSettingsActivity"
+    },
+    {
       "label": "彩蛋玩耍：甜品盒",
       "packageName": "com.android.systemui",
       "className": "com.android.systemui.DessertCase"
