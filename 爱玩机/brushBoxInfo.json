@@ -129,6 +129,10 @@
   ],
   "原生类ROM，部分弃更,部分下载需要梯子": [
     {
+      "title": "Lineage OS",
+      "data": "https://download.lineageos.org"
+    },
+    {
       "title": "AICP OS",
       "data": "https://dwnld.aicp-rom.com/"
     },
@@ -163,10 +167,6 @@
     {
       "title": "DarkNess OS",
       "data": "https://sourceforge.net/projects/teamdarkness/files"
-    },
-    {
-      "title": "Lineage OS",
-      "data": "https://download.lineageos.org"
     },
     {
       "title": "魔趣(Mokee) ROM",
