@@ -1,7 +1,7 @@
 {
   "分区功能": [
     {
-      "title": "刷机工具",
+      "title": "镜像快速管理",
       "summary": "Rec/Boot备份与恢复",
       "key": "flashImage"
     },
