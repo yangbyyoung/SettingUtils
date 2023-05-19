@@ -294,8 +294,8 @@
   {
     "fileName": "statusbar.lyric",
     "fileUrl": [
-      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/墨•状态栏歌词_statusbar.lyric.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•状态栏歌词_statusbar.lyric.apk"
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/墨•状态栏歌词_miui.statusbar.lyric.apk",
+      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•状态栏歌词_miui.statusbar.lyric.apk"
     ]
   },
   {
@@ -310,7 +310,14 @@
     "fileName": "versionConfig.json",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/versionConfig.json",
-      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/versionConfig.json"
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/versionConfig.json"
+    ]
+  },
+  {
+    "fileName": "jsonConfigure/brushBoxInfo.json",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json"
     ]
   }
 ]
