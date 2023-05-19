@@ -72,16 +72,8 @@
       "data": "https://roms.miuier.com"
     },
     {
-      "title": "中国线刷包下载",
-      "data": "http://www.miui.com/shuaji-393.html"
-    },
-    {
       "title": "波兰版",
       "data": "https://miuipolska.pl/download"
-    },
-    {
-      "title": "国际卡刷/线刷包",
-      "data": "https://c.mi.com/thread-2265065-1-0.html"
     }
   ],
   "Flyme资源": [
@@ -145,17 +137,8 @@
       "data": "http://aokp.co/devices/#_motz_"
     },
     {
-      "title": "AOSP OS",
-      "summary": "AEX OS",
-      "data": "https://downloads.aospextended.com/"
-    },
-    {
       "title": "Atomic OS",
       "data": "https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/"
-    },
-    {
-      "title": "Baikal OS",
-      "data": "https://dl.baikalos.ru/"
     },
     {
       "title": "Carbonrom ROM",
@@ -174,20 +157,12 @@
       "data": "https://cosmic-os.github.io/devices.html"
     },
     {
-      "title": "Cypher OS",
-      "data": "http://get.cypheros.co/"
-    },
-    {
       "title": "dot OS",
       "data": "https://www.droidontime.com/"
     },
     {
       "title": "DarkNess OS",
-      "data": "http://t.cn/ROCxTcm"
-    },
-    {
-      "title": "Havoc OS",
-      "data": "https://sourceforge.net/projects/havoc-os/files/?source=navbar"
+      "data": "https://sourceforge.net/projects/teamdarkness/files"
     },
     {
       "title": "Lineage OS",
@@ -202,10 +177,6 @@
       "data": "https://sourceforge.net/projects/nitrogen-project/files"
     },
     {
-      "title": "Omni ROM",
-      "data": "https://www.omnirom.org/devices"
-    },
-    {
       "title": "Pixel Experience",
       "data": "https://download.pixelexperience.org/"
     },
@@ -214,12 +185,8 @@
       "data": "https://sourceforge.net/projects/posp/files/?source=navbar"
     },
     {
-      "title": "Revenge OS",
-      "data": "https://get.revengeos.com/"
-    },
-    {
       "title": "Slim OS",
-      "data": "http://t.cn/RCUc8Nq"
+      "data": "https://slimroms.org"
     }
   ],
   "交流论坛": [
@@ -238,10 +205,6 @@
     {
       "title": "XDA",
       "data": "https://www.xda-developers.com/"
-    },
-    {
-      "title": "手机发烧友",
-      "data": "https://bbs.htcui.com/forum.php"
     },
     {
       "title": "TWRP",
