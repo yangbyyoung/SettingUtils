@@ -1,7 +1,7 @@
 {
-  "title": "故障提示",
-  "summary": "近期收到部分用户反馈以下：\n1：应用无法登录操作服务器数据等？\n答：禁用所有模块重启系统排查是否因模块导致网络拦截异常！\n2：获取本地数据失败？\n答：尝试更新最新版客户端试试（点击关于我们，应用版本）",
-  "isQuery": false,
+  "title": "入群通知",
+  "summary": "为更好的交流与反馈，我们已放弃交流群讨论，如有需求可前往频道交流，新频道通知：https://pd.qq.com/s/g0y0p9s02",
+  "isQuery": true,
   "allUser": true,
-  "intent": "https://www.coolapk.com/apk/com.byyoung.setting"
+  "intent": "https://pd.qq.com/s/g0y0p9s02"
 }
