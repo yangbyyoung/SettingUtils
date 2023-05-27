@@ -269,6 +269,10 @@
       "className": "com.android.settings.notification.history.NotificationHistoryActivity"
     },
     {
+      "label": "系统默认设置",
+      "action":"android.settings.MANAGE_DEFAULT_APPS_SETTINGS"
+    },
+    {
       "label": "多用户管理：安卓原生用户管理",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$UserSettingsActivity"
