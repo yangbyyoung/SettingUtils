@@ -270,7 +270,8 @@
     },
     {
       "label": "默认应用程序设置",
-      "action":"android.settings.MANAGE_DEFAULT_APPS_SETTINGS"
+      "packageName": "com.android.permissioncontroller",
+      "className": "com.android.permissioncontroller.role.ui.DefaultAppListActivity"
     },
     {
       "label": "多用户管理：安卓原生用户管理",
