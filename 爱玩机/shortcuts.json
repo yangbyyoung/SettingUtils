@@ -269,7 +269,7 @@
       "className": "com.android.settings.notification.history.NotificationHistoryActivity"
     },
     {
-      "label": "系统默认设置",
+      "label": "默认应用程序设置",
       "action":"android.settings.MANAGE_DEFAULT_APPS_SETTINGS"
     },
     {
