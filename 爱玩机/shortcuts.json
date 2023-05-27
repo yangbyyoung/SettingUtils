@@ -177,6 +177,7 @@
     },
     {
       "label": "谷歌服务",
+      "action":"miui.intent.action.APP_SETTINGS",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.googlebase.ui.GmsCoreSettings"
     },
