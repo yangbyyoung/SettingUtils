@@ -245,15 +245,15 @@
   {
     "fileName": "magiskModules",
     "fileUrl": [
-      "file://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
-      "file://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
+      "https\\gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk.json",
+      "https\\raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk.json"
     ]
   },
   {
     "fileName": "xposedModules",
     "fileUrl": [
-      "ftp://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed.json",
-      "ftp://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed.json"
+      "https\\gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed.json",
+      "https\\raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed.json"
     ]
   },
   {
