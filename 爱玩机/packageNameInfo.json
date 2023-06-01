@@ -93,6 +93,12 @@
       ]
     },
     {
+      "packageName": "com.netease.cloudmusic",
+      "filePath": [
+        "/sdcard/Android/data/com.netease.cloudmusic/cache/Ad"
+      ]
+    },
+    {
       "packageName": "tv.danmaku.bili",
       "filePath": [
         "/data/tv.danmaku.bili/files/splash2"
