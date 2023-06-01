@@ -37,6 +37,10 @@
       "appLabel": "邮箱"
     },
     {
+      "packageName": "com.duokan.reader",
+      "appLabel": "多看阅读"
+    },
+    {
       "packageName": "com.xiaomi.gamecenter",
       "appLabel": "游戏中心"
     },
