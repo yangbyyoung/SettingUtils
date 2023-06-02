@@ -1,6 +1,6 @@
 {
   "title": "入群通知",
-  "summary": "为更好的交流与反馈，我们已放弃交流群讨论，如有需求可前往频道交流，新频道通知：https://pd.qq.com/s/g0y0p9s02\n\n服务器是好的，出现SSL异常自行禁用所有模块排查模块问题，请勿重复反馈！",
+  "summary": "为更好的交流与反馈，如有需求可前往频道交流，新频道通知：https://pd.qq.com/s/g0y0p9s02\n\n服务器是好的，出现SSL异常自行禁用所有模块排查模块问题，请勿重复反馈！",
   "isQuery": false,
   "allUser": true,
   "intent": "https://pd.qq.com/s/g0y0p9s02"
