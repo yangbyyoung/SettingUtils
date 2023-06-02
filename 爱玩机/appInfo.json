@@ -280,7 +280,7 @@
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
   "packageName": "com.byyoung.setting",
   "newDomain": [
-    "https://api.pjnoeru.top",
+    "http://api.byyang.top",
     "https://api.pjnoeru.top"
   ],
   "safeStatus": true,
