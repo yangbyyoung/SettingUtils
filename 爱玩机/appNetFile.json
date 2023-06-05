@@ -158,6 +158,13 @@
     ]
   },
   {
+    "fileName": "appInfo_new.json",
+    "fileUrl": [
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo_new.json",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo_new.json"
+    ]
+  },
+  {
     "fileName": "appHelper.json",
     "fileUrl": [
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
