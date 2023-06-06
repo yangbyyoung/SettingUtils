@@ -9,6 +9,10 @@
       "appLabel": "小米视频"
     },
     {
+      "packageName": "com.mfashiongallery.emag",
+      "appLabel": "小米画报"
+    },
+    {
       "packageName": "com.miui.bugreport",
       "appLabel": "问题反馈"
     },
