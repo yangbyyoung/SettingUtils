@@ -145,7 +145,9 @@
     "0FFAEF7E94657B33A320CFEF1F46D20B",
     "C28670FC0956C35955220C5493E45880",
     "A3D8D9F953E8EAC779B481D04FB92CB2",
-    "B74898F8D83740B3F5A5350743AA3D3C"
+    "B74898F8D83740B3F5A5350743AA3D3C",
+    "FFA4688C3D72902388F76641FE4A7D43",
+    "A69F90801D4A2EBD0BBCE72155D2BEC0"
   ],
   "blackModuleNameList": [
     "Pangu",
@@ -311,8 +313,8 @@
     "com.intent.get": 5653,
     "com.byyoung.miuisetting": 6543,
     "com.byyang.appmodify": 4465,
-    "statusbar.lyric":17045,
-    "cn.aodlyric.xiaowine":10004,
+    "statusbar.lyric": 17045,
+    "cn.aodlyric.xiaowine": 10004,
     "chili.xposed.chimi": 146532,
     "com.sevtinge.cemiuiler": 8145,
     "name.monwf.customiuizer": 145065,
