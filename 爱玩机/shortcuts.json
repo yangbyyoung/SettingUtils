@@ -61,7 +61,7 @@
       "className": "com.android.settings.fuelgauge.PowerModeSettings"
     },
     {
-      "label": "电池信息：查看电池状态",
+      "label": "电池信息[MIUI]：查看电池状态",
       "packageName": "com.android.settings",
       "className": "com.android.settings.BatteryInfo"
     },
@@ -86,12 +86,12 @@
       "className": "com.android.settings.fuelgauge.BatteryIndicatorStyle"
     },
     {
-      "label": "定时开关机",
+      "label": "定时开关机[MIUI]",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.powercenter.bootshutdown.PowerShutdownOnTime"
     },
     {
-      "label": "应用管理",
+      "label": "应用管理[MIUI]",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$ManageApplicationsActivity"
     },
@@ -101,12 +101,12 @@
       "className": "com.android.settings.privacy.PrivacyRevocationSettings"
     },
     {
-      "label": "有权查看使用情况的应用",
+      "label": "有权查看使用情况的应用[MIUI]",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$UsageAccessSettingsActivity"
     },
     {
-      "label": "可修改系统设置",
+      "label": "可修改系统设置[MIUI]",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$WriteSettingsActivity"
     },
@@ -116,17 +116,17 @@
       "className": "com.android.settings.UsageStatsActivity"
     },
     {
-      "label": "权限管理：允许安装未知应用",
+      "label": "权限管理[MIUI]：允许安装未知应用",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$ManageExternalSourcesActivity"
     },
     {
-      "label": "权限管理：悬浮窗权限，显示在其他应用的上层",
+      "label": "权限管理[MIUI]：悬浮窗权限，显示在其他应用的上层",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$OverlaySettingsActivity"
     },
     {
-      "label": "通知使用权限",
+      "label": "通知使用权限[MIUI]",
       "packageName": "com.android.settings",
       "className": "om.android.settings.Settings$NotificationAccessSettingsActivity"
     },
@@ -136,7 +136,7 @@
       "className": "miui.notification.management.activity.NotificationDisplaySettingsActivity"
     },
     {
-      "label": "自启管理：管理你不需要的自启",
+      "label": "自启管理[MIUI]：管理你不需要的自启",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.permcenter.autostart.AutoStartManagementActivity"
     },
@@ -151,7 +151,7 @@
       "className": "com.miui.networkassistant.ui.activity.TrafficSortedActivity"
     },
     {
-      "label": "应用卸载",
+      "label": "应用卸载[MIUI]",
       "packageName": "com.miui.cleanmaster",
       "className": "com.miui.optimizecenter.deepclean.installedapp.InstalledAppsActivity"
     },
@@ -187,7 +187,7 @@
       "className": "com.miui.optimizecenter.deepclean.DeepCleanActivity"
     },
     {
-      "label": "后台查杀：管理正在运行的服务",
+      "label": "后台查杀[MIUI]：管理正在运行的服务",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.optimizemanage.OptimizemanageMainActivity"
     },
@@ -264,22 +264,22 @@
   ],
   "android": [
     {
-      "label": "通知日志：历史通知记录",
+      "label": "通知日志[原生]：历史通知记录",
       "packageName": "com.android.settings",
       "className": "com.android.settings.notification.history.NotificationHistoryActivity"
     },
     {
-      "label": "默认应用程序设置",
+      "label": "默认应用程序设置[原生]",
       "packageName": "com.android.permissioncontroller",
       "className": "com.android.permissioncontroller.role.ui.DefaultAppListActivity"
     },
     {
-      "label": "多用户管理：安卓原生用户管理",
+      "label": "多用户管理[原生]：安卓原生用户管理",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$UserSettingsActivity"
     },
     {
-      "label": "手机信息测试：SIM卡+WIFI检测",
+      "label": "手机信息测试[原生]：SIM卡+WIFI检测",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$TestingSettingsActivity"
     },
@@ -304,12 +304,12 @@
       "className": "com.android.egg.paint.PaintActivity"
     },
     {
-      "label": "权限管理：有权查看使用情况的应用",
+      "label": "权限管理[原生]：有权查看使用情况的应用",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$UsageAccessSettingsActivity"
     },
     {
-      "label": "权限管理：悬浮窗权限管理",
+      "label": "权限管理[原生]：悬浮窗权限管理",
       "packageName": "com.android.settings",
       "className": "com.android.settings.Settings$OverlaySettingsActivity"
     },
