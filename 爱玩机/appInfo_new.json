@@ -302,6 +302,10 @@
   ],
   "safeStatus": true,
   "buildTimeMillis": 0,
+  "viewSkipAds": [
+    "com.qihoo.appstore"
+  ],
+
   "downloadCount": {
     "RescueBrick": 207995,
     "WorkSettingPro": 103454,
