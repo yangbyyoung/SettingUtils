@@ -165,8 +165,8 @@
     "C261A21FB947A6F0BA70851C5FF8B2EA",
     "A4D2A7BA222181D55B5F84A3CA3207D2",
     "342FEB9DA68A1DB56C1D5A6B5EDD58E5",
-    "0998CE279A7B42F4CFA1C62F079865BE"
-
+    "0998CE279A7B42F4CFA1C62F079865BE",
+    "88F655FA2B2F906D911830F32B040626"
   ],
   "blackModuleNameList": [
     "Pangu",
@@ -312,7 +312,13 @@
   "viewSkipAds": [
     "com.qihoo.appstore"
   ],
-
+  "keyWordSkipAds": [
+    {
+      "关闭": [
+        "org.qiyi.android.video.MainActivity"
+      ]
+    }
+  ],
   "downloadCount": {
     "RescueBrick": 207995,
     "WorkSettingPro": 103454,
@@ -380,7 +386,6 @@
         ]
       }
     ],
-
     "chili.xposed.chimi": [
       {
         "versionName": "3.07.07 (MIUI12.5以下专用)",
