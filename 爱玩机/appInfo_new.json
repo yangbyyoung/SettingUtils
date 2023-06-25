@@ -312,13 +312,9 @@
   "viewSkipAds": [
     "com.qihoo.appstore"
   ],
-  "keyWordSkipAds": [
-    {
-      "关闭": [
-        "org.qiyi.android.video.MainActivity"
-      ]
-    }
-  ],
+  "keyWordSkipAds": {
+    "org.qiyi.android.video.MainActivity": "关闭"
+  },
   "downloadCount": {
     "RescueBrick": 207995,
     "WorkSettingPro": 103454,
