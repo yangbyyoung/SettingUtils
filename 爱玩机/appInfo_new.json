@@ -310,11 +310,13 @@
   "safeStatus": true,
   "buildTimeMillis": 0,
   "viewSkipAds": [
-    "com.qihoo.appstore"
+    "com.qihoo.appstore",
+    "com.kele.chatgpt4"
   ],
   "keyWordSkipAds": {
     "org.qiyi.android.video.MainActivity": "关闭"
   },
+
   "downloadCount": {
     "RescueBrick": 207995,
     "WorkSettingPro": 103454,
