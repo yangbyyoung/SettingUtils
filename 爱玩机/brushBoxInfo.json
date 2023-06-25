@@ -212,10 +212,12 @@
     },
     {
       "title": "TWRP",
+      "summary": "TWRP官网地址",
       "data": "https://twrp.me/Devices/"
     },
     {
       "title": "Magisk",
+      "summary": "Xda交流专区",
       "data": "https://forum.xda-developers.com/apps/magisk"
     }
   ]
