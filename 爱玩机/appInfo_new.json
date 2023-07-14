@@ -183,7 +183,9 @@
     "354B8D8628ADA3EC65754EDBB45CD1D9",
     "646AB48070488312C75AACA2B4B56B49",
     "B5368494B473EDBAE3516E2916FDF7C6",
-    "840C972272D0A4B99EA1BD5560485C14"
+    "840C972272D0A4B99EA1BD5560485C14",
+    "FC477A0BBC70DF7A3CD6484BEABFC2D7",
+    "55C7353D3EAAB316DC77646D74653230"
   ],
   "blackModuleNameList": [
     "Pangu",
@@ -325,7 +327,6 @@
         ]
       }
     ],
-
     "AdGuardHome": [
       {
         "versionName": "20230712 (主文件升级)",
@@ -335,9 +336,6 @@
         ]
       }
     ],
-
-
-
     "com.modify.installer": [
       {
         "versionName": "v22 (带设置功能)",
