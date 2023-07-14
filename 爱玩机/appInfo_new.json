@@ -227,7 +227,9 @@
     "@int萌新很新",
     "riru-core",
     "safetynet-fix",
-    "zygisksu"
+    "zygisksu",
+    "ad-wars",
+    "AdGuardHome"
   ],
   "blackIpAddress": [
   ],
