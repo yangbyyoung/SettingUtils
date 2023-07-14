@@ -323,6 +323,19 @@
         ]
       }
     ],
+
+    "AdGuardHome": [
+      {
+        "versionName": "20230712 (主文件升级)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/AdHome for Magisk（升级主文件）_2023071",
+          "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/AdHome for Magisk（升级主文件）_2023071"
+        ]
+      }
+    ],
+
+
+
     "com.modify.installer": [
       {
         "versionName": "v22 (带设置功能)",
