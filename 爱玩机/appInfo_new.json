@@ -189,7 +189,6 @@
     "060F3E952669928BF4DDDB518FA02099",
     "9F3ECEE266D1B574DCCFDFA683ACF5D2",
     "16E58A2B17CFE803C66FC5AD82EDD027",
-    "881C185E7C1E463D86CBD1D370DFBB92",
     "1C2E628C008A71ECC3DCCD52103727AF",
     "C21EF3AEBAEA37959DC908553BF3B93E",
     "F360773D6270E7C906CF016495F5D9A4",
@@ -266,6 +265,7 @@
   ],
   "telegramChannel": "https://t.me/aiwanji",
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
+
   "packageName": "com.byyoung.setting",
   "newDomain": [
     "https://api.byyang.top",
