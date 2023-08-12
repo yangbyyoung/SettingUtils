@@ -283,6 +283,7 @@
     "https://api.pjnoeru.top"
   ],
   "safeStatus": true,
+  "loadModules": false,
   "buildTimeMillis": 0,
   "viewSkipAds": [
     "com.qihoo.appstore",
