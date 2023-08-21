@@ -288,7 +288,7 @@
   "packageName": "com.byyoung.setting",
   "newDomain": [
     "http://wuxiago.ej618.cn",
-    "https://api.pjnoeru.top"
+    "http://wuxiago.ej618.cn"
   ],
   "safeStatus": true,
   "loadModules": true,
