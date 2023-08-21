@@ -1,7 +1,7 @@
 {
-  "title": "版本通知",
-  "summary": "如出现捐赠订单只能提交个位数，请使用修复版链接：https://www.lanzoui.com/iiQP114k8c4f",
-  "isQuery": false,
+  "title": "异常通知",
+  "summary": "由于国内服务器太烂被攻击，我们暂时将服务器迁移到国外，如果遇到不能联网可尝试科学上网/今入我的资产页面，软件会尽量切换到合适您的服务器！",
+  "isQuery": true,
   "allUser": true,
-  "intent": "https://www.lanzoui.com/iiQP114k8c4f"
+  "intent": ""
 }
