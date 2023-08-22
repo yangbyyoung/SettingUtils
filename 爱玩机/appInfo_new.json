@@ -291,8 +291,8 @@
     "https://api.byyang.top",
     "https://api.pjnoeru.top"
   ],
-  "safeStatus": true,
-  "loadModules": true,
+  "safeStatus": false,
+  "loadModules": false,
   "buildTimeMillis": 0,
   "viewSkipAds": [
     "com.qihoo.appstore",
