@@ -316,8 +316,8 @@
   {
     "fileName": "com.modify.installer",
     "fileUrl": [
-      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-安装器接管_com.modify.installer.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-安装器接管_com.modify.installer.apk"
+      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-安装卸载器接管_com.modify.installer.apk",
+      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-安装卸载器接管_com.modify.installer.apk"
     ]
   },
   {
