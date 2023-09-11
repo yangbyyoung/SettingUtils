@@ -322,7 +322,9 @@
     "com.kele.chatgpt4"
   ],
   "keyWordSkipAds": {
+    "org.qiyi.android.video.MainActivity": "关闭",
     "org.qiyi.android.video.MainActivity": "关闭"
+
   },
   "downloadCount": {
     "RescueBrick": 207995,
