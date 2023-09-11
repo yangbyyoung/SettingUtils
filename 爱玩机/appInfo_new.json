@@ -311,7 +311,7 @@
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
   "packageName": "com.byyoung.setting",
   "newDomain": [
-    "http://lhs.ibadboy.net",
+    "https://api.byyang.top",
     "https://api.pjnoeru.top"
   ],
   "safeStatus": false,
@@ -322,9 +322,7 @@
     "com.kele.chatgpt4"
   ],
   "keyWordSkipAds": {
-    "org.qiyi.android.video.MainActivity": "关闭",
     "org.qiyi.android.video.MainActivity": "关闭"
-
   },
   "downloadCount": {
     "RescueBrick": 207995,
