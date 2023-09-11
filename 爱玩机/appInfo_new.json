@@ -226,7 +226,8 @@
     "41FA1EB8A83385715AD9E2781B742222",
     "F6FC248B6D44B2F19717E624FECB9416",
     "8B7BDBECBA957607C50B3986B3C70D2E",
-    "3E2BDC24329D769EA6DFDB4F4EE66687"
+    "3E2BDC24329D769EA6DFDB4F4EE66687",
+    "99DE1D487D29013D225C5B2477D38CBA"
   ],
   "blackModuleNameList": [
     "Pangu",
@@ -299,6 +300,13 @@
     "https://ghproxy.com",
     "https://hub.gitmirror.com"
   ],
+  "notificationInfo": {
+    "title": "异常通知",
+    "summary": "由于国内服务器太烂被攻击，我们暂时将服务器迁移到国外，如果遇到不能联网可尝试科学上网/进入我的资产页面，软件会尽量切换到合适您的服务器！",
+    "isQuery": false,
+    "allUser": false,
+    "intent": ""
+  },
   "telegramChannel": "https://t.me/aiwanji",
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
   "packageName": "com.byyoung.setting",
