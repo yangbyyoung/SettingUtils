@@ -227,7 +227,8 @@
     "F6FC248B6D44B2F19717E624FECB9416",
     "8B7BDBECBA957607C50B3986B3C70D2E",
     "3E2BDC24329D769EA6DFDB4F4EE66687",
-    "99DE1D487D29013D225C5B2477D38CBA"
+    "99DE1D487D29013D225C5B2477D38CBA",
+    "F0A0ADD23C55A293759AD5DAA43FED5D"
   ],
   "blackModuleNameList": [
     "Pangu",
@@ -273,7 +274,10 @@
     "safetynet-fix",
     "zygisksu",
     "ad-wars",
-    "AdGuardHome"
+    "AdGuardHome",
+    "pansong291.xposed.quickenergy.repair",
+    "yc_dfps",
+    "crond_clear_the_blacklist"
   ],
   "hiddenModuleNameList": [
     "hj",

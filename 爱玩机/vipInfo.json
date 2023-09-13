@@ -50,12 +50,16 @@
         "summary": "开放完整的什么都能复制的剪切板解析工具"
       },
       {
+        "title": "SQLite",
+        "summary": "开放SQLite编辑功能"
+      },
+      {
         "title": "MIUI主题助手",
         "summary": "完整的MIUI主题助手功能"
       },
       {
         "title": "排序支持",
-        "summary": "电池信息\/模块支持排序查看"
+        "summary": "支持排序查看"
       },
       {
         "title": "文件加锁解锁",
@@ -180,12 +184,17 @@
         "summary": "开放完整的什么都能复制的剪切板解析工具"
       },
       {
+        "title": "SQLite",
+        "summary": "开放SQLite编辑功能"
+      },
+
+      {
         "title": "MIUI主题助手",
         "summary": "完整的MIUI主题助手功能"
       },
       {
         "title": "排序支持",
-        "summary": "电池信息\/模块支持排序查看"
+        "summary": "支持排序查看"
       },
       {
         "title": "文件加锁解锁",
@@ -294,12 +303,17 @@
         "summary": "开放完整的什么都能复制的剪切板解析工具"
       },
       {
+        "title": "SQLite",
+        "summary": "开放SQLite编辑功能"
+      },
+
+      {
         "title": "MIUI主题助手",
         "summary": "完整的MIUI主题助手功能"
       },
       {
         "title": "排序支持",
-        "summary": "电池信息\/模块支持排序查看"
+        "summary": "支持排序查看"
       },
       {
         "title": "文件加锁解锁",
