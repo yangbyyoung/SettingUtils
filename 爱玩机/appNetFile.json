@@ -13,7 +13,6 @@
   {
     "fileName": "新手引导素材.zip",
     "fileUrl": [
-
       "https://www.lanzoui.com/im5u70u0e2qd",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/guidePic.zip",
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/guidePic.zip"
@@ -151,7 +150,6 @@
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/debloat.json"
     ]
   },
-
   {
     "fileName": "shortcuts.json",
     "fileUrl": [
