@@ -249,9 +249,6 @@
   ],
   "alphaGrantId": [
     "38656FB97D8782FC69FF7625BF0B74FC"
-
-
-
   ],
   "blackModuleNameList": [
     "Pangu",
@@ -299,7 +296,19 @@
     "ad-wars",
     "AdGuardHome",
     "yc_dfps",
-    "crond_clear_the_blacklist"
+    "crond_clear_the_blacklist",
+    "pansong291.xposed.quickenergy.repair",
+    "name.monwf.customiuizer",
+    "JE",
+    "PROTECT_BLOCK",
+    "AdGuardHome_For_Magisk",
+    "无系统-root-hosts",
+    "hosts",
+    "hj",
+    "Harman/Kardon",
+    "DC_5G",
+    "666",
+    "RELEASEMiuiHome"
   ],
   "hiddenModuleNameList": [
     "hj",
