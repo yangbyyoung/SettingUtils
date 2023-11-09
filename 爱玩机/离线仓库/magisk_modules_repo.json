@@ -1,4 +1,22 @@
 [
+
+  {
+    "author": "LSPosed Developers",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+    "name": "Zygisk - Lsposed",
+    "id": "zygisk_lsposed"
+  },
+  {
+    "author": "LSPosed Developers",
+    "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+    "name": "Shamiko",
+    "id": "zygisk_shamiko"
+  },
+
+
+
   {
     "template": "1500",
     "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@6167a6a6f1f378a83cda64a73fbcfc22dd4a8cd1/README.md",
