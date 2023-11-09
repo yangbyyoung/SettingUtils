@@ -26,14 +26,6 @@
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/WX_Pay.png"
     ]
   },
-
-
-
-
-
-
-
-
   {
     "fileName": "qr-wechat_0.png",
     "fileUrl": [
@@ -292,6 +284,13 @@
     "fileUrl": [
       "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz"
+    ]
+  },
+  {
+    "fileName": "magisk_modules_repo.json",
+    "fileUrl": [
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk_modules_repo.json",
+      "https://gitea.com/yangbyyoung/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk_modules_repo.json"
     ]
   },
   {
