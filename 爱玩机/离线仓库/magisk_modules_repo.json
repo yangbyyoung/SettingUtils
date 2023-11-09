@@ -1,13 +1,6 @@
 [
 
   {
-    "id": "fas_rs",
-    "name": "fas-rs",
-    "author": "shadow3",
-    "description": "Frame-aware scheduling binary",
-    "updateJson": "https://github.com/shadow3aaa/fas-rs/raw/master/update/update.json"
-  },
-  {
     "author": "LSPosed Developers",
     "description": "[Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
     "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
