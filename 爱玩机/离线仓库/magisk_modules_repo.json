@@ -1,8 +1,42 @@
 [
-
   {
     "author": "LSPosed Developers",
-    "description": "[Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+    "name": "Zygisk - Lsposed",
+    "id": "zygisk_lsposed"
+  },
+  {
+    "id": "riru_lsposed",
+    "name": "Riru - LSPosed",
+    "author": "LSPosed Developers",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Riru 26.1.7 or above installed.",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/riru.json"
+  },
+  {
+    "id": "asoul_affinity_opt",
+    "name": "A-SOUL Games Optimization",
+    "author": "nakixii",
+    "description": "Game threads tweaker for Android.",
+    "updateJson": "https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json"
+  },
+  {
+    "id": "zygisk-sui",
+    "name": "Zygisk - Sui",
+    "author": "Rikka",
+    "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+    "updateJson": "https://rikkaapps.github.io/release/sui_zygisk.json"
+  },
+  {
+    "id": "fas_rs",
+    "name": "fas-rs",
+    "author": "shadow3",
+    "description": "Frame-aware scheduling binary",
+    "updateJson": "https://github.com/shadow3aaa/fas-rs/raw/master/update/update.json"
+  },
+  {
+    "author": "LSPosed Developers",
+    "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
     "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
     "name": "Shamiko",
     "id": "zygisk_shamiko"
