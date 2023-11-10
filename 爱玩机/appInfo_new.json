@@ -343,11 +343,12 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "title": "应用仓库异常通知",
-    "summary": "请在关于里面点击版本号更新！！！\n目前仓库已修复会员、模块上传者用户仓库无法访问问题，后续逐步放开，预计10月底完全开放！(由于部分用户总是习惯性的认为出bug卸载重装即可，导致近期浪费了大量API，目前只能等我国庆发了工资后再去为免费版用户填充服务器)",
+    "title": "免费试用功能完善！",
+    "summary": "因应用评论区被白嫖用户带节奏，我们无论怎么调整都无法满足需求，抱歉，终止对所有免费功能的维护，免费功能权益跟随之前使用保留，后续不做调整与维护，详情：https://www.coolapk.com/feed/50939887?shareKey=MjM2YzgzY2EzMWZkNjU0YzkyZDg~&shareFrom=com.coolapk.market_13.3.6\n因magisk仓库长期不再提供维护，部分用户免费下载后造成不兼容只会甩锅，故移除官方magisk模块仓库，后续开放git开源模块仓库",
     "isQuery": true,
     "allUser": true,
-    "intent": "https://www.coolapk.com/apk/com.byyoung.setting"
+    "intent": "https://www.coolapk.com/feed/50939887?shareKey=MjM2YzgzY2EzMWZkNjU0YzkyZDg~&shareFrom=com.coolapk.market_13.3.6"
+
   },
   "telegramChannel": "https://t.me/aiwanji",
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
