@@ -101,6 +101,12 @@
       ]
     },
     {
+      "packageName": "com.tencent.mobileqq",
+      "filePath": [
+        "/sdcard/Android/data/Tencent/MobileQQ/vasSplashAD"
+      ]
+    },
+    {
       "packageName": "com.netease.cloudmusic",
       "filePath": [
         "/sdcard/Android/data/com.netease.cloudmusic/cache/Ad"
