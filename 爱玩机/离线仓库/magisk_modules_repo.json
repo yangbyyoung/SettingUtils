@@ -69,6 +69,7 @@
     "description": "让QQ支持指纹支付 Fingerprint pay for QQ.",
     "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_qq.json"
   },
+
   {
     "id": "zygisk-module-xfingerprint-pay-wechat",
     "name": "Zygisk - 指纹支付 - 微信",
