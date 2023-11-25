@@ -56,6 +56,48 @@
     "updateJson": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json"
   },
   {
+    "id": "zygisk-module-xfingerprint-pay-qq",
+    "name": "Zygisk - 指纹支付 - QQ",
+    "author": "Jason Eric",
+    "description": "让QQ支持指纹支付 Fingerprint pay for QQ.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_qq.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-qq",
+    "name": "Zygisk - 指纹支付 - QQ",
+    "author": "Jason Eric",
+    "description": "让QQ支持指纹支付 Fingerprint pay for QQ.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_qq.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-wechat",
+    "name": "Zygisk - 指纹支付 - 微信",
+    "author": "Jason Eric",
+    "description": "让微信支持指纹支付 Fingerprint pay for WeChat.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_wechat.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-taobao",
+    "name": "Zygisk - 指纹支付 - 淘宝",
+    "author": "Jason Eric",
+    "description": "让淘宝支持指纹支付 Fingerprint pay for Taobao.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_taobao.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-alipay",
+    "name": "Zygisk - 指纹支付 - 支付宝",
+    "author": "Jason Eric",
+    "description": "让支付宝支持指纹支付 Fingerprint pay for Alipay.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_alipay.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-unionpay",
+    "name": "Zygisk - 指纹支付 - 云闪付",
+    "author": "Jason Eric",
+    "description": "让云闪付支持指纹支付 Fingerprint pay for UnionPay.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_unionpay.json"
+  },
+  {
     "template": "1500",
     "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@6167a6a6f1f378a83cda64a73fbcfc22dd4a8cd1/README.md",
     "author": "osm0sis @ xda-developers",
