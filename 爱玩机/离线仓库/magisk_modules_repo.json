@@ -21,6 +21,13 @@
     "updateJson": "https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json"
   },
   {
+    "id": "zygisk_cleanerhooks",
+    "name": "Cleaner Hooks",
+    "author": "Green Mushroom",
+    "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://materialcleaner.github.io/MaterialCleaner/releases/module.json"
+  },
+  {
     "id": "zygisk-sui",
     "name": "Zygisk - Sui",
     "author": "Rikka",
