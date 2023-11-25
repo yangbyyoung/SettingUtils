@@ -51,9 +51,9 @@
   {
     "author": "chiteroman",
     "description": "Fix CTS profile (SafetyNet) and DEVICE verdict (Play Integrity).",
-    "updateJson": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json",
     "name": "Play Integrity Fix",
-    "id": "playintegrityfix"
+    "id": "playintegrityfix",
+    "updateJson": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json"
   },
   {
     "template": "1500",
