@@ -69,7 +69,6 @@
     "description": "让QQ支持指纹支付 Fingerprint pay for QQ.",
     "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_qq.json"
   },
-
   {
     "id": "zygisk-module-xfingerprint-pay-wechat",
     "name": "Zygisk - 指纹支付 - 微信",
@@ -97,6 +96,13 @@
     "author": "Jason Eric",
     "description": "让云闪付支持指纹支付 Fingerprint pay for UnionPay.",
     "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_unionpay.json"
+  },
+  {
+    "id": "acc",
+    "name": "Advanced Charging Controller (ACC)",
+    "author": "vr25",
+    "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
+    "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json"
   },
   {
     "template": "1500",
