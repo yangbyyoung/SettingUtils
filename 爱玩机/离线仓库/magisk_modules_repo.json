@@ -105,6 +105,14 @@
     "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json"
   },
   {
+    "id": "universal-gms-doze",
+    "name": "Universal GMS Doze",
+    "author": "gloeyisk",
+    "description": "Patches Google Play services app and certain processes/services to be able to use battery optimizations",
+    "updateJson": "https://raw.githubusercontent.com/gloeyisk/universal-gms-doze/master/module.json"
+  },
+
+  {
     "template": "1500",
     "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@6167a6a6f1f378a83cda64a73fbcfc22dd4a8cd1/README.md",
     "author": "osm0sis @ xda-developers",
