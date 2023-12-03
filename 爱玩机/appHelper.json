@@ -14,8 +14,13 @@
       "data": "com.byyoung.setting/com.byyoung.setting.Setting.About_app"
     },
     {
-      "title": "版本说明",
+      "title": "应用版本说明",
       "summary": "试用版：提供部分免费试用功能，便于待付费用户优先体验后再决定是否付费！\nA版本：内测用户优先体验新功能，带海量bug，故开启强制更新！\nB版本：极客用户临时对服务器部分功能整改，带海量bug，故开启强制更新！\nS版本：稳定用户最慢更新，部分功能可能已过时需等待A/B版本结束后才开放功能适配！"
+    },
+    {
+      "title": "为何免费版停止维护了？",
+      "summary": "升米恩，斗米仇，我们努力6年尽量提供白嫖服务，然而每个人需求不同，一言不合就辱骂，既然用户觉得没必要对我们付费，我们没有广告收入来源，也没有过多的闲钱去为免费用户提供优质的服务！",
+      "data": "https://www.coolapk.com/feed/50939887?shareKey=Mjk2YzZlNThkNWYyNjU2YmU2NmU~&shareFrom=com.coolapk.market_13.4.0"
     }
   ],
   "应用交流群": [
