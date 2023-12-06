@@ -31,8 +31,12 @@
   ],
   "资源整理": [
     {
-      "title": "Magisk历史版",
+      "title": "Magisk(稳定版)历史版",
       "data": "https://github.com/topjohnwu/Magisk/releases"
+    },
+    {
+      "title": "Magisk(Delta)历史版",
+      "data": "https://github.com/HuskyDG/magisk-files/releases"
     },
     {
       "title": "Twrp在线下载",
