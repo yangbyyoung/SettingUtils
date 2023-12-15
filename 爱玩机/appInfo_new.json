@@ -320,7 +320,8 @@
     "Harman/Kardon",
     "DC_5G",
     "666",
-    "RELEASEMiuiHome"
+    "RELEASEMiuiHome",
+    "playintegrityfix","com.xiaomi.xmsf","Hook.JiuWu.Xp"
   ],
   "hiddenModuleNameList": [
     "hj",
