@@ -28,6 +28,13 @@
     "updateJson": "https://materialcleaner.github.io/MaterialCleaner/releases/module.json"
   },
   {
+    "id": "zygisksu",
+    "name": "Zygisk Next",
+    "author": "Nullptr, 5ec1cff",
+    "description": "Standalone implementation of Zygisk.",
+    "updateJson": "https://api.nullptr.icu/android/zygisk-next/static/update.json"
+  },
+  {
     "id": "zygisk-sui",
     "name": "Zygisk - Sui",
     "author": "Rikka",
