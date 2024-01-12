@@ -262,8 +262,9 @@
     "FFFB99779CAE7DC3941D3C12163F2F6D",
     "ABCD2C72A7685EA570A1DC6D10FEC0AC",
     "420A908A6BBAA7E0157C20697796648E",
-
-    "1342790330","1CEC97B5C24B522A0D22C5590162B0F0","BF20CA83047C8BFECB79497DFBD1164C"
+    "1342790330",
+    "1CEC97B5C24B522A0D22C5590162B0F0",
+    "BF20CA83047C8BFECB79497DFBD1164C"
   ],
   "alphaGrantId": [
     "38656FB97D8782FC69FF7625BF0B74FC",
@@ -276,6 +277,7 @@
     "FE3EC7D8F6B58738671CD82FB0949284"
   ],
   "blackModuleNameList": [
+    "514773682",
     "Pangu",
     "mfyh",
     "盘古AI",
@@ -336,7 +338,8 @@
     "RELEASEMiuiHome",
     "playintegrityfix",
     "com.xiaomi.xmsf",
-    "Hook.JiuWu.Xp"
+    "Hook.JiuWu.Xp",
+    "com.bug.hookvip"
   ],
   "hiddenModuleNameList": [
     "hj",
@@ -344,7 +347,8 @@
     "DC_5G",
     "666",
     "RELEASEMiuiHome",
-    "boot","boots"
+    "boot",
+    "boots"
   ],
   "blackIpAddress": [
   ],
