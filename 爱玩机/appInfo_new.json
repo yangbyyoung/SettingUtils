@@ -370,11 +370,11 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "title": "免费试用功能完善！",
-    "summary": "因应用评论区被白嫖用户带节奏，我们无论怎么调整都无法满足需求，抱歉，终止对所有免费功能的维护，免费功能权益跟随之前使用保留，后续不做调整与维护，详情：https://www.coolapk.com/feed/50939887?shareKey=MjM2YzgzY2EzMWZkNjU0YzkyZDg~&shareFrom=com.coolapk.market_13.3.6\n因magisk仓库长期不再提供维护，部分用户免费下载后造成不兼容只会甩锅，故移除官方magisk模块仓库，后续开放git开源模块仓库",
-    "isQuery": false,
+    "title": "仓库访问受限！",
+    "summary": "更换新的仓库，目前为保证稳定性暂时仅限有一个月以上会员用户访问，待完全稳定后逐步开放此功能！",
+    "isQuery": true,
     "allUser": true,
-    "intent": "https://www.coolapk.com/feed/50939887?shareKey=MjM2YzgzY2EzMWZkNjU0YzkyZDg~&shareFrom=com.coolapk.market_13.3.6"
+    "intent": "https://www.123pan.com/s/DuvbVv-8lUA3.html"
   },
   "telegramChannel": "https://t.me/+jbABrZEzR3UyZDQ1",
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
