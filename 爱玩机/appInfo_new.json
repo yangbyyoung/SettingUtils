@@ -371,7 +371,7 @@
   ],
   "notificationInfo": {
     "title": "仓库访问受限！",
-    "summary": "更换新的仓库，目前为保证稳定性暂时仅限有一个月以上会员用户访问，待完全稳定后逐步开放此功能！",
+    "summary": "因更换新的仓库，请更新最新版，目前为保证稳定性暂时仅限有一个月以上会员用户访问，待完全稳定后逐步开放此功能！\n\n温馨提示：点击此处可下载最新版应用！",
     "isQuery": true,
     "allUser": true,
     "intent": "https://www.123pan.com/s/DuvbVv-8lUA3.html"
