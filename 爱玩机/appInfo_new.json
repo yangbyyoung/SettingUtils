@@ -283,8 +283,6 @@
     "013BCAC0AD7BBF37F9F8FA185058497A",
     "BFE45E8B05ECB3A35F6810A896A239AF",
     "99CE30580B65727A588B72DF30D15C21"
-
-
   ],
   "blackModuleNameList": [
     "514773682",
@@ -380,10 +378,11 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "title": "仓库访问受限！",
-    "summary": "因更换新的仓库，请更新最新版，目前为保证稳定性暂时仅限有一个月以上会员用户访问，待完全稳定后逐步开放此功能！\n\n温馨提示：点击此处可下载最新版应用！",
     "isQuery": true,
     "allUser": true,
+    "pushTime": "2024-02-01",
+    "title": "仓库访问受限！",
+    "summary": "因更换新的仓库，请更新最新版，目前为保证稳定性暂时仅限有一个月以上会员用户访问，待完全稳定后逐步开放此功能！\n\n温馨提示：点击此处可下载最新版应用！",
     "intent": "https://www.123pan.com/s/DuvbVv-8lUA3.html"
   },
   "telegramChannel": "https://t.me/+jbABrZEzR3UyZDQ1",
