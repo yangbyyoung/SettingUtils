@@ -328,49 +328,49 @@
     "fileName": "miuiPanGuFix",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk/爱玩机-盘古文件夹热载入_PanguFix.zip",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/爱玩机-盘古文件夹热载入_PanguFix.zip"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/magisk/爱玩机-盘古文件夹热载入_PanguFix.zip"
     ]
   },
   {
     "fileName": "zygisk_shamiko",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk/Shamiko_zygisk_shamiko.zip",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/Shamiko_zygisk_shamiko.zip"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/magisk/Shamiko_zygisk_shamiko.zip"
     ]
   },
   {
     "fileName": "com.intent.get",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk"
     ]
   },
   {
     "fileName": "com.byyang.appmodify",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/爱玩机-应用伪装_com.byyang.appmodify.apk"
     ]
   },
   {
     "fileName": "com.modify.installer",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-安装卸载器接管_com.modify.installer.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-安装卸载器接管_com.modify.installer.apk"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/爱玩机-安装卸载器接管_com.modify.installer.apk"
     ]
   },
   {
     "fileName": "com.byyoung.miuisetting",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-MIUI高级设置_com.byyoung.miuisetting.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/爱玩机-MIUI高级设置_com.byyoung.miuisetting.apk"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/爱玩机-MIUI高级设置_com.byyoung.miuisetting.apk"
     ]
   },
   {
     "fileName": "statusbar.lyric",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/墨•状态栏歌词_statusbar.lyric.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•状态栏歌词_statusbar.lyric.apk"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/墨•状态栏歌词_statusbar.lyric.apk"
     ]
   },
   {
@@ -378,7 +378,7 @@
     "fileUrl": [
       "https://www.coolapk.com/apk/cn.aodlyric.xiaowine",
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/墨•息_cn.aodlyric.xiaowine.apk",
-      "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/xposed/墨•息_cn.aodlyric.xiaowine.apk"
+      "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/墨•息_cn.aodlyric.xiaowine.apk"
     ]
   },
   {
