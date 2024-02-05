@@ -5,4 +5,4 @@ git push origin master
 git push -u origin
 git push -u master
 
-git remote add master https://jihulab.com/yangbyyoung/SettingUtils.git 
+git remote set-url --add master https://jihulab.com/yangbyyoung/SettingUtils.git 
