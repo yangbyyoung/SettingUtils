@@ -375,7 +375,6 @@
   ],
   "proxyGithub": [
     "https://ghproxy.com",
-    "https://raw.gitmirror.com",
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
