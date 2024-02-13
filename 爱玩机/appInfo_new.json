@@ -379,7 +379,7 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "isQuery": true,
+    "isQuery": false,
     "allUser": false,
     "pushTime": "",
     "title": "新年快乐，新春愉快！~",
