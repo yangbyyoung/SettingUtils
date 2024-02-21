@@ -353,7 +353,9 @@
     "playintegrityfix",
     "com.xiaomi.xmsf",
     "Hook.JiuWu.Xp",
-    "com.bug.hookvip"
+    "com.bug.hookvip",
+    "add.Msg.demo",
+    "com.sevtinge.hyperceiler"
   ],
   "hiddenModuleNameList": [
     "hj",
