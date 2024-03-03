@@ -49,6 +49,13 @@
     "updateJson": "https://github.com/shadow3aaa/fas-rs/raw/master/update/update.json"
   },
   {
+    "id": "zygisk-detach",
+    "name": "zygisk-detach",
+    "author": "j-hc",
+    "description": "Detaches installed apps from Play Store",
+    "updateJson": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/update.json"
+  },
+  {
     "author": "LSPosed Developers",
     "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
     "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
@@ -132,8 +139,6 @@
     "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
     "updateJson": "https://materialcleaner.github.io/MaterialCleaner/releases/module.json"
   },
-
-
   {
     "template": "1500",
     "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@6167a6a6f1f378a83cda64a73fbcfc22dd4a8cd1/README.md",
