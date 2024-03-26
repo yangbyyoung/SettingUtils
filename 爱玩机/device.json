@@ -1,5 +1,610 @@
 [
   {
+    "marketName": "nubia-NX669J",
+    "productBrand": "nubia",
+    "productDevice": "NX669J",
+    "productManufacturer": "nubia",
+    "productModel": "NX669J",
+    "productName": "NX669J",
+    "createdAt": "2024-03-26 10:38:46",
+    "objectId": "14e2b798-a447-4c53-939d-bce3fc4d1cda",
+    "updatedAt": "2024-03-26 10:38:46"
+  },
+  {
+    "marketName": "Redmi K60 Ultra",
+    "productBrand": "Redmi",
+    "productDevice": "corot",
+    "productManufacturer": "Xiaomi",
+    "productModel": "23078RKD5C",
+    "productName": "corot",
+    "createdAt": "2024-03-22 10:18:59",
+    "objectId": "bd61c443-1347-4b07-84ad-8d014e4b9f11",
+    "updatedAt": "2024-03-22 10:18:59"
+  },
+  {
+    "marketName": "神",
+    "productBrand": "blackshark",
+    "productDevice": "penrose",
+    "productManufacturer": "blackshark",
+    "productModel": "SHARK PRS-A0",
+    "productName": "PRS-A0",
+    "createdAt": "2024-03-22 01:05:15",
+    "objectId": "3f510333-8bd5-443f-ad35-df294d36103f",
+    "updatedAt": "2024-03-22 01:05:15"
+  },
+  {
+    "marketName": "一加9pro",
+    "productBrand": "OnePlus",
+    "productDevice": "OnePlus9Pro",
+    "productManufacturer": "OnePlus",
+    "productModel": "LE2120",
+    "productName": "OnePlus9Pro_CH",
+    "createdAt": "2024-03-16 23:03:47",
+    "objectId": "e85604ab-3d6c-4d0d-9a91-b0e7e4517778",
+    "updatedAt": "2024-03-16 23:03:47"
+  },
+  {
+    "marketName": "Redmi K70 Pro",
+    "productBrand": "Redmi",
+    "productDevice": "manet",
+    "productManufacturer": "Xiaomi",
+    "productModel": "23117RK66C",
+    "productName": "manet",
+    "createdAt": "2024-03-12 15:54:17",
+    "objectId": "1bd0a2b6-4924-4e98-b7b6-57b3adf284ce",
+    "updatedAt": "2024-03-12 15:54:17"
+  },
+  {
+    "marketName": "Redmi Pad",
+    "productBrand": "Redmi",
+    "productDevice": "yunluo",
+    "productManufacturer": "Xiaomi",
+    "productModel": "22081283C",
+    "productName": "yunluo",
+    "createdAt": "2024-02-23 02:25:15",
+    "objectId": "d2093c00-779f-43ac-9bde-177b2246e2a1",
+    "updatedAt": "2024-02-23 02:25:15"
+  },
+  {
+    "marketName": "Redmi Note 11 Pro",
+    "productBrand": "Redmi",
+    "productDevice": "pissarro",
+    "productManufacturer": "Redmi",
+    "productModel": "2210132C",
+    "productName": "pissarro",
+    "createdAt": "2024-02-15 17:30:10",
+    "objectId": "c9f890ac-3b10-464b-9a1b-8fe0061260b8",
+    "updatedAt": "2024-02-15 17:30:10"
+  },
+  {
+    "marketName": "Redmi Note 11E",
+    "productBrand": "Redmi",
+    "productDevice": "light",
+    "productManufacturer": "Xiaomi",
+    "productModel": "22041219C",
+    "productName": "light",
+    "createdAt": "2024-02-06 16:33:12",
+    "objectId": "8bcc3c7d-40f0-449d-8f2b-5733da464256",
+    "updatedAt": "2024-02-06 16:33:12"
+  },
+  {
+    "marketName": "Xiaomi-MI CC 9e",
+    "productBrand": "Xiaomi",
+    "productDevice": "laurus",
+    "productManufacturer": "Xiaomi",
+    "productModel": "MI CC 9e",
+    "productName": "laurus",
+    "createdAt": "2024-02-05 14:54:29",
+    "objectId": "b967b44f-a0cf-4fa0-8937-8b628cf5f99a",
+    "updatedAt": "2024-02-05 14:54:29"
+  },
+  {
+    "marketName": "Xiaomi-Redmi K20 Pro",
+    "productBrand": "Xiaomi",
+    "productDevice": "raphael",
+    "productManufacturer": "Xiaomi",
+    "productModel": "Redmi K20 Pro",
+    "productName": "raphael",
+    "createdAt": "2024-02-03 02:25:03",
+    "objectId": "6c3abfdf-f9e9-46c3-b5f3-43ae76758e3f",
+    "updatedAt": "2024-02-03 02:25:03"
+  },
+  {
+    "marketName": "OnePlus-PJA110",
+    "productBrand": "OnePlus",
+    "productDevice": "OP5943L1",
+    "productManufacturer": "OnePlus",
+    "productModel": "PJA110",
+    "productName": "PJA110",
+    "createdAt": "2024-01-23 22:40:33",
+    "objectId": "e4063d5a-f0d6-47b3-ae85-a006749fa780",
+    "updatedAt": "2024-01-23 22:40:33"
+  },
+  {
+    "marketName": "OnePlus-PHK110",
+    "productBrand": "OnePlus",
+    "productDevice": "OP5913L1",
+    "productManufacturer": "OnePlus",
+    "productModel": "PHK110",
+    "productName": "PHK110",
+    "createdAt": "2024-01-22 19:37:03",
+    "objectId": "3a9c35c6-0fed-46ea-82bc-af6c342f80bc",
+    "updatedAt": "2024-01-22 19:37:03"
+  },
+  {
+    "marketName": "Xiaomi-MI 5",
+    "productBrand": "Xiaomi",
+    "productDevice": "gemini",
+    "productManufacturer": "Xiaomi",
+    "productModel": "MI 5",
+    "productName": "gemini",
+    "createdAt": "2024-01-06 23:17:06",
+    "objectId": "3d6d9f7d-41c1-4b9c-8a42-91d067fa1265",
+    "updatedAt": "2024-01-06 23:17:06"
+  },
+  {
+    "marketName": "vivo-V2024A",
+    "productBrand": "vivo",
+    "productDevice": "PD2024",
+    "productManufacturer": "vivo",
+    "productModel": "V2024A",
+    "productName": "PD2024",
+    "createdAt": "2024-01-04 20:54:31",
+    "objectId": "518c04c8-a994-431c-bb0f-85bfd0745bd1",
+    "updatedAt": "2024-01-04 20:54:31"
+  },
+  {
+    "marketName": "vivo-V2148A",
+    "productBrand": "vivo",
+    "productDevice": "PD2148",
+    "productManufacturer": "vivo",
+    "productModel": "V2148A",
+    "productName": "PD2148",
+    "createdAt": "2023-12-31 19:16:19",
+    "objectId": "91dc6a94-4262-4ee9-ae47-88990c45389a",
+    "updatedAt": "2023-12-31 19:16:19"
+  },
+  {
+    "marketName": "Xiaomi Pad 6 Pro",
+    "productBrand": "Xiaomi",
+    "productDevice": "liuqin",
+    "productManufacturer": "Xiaomi",
+    "productModel": "23046RP50C",
+    "productName": "liuqin",
+    "createdAt": "2023-12-23 17:18:23",
+    "objectId": "ab47fec6-dc46-4ef1-aca4-743906ab4bc6",
+    "updatedAt": "2023-12-23 17:18:23"
+  },
+  {
+    "marketName": "魅族20Pro",
+    "productBrand": "meizu",
+    "productDevice": "meizu20Pro",
+    "productManufacturer": "meizu",
+    "productModel": "MEIZU 20 Pro",
+    "productName": "meizu_20Pro_CN",
+    "createdAt": "2023-12-13 03:39:52",
+    "objectId": "4d7074c1-4e3c-4c65-8174-6b4650fdde04",
+    "updatedAt": "2024-03-26 13:31:40"
+  },
+  {
+    "marketName": "Xiaomi-Mi Note 3",
+    "productBrand": "Xiaomi",
+    "productDevice": "jason",
+    "productManufacturer": "Xiaomi",
+    "productModel": "Mi Note 3",
+    "productName": "jason",
+    "createdAt": "2023-11-23 21:05:04",
+    "objectId": "9c4823ac-f50e-40f6-9842-13b25650e20c",
+    "updatedAt": "2023-11-23 21:05:04"
+  },
+  {
+    "marketName": "Xiaomi-MIX 2S",
+    "productBrand": "Xiaomi",
+    "productDevice": "polaris",
+    "productManufacturer": "Xiaomi",
+    "productModel": "MIX 2S",
+    "productName": "polaris",
+    "createdAt": "2023-11-19 10:09:47",
+    "objectId": "14ab978e-a86a-41c6-b2f6-a8ed5afd2070",
+    "updatedAt": "2023-11-19 10:09:47"
+  },
+  {
+    "marketName": "Lenovo-TB320FC",
+    "productBrand": "Lenovo",
+    "productDevice": "TB320FC",
+    "productManufacturer": "Lenovo",
+    "productModel": "TB320FC",
+    "productName": "TB320FC_PRC",
+    "createdAt": "2023-11-15 22:58:01",
+    "objectId": "9f661978-af3d-4514-be22-328ed99cf3a1",
+    "updatedAt": "2023-11-15 22:58:01"
+  },
+  {
+    "marketName": "honor-FRD-AL00",
+    "productBrand": "honor",
+    "productDevice": "HWFRD",
+    "productManufacturer": "HUAWEI",
+    "productModel": "FRD-AL00",
+    "productName": "FRD-AL00",
+    "createdAt": "2023-11-08 06:27:09",
+    "objectId": "1a868f36-e5ac-4a67-95ca-b3cb164e3f7c",
+    "updatedAt": "2023-11-08 06:27:09"
+  },
+  {
+    "marketName": "Redmi Note 13 Pro",
+    "productBrand": "Redmi",
+    "productDevice": "garnet",
+    "productManufacturer": "Xiaomi",
+    "productModel": "2312CRAD3C",
+    "productName": "garnet",
+    "createdAt": "2023-11-04 22:18:26",
+    "objectId": "3c35ede3-36f8-43cd-b239-a1e2e3a0ac5b",
+    "updatedAt": "2023-11-04 22:18:26"
+  },
+  {
+    "marketName": "OPPO-PACM00",
+    "productBrand": "OPPO",
+    "productDevice": "PACM00",
+    "productManufacturer": "OPPO",
+    "productModel": "PACM00",
+    "productName": "PACM00",
+    "createdAt": "2023-10-19 21:50:29",
+    "objectId": "6a5191f7-cabf-4aad-a7ba-4dcdf1582547",
+    "updatedAt": "2023-10-19 21:50:29"
+  },
+  {
+    "marketName": "Xiaomi 12",
+    "productBrand": "Xiaomi",
+    "productDevice": "cupid",
+    "productManufacturer": "Xiaomi",
+    "productModel": "2201123G",
+    "productName": "cupid_global",
+    "createdAt": "2023-10-11 11:12:54",
+    "objectId": "eb658c10-ce9a-401b-8219-e8436e2c3e2e",
+    "updatedAt": "2023-10-11 11:12:54"
+  },
+  {
+    "marketName": "google-Pixel 7 Pro",
+    "productBrand": "google",
+    "productDevice": "cheetah",
+    "productManufacturer": "Google",
+    "productModel": "Pixel 7 Pro",
+    "productName": "cheetah",
+    "createdAt": "2023-10-11 10:43:40",
+    "objectId": "6740b6dd-99e9-423b-bf2e-9d6f280ebe53",
+    "updatedAt": "2023-10-11 10:43:40"
+  },
+  {
+    "marketName": "Xiaomi-Redmi K20 Pro",
+    "productBrand": "Xiaomi",
+    "productDevice": "raphael",
+    "productManufacturer": "xiaomi",
+    "productModel": "Redmi K20 Pro",
+    "productName": "raphael",
+    "createdAt": "2023-10-10 23:19:49",
+    "objectId": "c870d83d-6bab-4c52-931a-1890bac2cf2e",
+    "updatedAt": "2023-10-10 23:19:49"
+  },
+  {
+    "marketName": "Xiaomi-MI 8 Lite",
+    "productBrand": "Xiaomi",
+    "productDevice": "platina",
+    "productManufacturer": "Xiaomi",
+    "productModel": "MI 8 Lite",
+    "productName": "platina",
+    "createdAt": "2023-09-26 18:23:27",
+    "objectId": "b6b173a6-2f33-405f-bc1b-2f3539b42b6f",
+    "updatedAt": "2023-09-26 18:23:27"
+  },
+  {
+    "marketName": "OnePlus 6T",
+    "productBrand": "OnePlus",
+    "productDevice": "OnePlus6T",
+    "productManufacturer": "OnePlus",
+    "productModel": "ONEPLUS A6010",
+    "productName": "OnePlus6T",
+    "createdAt": "2023-09-16 12:57:20",
+    "objectId": "6dc37529-4487-49b5-97bd-35ab9dd13bb9",
+    "updatedAt": "2023-09-16 12:57:20"
+  },
+  {
+    "marketName": "Lenovo L71061",
+    "productBrand": "Lenovo",
+    "productDevice": "diablo",
+    "productManufacturer": "Lenovo",
+    "productModel": "Lenovo L71061",
+    "productName": "diablo",
+    "createdAt": "2023-08-20 00:11:56",
+    "objectId": "4a94abee-a29a-4962-bd44-d3bc3ddfa724",
+    "updatedAt": "2023-08-20 00:11:56"
+  },
+  {
+    "marketName": "三星Note10plus5G 国行",
+    "productBrand": "samsung",
+    "productDevice": "d2xq",
+    "productManufacturer": "samsung",
+    "productModel": "SM-N9760",
+    "productName": "d2xqzc",
+    "createdAt": "2023-08-18 10:29:35",
+    "objectId": "d81d85e5-6365-405f-997a-11e395dd429f",
+    "updatedAt": "2023-08-18 10:29:35"
+  },
+  {
+    "marketName": "Lenovo-Lenovo L71091",
+    "productBrand": "Lenovo",
+    "productDevice": "halo",
+    "productManufacturer": "Lenovo",
+    "productModel": "Lenovo L71091",
+    "productName": "halo",
+    "createdAt": "2023-08-17 20:51:01",
+    "objectId": "4b77269c-0bf5-482c-b93b-8587b65842f7",
+    "updatedAt": "2023-08-17 20:51:01"
+  },
+  {
+    "marketName": "Redmi Note 12 5G",
+    "productBrand": "Redmi",
+    "productDevice": "sunstone",
+    "productManufacturer": "Xiaomi",
+    "productModel": "22101317C",
+    "productName": "sunstone",
+    "createdAt": "2023-08-14 14:51:09",
+    "objectId": "6c578315-454f-45b8-b02b-5682e7e90537",
+    "updatedAt": "2023-08-14 14:51:09"
+  },
+  {
+    "marketName": "msm8953-Redmi 4",
+    "productBrand": "msm8953",
+    "productDevice": "markw",
+    "productManufacturer": "Xiaomi",
+    "productModel": "Redmi 4",
+    "productName": "markw",
+    "createdAt": "2023-08-11 17:46:06",
+    "objectId": "386a60ad-39ea-4e96-b83a-d9dcadc3a64b",
+    "updatedAt": "2023-08-11 17:46:06"
+  },
+  {
+    "marketName": "OPPO-PFVM10",
+    "productBrand": "OPPO",
+    "productDevice": "OP522D",
+    "productManufacturer": "OPPO",
+    "productModel": "PFVM10",
+    "productName": "PFVM10",
+    "createdAt": "2023-07-23 09:04:22",
+    "objectId": "07541baf-a439-4751-bd3b-e8a784fd9ff5",
+    "updatedAt": "2023-07-23 09:04:22"
+  },
+  {
+    "marketName": "魅族Note9",
+    "productBrand": "meizu",
+    "productDevice": "Note9",
+    "productManufacturer": "meizu",
+    "productModel": "Note9",
+    "productName": "meizu_Note9_CN",
+    "createdAt": "2023-07-22 13:29:48",
+    "objectId": "f25f8ec8-0f61-4120-a7e6-9e75412417e4",
+    "updatedAt": "2024-03-26 13:32:07"
+  },
+  {
+    "marketName": "Xiaomi Pad 5",
+    "productBrand": "Xiaomi",
+    "productDevice": "nabu",
+    "productManufacturer": "Xiaomi",
+    "productModel": "21051182C",
+    "productName": "nabu",
+    "createdAt": "2023-07-19 21:30:33",
+    "objectId": "9f93acbf-de04-4b8f-b66e-fa195f6c6c8d",
+    "updatedAt": "2023-07-19 21:30:33"
+  },
+  {
+    "marketName": "Redmi K50G",
+    "productBrand": "Redmi",
+    "productDevice": "ingres",
+    "productManufacturer": "Xiaomi",
+    "productModel": "GM1917",
+    "productName": "ingres",
+    "createdAt": "2023-07-10 22:29:03",
+    "objectId": "c46abcf7-0a2d-4d97-a80c-8a0006c4d5ab",
+    "updatedAt": "2023-07-10 22:29:03"
+  },
+  {
+    "marketName": "motorola-XT2125-4",
+    "productBrand": "motorola",
+    "productDevice": "nio",
+    "productManufacturer": "motorola",
+    "productModel": "XT2125-4",
+    "productName": "nio_retcn",
+    "createdAt": "2023-07-08 21:09:53",
+    "objectId": "d5672536-34d6-4c7c-aeff-83d247487378",
+    "updatedAt": "2023-07-08 21:09:53"
+  },
+  {
+    "marketName": "Xiaomi 12X",
+    "productBrand": "Xiaomi",
+    "productDevice": "psyche",
+    "productManufacturer": "Xiaomi",
+    "productModel": "2112123AC",
+    "productName": "psyche",
+    "createdAt": "2023-06-26 12:44:09",
+    "objectId": "3cff75ba-7d3d-41cc-b414-15b52eb249fe",
+    "updatedAt": "2023-06-26 12:44:09"
+  },
+  {
+    "marketName": "Redmi Note 12 Turbo",
+    "productBrand": "Redmi",
+    "productDevice": "marble",
+    "productManufacturer": "Xiaomi",
+    "productModel": "23049RAD8C",
+    "productName": "marble",
+    "createdAt": "2023-06-20 19:09:52",
+    "objectId": "cf6d74f9-60a7-4e0f-96d7-6d4e4ed5a9e6",
+    "updatedAt": "2023-06-20 19:09:52"
+  },
+  {
+    "marketName": "魅族18",
+    "productBrand": "meizu",
+    "productDevice": "meizu18",
+    "productManufacturer": "meizu",
+    "productModel": "MEIZU 18",
+    "productName": "meizu_18_CN",
+    "createdAt": "2023-06-03 00:08:38",
+    "objectId": "5db5cd79-d39d-4f7a-a95d-bc1044e9ca36",
+    "updatedAt": "2024-03-26 13:31:21"
+  },
+  {
+    "marketName": "Xiaomi-MI 8 SE",
+    "productBrand": "Xiaomi",
+    "productDevice": "sirius",
+    "productManufacturer": "Xiaomi",
+    "productModel": "MI 8 SE",
+    "productName": "sirius",
+    "createdAt": "2023-05-27 06:21:27",
+    "objectId": "fa0b199a-7331-439a-a931-5fabb154c649",
+    "updatedAt": "2023-05-27 06:21:27"
+  },
+  {
+    "marketName": "Redmi Note 12 Pro+",
+    "productBrand": "Redmi",
+    "productDevice": "rubypro",
+    "productManufacturer": "Xiaomi",
+    "productModel": "22101316UCP",
+    "productName": "rubypro",
+    "createdAt": "2023-05-17 11:55:02",
+    "objectId": "29c07fb0-a5c5-4872-b3e1-c3fb1a864fa2",
+    "updatedAt": "2023-05-17 11:55:02"
+  },
+  {
+    "marketName": "LGG8",
+    "productBrand": "lge",
+    "productDevice": "alphalm",
+    "productManufacturer": "LGE",
+    "productModel": "LM-G820",
+    "productName": "alphalm_lao_com",
+    "createdAt": "2023-05-04 21:52:41",
+    "objectId": "ac330cc7-8477-447d-9979-a18577bce949",
+    "updatedAt": "2023-05-04 21:52:41"
+  },
+  {
+    "marketName": "Xiaomi 11T Pro",
+    "productBrand": "Xiaomi",
+    "productDevice": "vili",
+    "productManufacturer": "Xiaomi",
+    "productModel": "2107113SG",
+    "productName": "vili_ru",
+    "createdAt": "2023-04-28 19:55:24",
+    "objectId": "b5133eda-8d7b-42c6-a3e5-28507356c9e1",
+    "updatedAt": "2023-04-28 19:55:24"
+  },
+  {
+    "marketName": "realme-RMX3350",
+    "productBrand": "realme",
+    "productDevice": "RE5469",
+    "productManufacturer": "realme",
+    "productModel": "RMX3350",
+    "productName": "RMX3350",
+    "createdAt": "2023-04-25 21:26:43",
+    "objectId": "47825793-8b2e-4e40-b355-3e793a48f6ac",
+    "updatedAt": "2023-04-25 21:26:43"
+  },
+  {
+    "marketName": "OnePlus-PGZ110",
+    "productBrand": "OnePlus",
+    "productDevice": "OP5911",
+    "productManufacturer": "OnePlus",
+    "productModel": "PGZ110",
+    "productName": "PGZ110",
+    "createdAt": "2023-04-25 15:05:15",
+    "objectId": "053868f4-162b-4182-a0a8-1d874ece1772",
+    "updatedAt": "2023-04-25 15:05:15"
+  },
+  {
+    "marketName": "MIX FOLD",
+    "productBrand": "Xiaomi",
+    "productDevice": "cetus",
+    "productManufacturer": "Xiaomi",
+    "productModel": "M2011J18C",
+    "productName": "cetus",
+    "createdAt": "2023-04-22 18:33:31",
+    "objectId": "372e28f1-f4c8-4510-9580-bf15ff4a75ec",
+    "updatedAt": "2023-04-22 18:33:31"
+  },
+  {
+    "marketName": "HONOR-LLD-AL20",
+    "productBrand": "HONOR",
+    "productDevice": "HWLLD-H2",
+    "productManufacturer": "HUAWEI",
+    "productModel": "LLD-AL20",
+    "productName": "LLD-AL20",
+    "createdAt": "2023-04-20 08:05:42",
+    "objectId": "c594d661-8f0b-4026-a720-29d91a49bca0",
+    "updatedAt": "2023-04-20 08:05:42"
+  },
+  {
+    "marketName": "Redmi-Redmi K30i 5G",
+    "productBrand": "Redmi",
+    "productDevice": "picasso",
+    "productManufacturer": "Xiaomi",
+    "productModel": "Redmi K30i 5G",
+    "productName": "picasso_48m",
+    "createdAt": "2023-04-18 12:46:04",
+    "objectId": "fda581d1-d431-4d9a-84f2-6ff2b849684e",
+    "updatedAt": "2023-04-18 12:46:04"
+  },
+  {
+    "marketName": "Xiaomi-MI 9 Transparent Edition",
+    "productBrand": "Xiaomi",
+    "productDevice": "cepheus",
+    "productManufacturer": "Xiaomi",
+    "productModel": "MI 9 Transparent Edition",
+    "productName": "cepheus",
+    "createdAt": "2023-04-14 12:54:59",
+    "objectId": "a2c79fff-e306-47e1-a5f6-96ae775641a4",
+    "updatedAt": "2023-04-14 12:54:59"
+  },
+  {
+    "marketName": "nubia-NX709S",
+    "productBrand": "nubia",
+    "productDevice": "NX709S",
+    "productManufacturer": "nubia",
+    "productModel": "NX709S",
+    "productName": "NX709S",
+    "createdAt": "2023-04-09 23:15:34",
+    "objectId": "ead92e29-e35b-427b-8839-f83bdb3d48e1",
+    "updatedAt": "2023-04-09 23:15:34"
+  },
+  {
+    "marketName": "Redmi K60",
+    "productBrand": "Redmi",
+    "productDevice": "mondrian",
+    "productManufacturer": "Xiaomi",
+    "productModel": "23013RK75C",
+    "productName": "mondrian",
+    "createdAt": "2023-04-06 11:55:16",
+    "objectId": "4c49d8d7-e715-40fe-8026-a5161ac82e79",
+    "updatedAt": "2023-04-06 11:55:16"
+  },
+  {
+    "marketName": "Xiaomi-Redmi K20 Pro Premium Edition",
+    "productBrand": "Xiaomi",
+    "productDevice": "raphael",
+    "productManufacturer": "Xiaomi",
+    "productModel": "Redmi K20 Pro Premium Edition",
+    "productName": "raphael",
+    "createdAt": "2023-03-24 00:28:09",
+    "objectId": "174a6e33-a291-4a04-a652-e5e8d060b8b5",
+    "updatedAt": "2023-03-24 00:28:09"
+  },
+  {
+    "marketName": "PE",
+    "productBrand": "realme",
+    "productDevice": "RMX2201CN",
+    "productManufacturer": "realme",
+    "productModel": "RMX2201",
+    "productName": "RMX2201",
+    "createdAt": "2023-03-10 01:06:19",
+    "objectId": "bd3d6f62-6765-4b9c-b4eb-7fafe04de685",
+    "updatedAt": "2023-03-10 01:06:19"
+  },
+  {
     "marketName": "K30pro",
     "productBrand": "Redmi",
     "productDevice": "lmipro",
@@ -7,7 +612,7 @@
     "productModel": "Redmi K30 Pro Zoom Edition",
     "productName": "lmipro",
     "createdAt": "2023-03-06 17:33:06",
-    "objectId": "520b8c6f-0078-419f-8ad4-91a7b169845e",
+    "objectId": "934fa538-d4ca-4a80-ae23-5bfd8359c170",
     "updatedAt": "2023-03-06 17:33:06"
   },
   {
@@ -18,7 +623,7 @@
     "productModel": "GM1917",
     "productName": "flashlm_lao_com",
     "createdAt": "2023-03-01 02:33:56",
-    "objectId": "51f53c93-6387-4c52-bca2-5e7d8abdce80",
+    "objectId": "08625712-3515-41b6-9d94-ccfbd7f54d1e",
     "updatedAt": "2023-03-01 02:33:56"
   },
   {
@@ -29,7 +634,7 @@
     "productModel": "HHT7AS",
     "productName": "PD2148",
     "createdAt": "2023-02-20 14:57:06",
-    "objectId": "57a2cdb0-10a7-4ea5-bc76-a7974faea782",
+    "objectId": "ab3609ae-d9f0-462e-8d2c-f3c2e230f651",
     "updatedAt": "2023-02-20 14:57:06"
   },
   {
@@ -40,7 +645,7 @@
     "productModel": "LE2110",
     "productName": "OnePlus9_CH",
     "createdAt": "2023-02-20 00:04:35",
-    "objectId": "12330e71-a8f4-47fb-af0a-c821cfd090ab",
+    "objectId": "c9222b86-f659-4d5f-9b32-1a75b1139ddb",
     "updatedAt": "2023-02-20 00:04:35"
   },
   {
@@ -51,19 +656,8 @@
     "productModel": "KKG-AN00",
     "productName": "KKG-AN00",
     "createdAt": "2023-02-18 04:05:40",
-    "objectId": "5488d6d1-8a92-4bb5-b1dd-9d9babe2a879",
+    "objectId": "1d71da84-caa7-42be-b70c-0b89f8bbf06b",
     "updatedAt": "2023-02-18 04:05:40"
-  },
-  {
-    "marketName": "Mi 10S",
-    "productBrand": "vivo",
-    "productDevice": "thyme",
-    "productManufacturer": "vivo",
-    "productModel": "V2254A",
-    "productName": "thyme",
-    "createdAt": "2023-02-16 14:11:04",
-    "objectId": "5fa29c84-e237-4cec-8f15-fc248ea915d5",
-    "updatedAt": "2023-02-16 14:11:04"
   },
   {
     "marketName": "1226",
@@ -73,7 +667,7 @@
     "productModel": "V2243A",
     "productName": "umi",
     "createdAt": "2023-02-11 03:09:09",
-    "objectId": "87a05404-2980-41ff-a516-13c0bc8792d6",
+    "objectId": "25edc1b2-5aac-4ae5-92af-49f4a5172b03",
     "updatedAt": "2023-02-11 03:09:09"
   },
   {
@@ -84,7 +678,7 @@
     "productModel": "PAL-AL00",
     "productName": "mayfly",
     "createdAt": "2023-02-10 10:55:09",
-    "objectId": "a08cedd0-42ad-4281-8435-d2a9a63ec33c",
+    "objectId": "36034daa-86d7-44de-a7d4-524ae71f79d1",
     "updatedAt": "2023-02-10 10:55:09"
   },
   {
@@ -95,7 +689,7 @@
     "productModel": "PHB110",
     "productName": "1+11",
     "createdAt": "2023-02-10 04:56:46",
-    "objectId": "0852803b-c11d-4f29-b6ff-b89569caa666",
+    "objectId": "6e3ce5c2-f519-47b2-94b8-97b644efa2ac",
     "updatedAt": "2023-02-10 04:56:46"
   },
   {
@@ -106,7 +700,7 @@
     "productModel": "LE2100",
     "productName": "OnePlus9R_CH",
     "createdAt": "2023-02-10 03:05:51",
-    "objectId": "61790032-214b-42d0-91de-4b149d85cd63",
+    "objectId": "3d8205e3-d24a-4e1b-9509-177eb43835b3",
     "updatedAt": "2023-02-10 03:05:51"
   },
   {
@@ -117,7 +711,7 @@
     "productModel": "MI 8 UD",
     "productName": "equuleus",
     "createdAt": "2023-02-02 06:55:23",
-    "objectId": "0958b8b3-0ff8-47a3-9da4-34b36519645d",
+    "objectId": "a101c2ea-622c-4139-89c0-c6d64f2e0f55",
     "updatedAt": "2023-02-02 06:55:23"
   },
   {
@@ -128,19 +722,19 @@
     "productModel": "21121210G",
     "productName": "ingres",
     "createdAt": "2023-01-29 13:42:13",
-    "objectId": "829a4137-bf34-4e03-9052-812bc8360161",
+    "objectId": "09c4c681-1e89-4fd8-ad08-84d5e10f5362",
     "updatedAt": "2023-01-29 13:42:13"
   },
   {
-    "marketName": "Redmi K50",
+    "marketName": "HUAWEI Mate 40 RS",
     "productBrand": "HUAWEI",
     "productDevice": "rubens",
     "productManufacturer": "HUAWEI",
     "productModel": "NOP-AN00",
     "productName": "rubens",
     "createdAt": "2023-01-24 19:32:21",
-    "objectId": "1e7aa9f6-1d50-43bd-8989-27cdbf8a882a",
-    "updatedAt": "2023-01-24 19:32:21"
+    "objectId": "7e6fe4b2-a625-438a-b2ee-4246fdc9409c",
+    "updatedAt": "2024-01-08 19:35:57"
   },
   {
     "marketName": "魅族18x",
@@ -150,7 +744,7 @@
     "productModel": "MEIZU 18X",
     "productName": "meizu_18X_CN",
     "createdAt": "2023-01-24 19:25:49",
-    "objectId": "e20c5f09-8e9d-4ddb-b4b1-42456c190908",
+    "objectId": "c25edf9d-394b-4e12-bbf7-2a7978ce6fb7",
     "updatedAt": "2023-01-24 19:25:49"
   },
   {
@@ -161,7 +755,7 @@
     "productModel": "22127RK46C",
     "productName": "socrates",
     "createdAt": "2023-01-24 17:17:03",
-    "objectId": "d14d1ca7-3e94-476e-abcd-645449f9c3fb",
+    "objectId": "1a7f474e-83dd-4480-bb97-ee056054d804",
     "updatedAt": "2023-01-24 17:17:03"
   },
   {
@@ -172,7 +766,7 @@
     "productModel": "KJR-W09",
     "productName": "KJR-W09",
     "createdAt": "2023-01-24 14:03:32",
-    "objectId": "a695092d-e42e-4989-81f2-9c9829f9a227",
+    "objectId": "51e84b76-9780-4883-8fdb-5c7fb6e5f8c3",
     "updatedAt": "2023-01-24 14:03:32"
   },
   {
@@ -183,7 +777,7 @@
     "productModel": "NX609J",
     "productName": "NX609J",
     "createdAt": "2023-01-23 19:25:40",
-    "objectId": "3b3fc87a-3bfa-4c77-ba14-35c205293a0e",
+    "objectId": "f963e4b1-bdb8-45c9-8df7-93441b605437",
     "updatedAt": "2023-01-23 19:25:40"
   },
   {
@@ -194,7 +788,7 @@
     "productModel": "2107119DC",
     "productName": "mona",
     "createdAt": "2023-01-15 20:46:57",
-    "objectId": "09a13e3b-6a8a-448e-8a18-c8e845c58835",
+    "objectId": "e984f720-a3c1-4059-9e06-a0d8546ad4fb",
     "updatedAt": "2023-01-15 20:46:57"
   },
   {
@@ -205,7 +799,7 @@
     "productModel": "MI 8 Explorer Edition",
     "productName": "ursa",
     "createdAt": "2023-01-13 11:26:36",
-    "objectId": "01103f3b-6b08-4eb5-b180-160076feb009",
+    "objectId": "dcdeac8a-a1c1-4cb5-bfb0-bc3628363c10",
     "updatedAt": "2023-01-13 11:26:36"
   },
   {
@@ -216,19 +810,19 @@
     "productModel": "2210132C",
     "productName": "mars",
     "createdAt": "2023-01-10 08:40:14",
-    "objectId": "49fb1778-0ff6-466b-a089-9e5dade8136d",
+    "objectId": "54e9c24c-6531-4d42-8115-1c859d4f0a82",
     "updatedAt": "2023-03-09 10:21:36"
   },
   {
-    "marketName": "liuxi",
+    "marketName": "一加8T",
     "productBrand": "OnePlus",
     "productDevice": "OnePlus8T",
     "productManufacturer": "OnePlus",
     "productModel": "KB2000",
     "productName": "OnePlus8T_CH",
     "createdAt": "2023-01-07 18:34:38",
-    "objectId": "d7838f43-a96f-4756-ac95-f35fcb06eeeb",
-    "updatedAt": "2023-01-07 18:34:38"
+    "objectId": "51b19320-4f85-4d65-8927-729665d4f5c5",
+    "updatedAt": "2024-03-26 13:30:13"
   },
   {
     "marketName": "Redmi Note 11R",
@@ -238,19 +832,8 @@
     "productModel": "22095RA98C",
     "productName": "light",
     "createdAt": "2023-01-07 10:33:17",
-    "objectId": "80865c85-19f2-4eef-816b-055098d0bf62",
+    "objectId": "e959bc43-7fee-47c2-af91-8b7fa7047edf",
     "updatedAt": "2023-01-07 10:33:17"
-  },
-  {
-    "marketName": "iPhone",
-    "productBrand": "Redmi",
-    "productDevice": "picasso",
-    "productManufacturer": "Xiaomi",
-    "productModel": "Redmi K40 5G",
-    "productName": "picasso",
-    "createdAt": "2023-01-06 12:57:09",
-    "objectId": "4c27b252-a94a-439c-9c88-e2e688baf5bd",
-    "updatedAt": "2023-01-06 12:57:09"
   },
   {
     "marketName": "Xiaomi 13",
@@ -260,7 +843,7 @@
     "productModel": "2211133C",
     "productName": "fuxi",
     "createdAt": "2022-12-29 12:04:37",
-    "objectId": "02558bab-83f3-4058-82f5-e16f5022ccf5",
+    "objectId": "c0c689ca-e312-44a2-9e48-1497e27708e2",
     "updatedAt": "2022-12-29 12:04:37"
   },
   {
@@ -271,7 +854,7 @@
     "productModel": "LG-US998",
     "productName": "lineage_joan",
     "createdAt": "2022-12-26 22:31:06",
-    "objectId": "6a8f77b8-53ab-4cdd-8ac2-f40158810449",
+    "objectId": "d9caf6e5-af32-45f8-a95a-df5aa7569f9e",
     "updatedAt": "2022-12-26 22:31:06"
   },
   {
@@ -282,7 +865,7 @@
     "productModel": "Redmi 4 Prime",
     "productName": "markw",
     "createdAt": "2022-12-23 18:43:09",
-    "objectId": "926f87e3-7bb5-4969-a9b4-0aa68bc488e0",
+    "objectId": "d86c05cd-972f-4d89-b9ce-ed4547b87618",
     "updatedAt": "2022-12-23 18:43:09"
   },
   {
@@ -293,7 +876,7 @@
     "productModel": "V2172A",
     "productName": "pissarro",
     "createdAt": "2022-12-21 20:08:53",
-    "objectId": "f2b510df-ac8e-4cce-a266-41d87ee48064",
+    "objectId": "82c63297-5d75-41a6-a36f-29cc6e7f30e8",
     "updatedAt": "2022-12-21 20:08:53"
   },
   {
@@ -304,7 +887,7 @@
     "productModel": "V2154A",
     "productName": "PD2154",
     "createdAt": "2022-12-18 16:55:17",
-    "objectId": "f04d418d-aefc-41c5-afaf-9efb2aa43ea2",
+    "objectId": "697c0e1d-9ff7-4bad-903b-9d3576978ba0",
     "updatedAt": "2022-12-18 16:55:17"
   },
   {
@@ -315,7 +898,7 @@
     "productModel": "14 Pro Max",
     "productName": "elish",
     "createdAt": "2022-12-18 14:42:11",
-    "objectId": "1d8212f4-2b35-4c8e-8348-fcb21457e238",
+    "objectId": "91ad47e1-ffd3-467a-90ac-16ba5416da66",
     "updatedAt": "2022-12-18 14:42:11"
   },
   {
@@ -326,7 +909,7 @@
     "productModel": "V2085A",
     "productName": "PD2085",
     "createdAt": "2022-12-18 05:55:08",
-    "objectId": "f0841858-b402-46c9-a5d3-c1c1fe0be2ab",
+    "objectId": "2d67f21d-79af-4523-b5a2-c92051c07bde",
     "updatedAt": "2022-12-18 05:55:08"
   },
   {
@@ -337,7 +920,7 @@
     "productModel": "21091116AC",
     "productName": "evergo",
     "createdAt": "2022-12-12 22:51:51",
-    "objectId": "7e70dfb3-725b-4de2-8755-f9d9fcc2c2e2",
+    "objectId": "e00de25a-6317-4973-866f-0b39cfa16a39",
     "updatedAt": "2022-12-12 22:51:51"
   },
   {
@@ -348,7 +931,7 @@
     "productModel": "DCO-AL00",
     "productName": "HUAWEI Mate 50RS",
     "createdAt": "2022-12-11 20:15:33",
-    "objectId": "b5b7a421-adcf-41e1-b238-21611187c2f8",
+    "objectId": "1a259321-9ee3-449b-a22b-1650a871b482",
     "updatedAt": "2022-12-11 20:15:33"
   },
   {
@@ -359,19 +942,19 @@
     "productModel": "V2068A",
     "productName": "PD2068",
     "createdAt": "2022-12-10 02:01:01",
-    "objectId": "d6439fe7-3b00-4eab-acdb-4f44238b5053",
+    "objectId": "5b7948a3-2dc2-45c2-a69b-624e3a679312",
     "updatedAt": "2022-12-10 02:01:01"
   },
   {
-    "marketName": "魅族18",
+    "marketName": "魅族17Pro",
     "productBrand": "meizu",
     "productDevice": "meizu17Pro",
     "productManufacturer": "meizu",
     "productModel": "meizu 17 Pro",
     "productName": "meizu_17Pro_N_CN",
     "createdAt": "2022-11-30 00:46:38",
-    "objectId": "6d60c054-6fe3-4371-9243-0978c65b2a04",
-    "updatedAt": "2022-11-30 00:46:38"
+    "objectId": "aae5a4ce-89de-43c1-84c3-1eb8a1b385d7",
+    "updatedAt": "2024-03-26 13:31:54"
   },
   {
     "marketName": "Redmi K40 Pro+",
@@ -381,7 +964,7 @@
     "productModel": "M2012K11C",
     "productName": "haydnpro",
     "createdAt": "2022-11-28 10:47:15",
-    "objectId": "2c0ceb24-fe3d-4698-8caa-0dc3b9e18c69",
+    "objectId": "d014f397-8319-4c91-a4ca-d6756904b590",
     "updatedAt": "2022-11-28 10:47:15"
   },
   {
@@ -392,7 +975,7 @@
     "productModel": "PEQM00",
     "productName": "PEQM00",
     "createdAt": "2022-11-24 08:03:01",
-    "objectId": "fa1648dc-ba22-4464-b701-b4840e933001",
+    "objectId": "6ca7aeee-9ccb-44e7-a921-639c5bdfa42f",
     "updatedAt": "2022-11-24 08:03:01"
   },
   {
@@ -403,7 +986,7 @@
     "productModel": "LLD-AL00",
     "productName": "LLD-AL00",
     "createdAt": "2022-11-22 14:06:24",
-    "objectId": "cb3b11b9-31d9-4d2d-ae89-120084825946",
+    "objectId": "60afba0a-0352-481c-a3d0-62ffc26c3c4b",
     "updatedAt": "2022-11-22 14:06:24"
   },
   {
@@ -414,7 +997,7 @@
     "productModel": "Lenovo TB-9707F",
     "productName": "TB-9707F_PRC",
     "createdAt": "2022-11-16 13:56:38",
-    "objectId": "af6864b7-09eb-4c4e-a691-a386d4ed4adf",
+    "objectId": "ff476ec1-4da8-4ba8-ba62-3ae13a17ff6d",
     "updatedAt": "2022-11-16 13:56:38"
   },
   {
@@ -425,7 +1008,7 @@
     "productModel": "PCLM10",
     "productName": "PCLM10",
     "createdAt": "2022-11-15 17:02:13",
-    "objectId": "76160315-310f-4dfb-bb1e-4cc5897f8366",
+    "objectId": "3a2db933-4b84-473f-89ee-7dedea41809f",
     "updatedAt": "2022-11-20 15:40:46"
   },
   {
@@ -436,7 +1019,7 @@
     "productModel": "VOG-TL00",
     "productName": "VOG-TL00",
     "createdAt": "2022-11-03 23:25:59",
-    "objectId": "eaa4b9a2-84d0-482e-88bd-4aa470fc27b4",
+    "objectId": "dda4f648-f25e-40f2-bf1a-c0c4bd3c428e",
     "updatedAt": "2022-11-03 23:25:59"
   },
   {
@@ -447,7 +1030,7 @@
     "productModel": "SHARK PAR-A0",
     "productName": "PAR-A0",
     "createdAt": "2022-10-26 22:36:17",
-    "objectId": "7c07d8c7-5493-4b42-b752-b073c1777f5b",
+    "objectId": "58ba7443-d98a-4552-a2b0-65b5eede2051",
     "updatedAt": "2022-11-20 15:43:15"
   },
   {
@@ -458,7 +1041,7 @@
     "productModel": "ONEPLUS A6000",
     "productName": "OnePlus6",
     "createdAt": "2022-10-24 00:45:15",
-    "objectId": "4b11b85d-e446-46c0-8efd-c176a268fc1e",
+    "objectId": "764cdea9-3d5a-4608-98c3-0252851a940e",
     "updatedAt": "2022-10-24 00:45:15"
   },
   {
@@ -469,7 +1052,7 @@
     "productModel": "F21 Pro",
     "productName": "full_k61v1_64_bsp",
     "createdAt": "2022-10-23 17:07:11",
-    "objectId": "10a6a03a-98c0-44fd-916c-b8b822b58712",
+    "objectId": "93055570-cbea-41e3-a2b0-43f9d5e31927",
     "updatedAt": "2022-10-23 17:07:11"
   },
   {
@@ -480,7 +1063,7 @@
     "productModel": "Redmi Note 4X",
     "productName": "nikel",
     "createdAt": "2022-10-23 13:58:45",
-    "objectId": "fed71942-9283-4d3c-b4ca-91a4102abf97",
+    "objectId": "f192f436-2e12-4c08-a43f-6a50ba3af82a",
     "updatedAt": "2022-10-23 13:58:45"
   },
   {
@@ -491,7 +1074,7 @@
     "productModel": "Redmi Note 7",
     "productName": "lavender",
     "createdAt": "2022-10-12 23:16:47",
-    "objectId": "c97cfd00-78fd-4ccb-b449-75c1961903b9",
+    "objectId": "03a69560-0db2-4064-9e7e-212dbf6961c3",
     "updatedAt": "2022-10-12 23:16:47"
   },
   {
@@ -502,7 +1085,7 @@
     "productModel": "2206123SC",
     "productName": "mayfly",
     "createdAt": "2022-10-12 11:19:58",
-    "objectId": "81a5e360-9d5b-43de-92a6-5b059d171a0a",
+    "objectId": "b7fde264-333d-4e74-ae53-d5b43f6e73f5",
     "updatedAt": "2022-10-12 11:19:58"
   },
   {
@@ -513,7 +1096,7 @@
     "productModel": "IN2020",
     "productName": "OnePlus8Pro_CH",
     "createdAt": "2022-10-12 00:18:47",
-    "objectId": "abab0468-825d-4283-9b4b-e3922bf4d054",
+    "objectId": "6ae7546c-55ba-40ab-a8bc-c164664e2c2c",
     "updatedAt": "2022-10-12 00:18:47"
   },
   {
@@ -524,7 +1107,7 @@
     "productModel": "Redmi K50 G",
     "productName": "raphael",
     "createdAt": "2022-10-04 21:22:55",
-    "objectId": "0c483773-1b0c-49ce-8981-5a91e3f69707",
+    "objectId": "347b8105-6f6d-4e9c-a85b-97655d5f42fa",
     "updatedAt": "2022-10-04 21:22:55"
   },
   {
@@ -535,7 +1118,7 @@
     "productModel": "DUK-AL20",
     "productName": "DUK-AL20",
     "createdAt": "2022-10-04 10:20:07",
-    "objectId": "1d012449-9063-4ae7-984e-0e09fab19177",
+    "objectId": "795a3d9a-8f24-486a-b76b-3bcdefc444d6",
     "updatedAt": "2022-10-04 10:20:07"
   },
   {
@@ -546,7 +1129,7 @@
     "productModel": "22081212C",
     "productName": "diting",
     "createdAt": "2022-09-25 17:41:33",
-    "objectId": "c7071695-3a42-43aa-9cfe-382615450e8f",
+    "objectId": "2d6b0b60-f773-4413-8de9-c03517f2c498",
     "updatedAt": "2022-09-25 17:41:33"
   },
   {
@@ -557,7 +1140,7 @@
     "productModel": "2109119BC",
     "productName": "zijin",
     "createdAt": "2022-09-25 06:26:32",
-    "objectId": "b714dae2-ed34-452a-9a1f-c2bf683b3e18",
+    "objectId": "b24edc50-7a82-4f0f-95cc-d03eaea8ec3b",
     "updatedAt": "2022-09-25 06:26:32"
   },
   {
@@ -568,7 +1151,7 @@
     "productModel": "GM1910",
     "productName": "OnePlus7Pro_CH",
     "createdAt": "2022-09-18 21:50:25",
-    "objectId": "b3924692-fb6a-4ca1-91ef-91452dc5ae07",
+    "objectId": "ce6da0b9-68bf-48f9-895a-e57977ee6a5a",
     "updatedAt": "2022-09-18 21:50:25"
   },
   {
@@ -579,7 +1162,7 @@
     "productModel": "2206122SC",
     "productName": "unicorn",
     "createdAt": "2022-09-16 20:40:48",
-    "objectId": "ad219901-dde3-4f9e-be79-d80121006d4a",
+    "objectId": "0d8c672d-3b93-413b-be38-62dd1ecd8a48",
     "updatedAt": "2022-09-16 20:40:48"
   },
   {
@@ -590,7 +1173,7 @@
     "productModel": "JAD-AL50",
     "productName": "jade",
     "createdAt": "2022-09-11 12:30:19",
-    "objectId": "6aa3e72a-71ed-486a-9ca2-9c484a38f859",
+    "objectId": "c9519b23-3c3f-46d8-ad60-704ae93f1011",
     "updatedAt": "2022-12-07 19:20:59"
   },
   {
@@ -601,7 +1184,7 @@
     "productModel": "Redmi Note 8 Pro",
     "productName": "begonia",
     "createdAt": "2022-08-28 00:30:23",
-    "objectId": "3ee28e5a-a5d2-4abd-a436-829529075836",
+    "objectId": "a0bfbd98-5db0-4171-a4a8-a7583d2f1e0b",
     "updatedAt": "2022-08-28 00:30:23"
   },
   {
@@ -612,7 +1195,7 @@
     "productModel": "M2105K81AC",
     "productName": "elish",
     "createdAt": "2022-08-22 13:10:59",
-    "objectId": "411e2838-227a-40b2-924d-a6dc90496d49",
+    "objectId": "5b795872-5e56-475d-a372-fb8cd76f6587",
     "updatedAt": "2022-11-20 15:52:35"
   },
   {
@@ -623,7 +1206,7 @@
     "productModel": "NX563J",
     "productName": "NX563J",
     "createdAt": "2022-08-21 22:21:01",
-    "objectId": "28a116c5-7cd0-4a12-a45b-f198209be6e9",
+    "objectId": "7d55cc0a-a45c-43a9-bd05-4d7ec69bb7f8",
     "updatedAt": "2022-08-21 22:21:01"
   },
   {
@@ -634,7 +1217,7 @@
     "productModel": "PCHM10",
     "productName": "PCHM10",
     "createdAt": "2022-08-19 22:48:29",
-    "objectId": "04c48ef1-55f4-42c7-97cc-6f8272ad9404",
+    "objectId": "6f57d570-2e91-4ca3-892f-bf9ce9836e17",
     "updatedAt": "2022-08-19 22:48:29"
   },
   {
@@ -645,7 +1228,7 @@
     "productModel": "Redmi 6A",
     "productName": "cactus",
     "createdAt": "2022-08-17 11:48:04",
-    "objectId": "8f44c553-c128-4e06-8d43-77378bfc910f",
+    "objectId": "9252d798-ae18-4327-bfed-a33974204e75",
     "updatedAt": "2022-08-20 15:19:02"
   },
   {
@@ -656,7 +1239,7 @@
     "productModel": "21091116C",
     "productName": "pissarro",
     "createdAt": "2022-08-15 21:00:59",
-    "objectId": "8e779593-ab52-45dc-9edf-eee70e29f51a",
+    "objectId": "c0cd2ccf-63ce-4efb-8449-16643d396f2d",
     "updatedAt": "2022-08-15 21:00:59"
   },
   {
@@ -667,7 +1250,7 @@
     "productModel": "PFEM10_ACE",
     "productName": "OPPO PDHM00_ACE",
     "createdAt": "2022-08-06 17:37:48",
-    "objectId": "cf201429-c19e-470d-a77c-79b43423db29",
+    "objectId": "4ee6fb17-0922-4b25-886b-db678a654d2d",
     "updatedAt": "2022-08-20 15:19:32"
   },
   {
@@ -678,7 +1261,7 @@
     "productModel": "MI 6X MIKU",
     "productName": "wayne",
     "createdAt": "2022-08-05 15:09:50",
-    "objectId": "2c880820-c9d2-4e4e-abd3-847a9fcd04a3",
+    "objectId": "7233458d-780d-414e-9dbf-6e48425b4201",
     "updatedAt": "2022-08-05 15:09:50"
   },
   {
@@ -689,7 +1272,7 @@
     "productModel": "22021211RC",
     "productName": "munch",
     "createdAt": "2022-08-04 14:28:09",
-    "objectId": "0b5ea469-931a-4c6e-9624-1e4c8d7fa52c",
+    "objectId": "30eda55b-ac09-4433-8f63-8977239f45d4",
     "updatedAt": "2022-08-04 14:28:09"
   },
   {
@@ -700,7 +1283,7 @@
     "productModel": "NE2210",
     "productName": "NE2210",
     "createdAt": "2022-08-02 15:21:46",
-    "objectId": "bc4aedd3-16bb-456f-b87d-64e13d56a943",
+    "objectId": "f6f2b9b6-ac34-4aff-bee4-0b195ecfe6a7",
     "updatedAt": "2022-08-02 15:21:46"
   },
   {
@@ -711,7 +1294,7 @@
     "productModel": "2203121C",
     "productName": "star",
     "createdAt": "2022-07-26 17:07:12",
-    "objectId": "82553b9f-84f2-4605-adb4-cadf59ab9020",
+    "objectId": "7f4af01b-f032-4543-920b-262f2845eca5",
     "updatedAt": "2022-07-26 17:07:12"
   },
   {
@@ -722,7 +1305,7 @@
     "productModel": "Redmi K30",
     "productName": "phoenix",
     "createdAt": "2022-07-25 12:34:25",
-    "objectId": "a6759540-1e00-43b3-b5e6-731f9379cb62",
+    "objectId": "371dbc7f-7f1b-4a52-a3fb-e0840dd9f7d1",
     "updatedAt": "2023-03-09 10:20:41"
   },
   {
@@ -733,7 +1316,7 @@
     "productModel": "RMX3031",
     "productName": "RMX3031",
     "createdAt": "2022-07-25 04:21:53",
-    "objectId": "76c2c542-879b-4948-b2dd-9e2bfc6a2f73",
+    "objectId": "586d06dd-76f9-4d44-b017-dab23a8ed0d1",
     "updatedAt": "2022-08-20 15:18:13"
   },
   {
@@ -744,7 +1327,7 @@
     "productModel": "V2055A",
     "productName": "PD2055",
     "createdAt": "2022-07-21 17:05:23",
-    "objectId": "13550173-b77d-4285-9641-d34079f37d6a",
+    "objectId": "551e45ea-cf74-408c-9873-2ec64731427e",
     "updatedAt": "2022-08-20 15:20:35"
   },
   {
@@ -755,7 +1338,7 @@
     "productModel": "iРhone 13 Рro Мax",
     "productName": "ares",
     "createdAt": "2022-07-15 02:19:03",
-    "objectId": "badc35d5-2154-4d0f-845f-bcc8d0e8dc87",
+    "objectId": "4db465f0-f6e2-4ce9-892a-929e9e15e37d",
     "updatedAt": "2022-07-15 02:19:03"
   },
   {
@@ -766,7 +1349,7 @@
     "productModel": "M2007J17C",
     "productName": "gauguinpro",
     "createdAt": "2022-07-11 00:38:53",
-    "objectId": "7a7c2653-e37a-4721-828e-afec1966d64f",
+    "objectId": "668fbd84-d750-45b2-af20-52e5dadac736",
     "updatedAt": "2022-07-11 00:38:53"
   },
   {
@@ -777,7 +1360,7 @@
     "productModel": "V2186A",
     "productName": "OPPO PFEM10",
     "createdAt": "2022-07-02 22:41:40",
-    "objectId": "11ba965f-f60e-432b-99e9-79e60071368e",
+    "objectId": "362ee61a-a728-4e72-83b8-96bb5ffa45b7",
     "updatedAt": "2022-07-02 22:41:40"
   },
   {
@@ -788,7 +1371,7 @@
     "productModel": "22041216C",
     "productName": "xaga",
     "createdAt": "2022-06-29 23:12:14",
-    "objectId": "ac3a73e4-28ce-442d-9dfa-e58bc0f98301",
+    "objectId": "0b6b77ed-88f0-45ab-b0e1-d06be14e6bee",
     "updatedAt": "2022-06-29 23:12:14"
   },
   {
@@ -799,7 +1382,7 @@
     "productModel": "M2102K1AC",
     "productName": "mars",
     "createdAt": "2022-06-29 22:07:08",
-    "objectId": "94e93ca9-9f17-4b05-a373-24ed6c5b8dbf",
+    "objectId": "3514bd88-ef29-4c92-bda0-042357728596",
     "updatedAt": "2022-06-29 22:07:08"
   },
   {
@@ -810,7 +1393,7 @@
     "productModel": "RMX3357",
     "productName": "RMX3357",
     "createdAt": "2022-06-29 08:52:37",
-    "objectId": "2bc90b5f-5d74-4a9d-a35b-7442b8630b10",
+    "objectId": "f16004ec-c9b8-4653-b685-beef7ec4308d",
     "updatedAt": "2022-06-29 08:52:37"
   },
   {
@@ -819,10 +1402,10 @@
     "productDevice": "",
     "productManufacturer": "Apple",
     "productModel": "Iphone 13 Pro Max",
-    "productName": "gauguinpro",
+    "productName": "",
     "createdAt": "2022-06-26 01:37:17",
-    "objectId": "a94d6b3f-29ad-47b7-8bbe-a674b8ef5e13",
-    "updatedAt": "2023-03-09 09:58:58"
+    "objectId": "96eee3c6-00a3-4b36-86e4-10f8ddb5e933",
+    "updatedAt": "2023-04-28 07:53:57"
   },
   {
     "marketName": "oppo find x5pro",
@@ -832,7 +1415,7 @@
     "productModel": "PFEM10",
     "productName": "OPPO PFEM10",
     "createdAt": "2022-06-25 18:17:33",
-    "objectId": "b78f582a-d295-414d-93b0-9b8aab565b52",
+    "objectId": "4a8eaa78-d790-4586-823b-69efa99aec9a",
     "updatedAt": "2022-06-25 18:17:33"
   },
   {
@@ -843,7 +1426,7 @@
     "productModel": "M2011K2C",
     "productName": "venus",
     "createdAt": "2022-06-21 13:11:51",
-    "objectId": "a1e0c5d8-4de7-4ff8-a51f-3a7322273cd4",
+    "objectId": "bc4743fa-52a3-454d-96f8-7b04707d573c",
     "updatedAt": "2022-06-21 13:11:51"
   },
   {
@@ -854,7 +1437,7 @@
     "productModel": "Redmi Note 8",
     "productName": "ginkgo",
     "createdAt": "2022-06-19 16:07:44",
-    "objectId": "8f91ccb2-9d42-44d9-97e7-0e342394be56",
+    "objectId": "8e8adb48-a80d-44c4-b041-0931954b7d14",
     "updatedAt": "2022-12-01 18:58:30"
   },
   {
@@ -865,7 +1448,7 @@
     "productModel": "22011211C",
     "productName": "matisse",
     "createdAt": "2022-06-18 10:40:51",
-    "objectId": "b9b61e97-8c5b-4031-a693-71b0f72a4928",
+    "objectId": "314b90e1-87e8-4cd3-8d4c-0dd8012d9caf",
     "updatedAt": "2022-06-18 10:40:51"
   },
   {
@@ -876,7 +1459,7 @@
     "productModel": "SM-G977N",
     "productName": "beyondxxx",
     "createdAt": "2022-06-16 08:57:17",
-    "objectId": "57b1f588-f91f-4e85-bab5-fa5b29d9f003",
+    "objectId": "69c3fe3d-101b-42d5-8556-5f7b47d766f9",
     "updatedAt": "2022-06-16 08:57:17"
   },
   {
@@ -887,7 +1470,7 @@
     "productModel": "V2057A",
     "productName": "PD2057",
     "createdAt": "2022-06-11 19:11:15",
-    "objectId": "24fa7e02-bf9c-472f-86c8-a8f2f5293eca",
+    "objectId": "741b896c-ea3c-4446-b085-d86a9caf53b0",
     "updatedAt": "2022-06-11 19:11:15"
   },
   {
@@ -898,7 +1481,7 @@
     "productModel": "Redmi Note 7 Pro",
     "productName": "violet",
     "createdAt": "2022-06-08 00:58:15",
-    "objectId": "cfd28796-cc5f-47a7-939f-e7452403eb6d",
+    "objectId": "8a041a80-0e10-4282-8452-e6ed5353c9bb",
     "updatedAt": "2022-06-08 00:58:15"
   },
   {
@@ -909,7 +1492,7 @@
     "productModel": "MI 6",
     "productName": "sagit",
     "createdAt": "2022-06-04 04:43:59",
-    "objectId": "11570f90-2218-4846-9416-ac9d1e7ecb39",
+    "objectId": "bb342df0-0bf0-4655-8e4b-a9c373386e1d",
     "updatedAt": "2022-08-20 15:20:52"
   },
   {
@@ -920,7 +1503,7 @@
     "productModel": "pelx",
     "productName": "caoguimin",
     "createdAt": "2022-05-19 21:50:25",
-    "objectId": "e283c6c1-af87-41bb-ab20-216f018cc435",
+    "objectId": "55332e02-b34d-4b30-9fa6-45bc3f395e5a",
     "updatedAt": "2022-08-20 15:21:13"
   },
   {
@@ -931,7 +1514,7 @@
     "productModel": "22041211AC",
     "productName": "rubens",
     "createdAt": "2022-05-13 13:31:39",
-    "objectId": "2562f871-4625-4f3f-a382-9ed9b0aebc79",
+    "objectId": "c02ddccc-6bc2-4fd8-ae9b-6af203a00a80",
     "updatedAt": "2022-05-13 13:31:39"
   },
   {
@@ -942,7 +1525,7 @@
     "productModel": "M2007J22C",
     "productName": "cannon",
     "createdAt": "2022-05-09 23:44:42",
-    "objectId": "1251c76f-6997-43ac-a491-efa771097d5d",
+    "objectId": "422fb450-2636-4e42-a17b-a02dc827a64a",
     "updatedAt": "2022-05-09 23:44:42"
   },
   {
@@ -953,7 +1536,7 @@
     "productModel": "MIX 2",
     "productName": "chiron",
     "createdAt": "2022-05-07 13:12:47",
-    "objectId": "cb387c84-057d-43e4-b2a1-e713b43afa9e",
+    "objectId": "cb539c4e-b1c0-460e-b0de-8ce03c2e9e9c",
     "updatedAt": "2023-03-09 10:20:15"
   },
   {
@@ -964,7 +1547,7 @@
     "productModel": "21121210C",
     "productName": "ingres",
     "createdAt": "2022-05-02 12:07:47",
-    "objectId": "5273a93b-3a14-456a-84b4-81404a808288",
+    "objectId": "8e6a6b28-64f9-4992-bc19-63763f575a2f",
     "updatedAt": "2022-05-02 12:07:47"
   },
   {
@@ -975,7 +1558,7 @@
     "productModel": "2201122C",
     "productName": "Zeus",
     "createdAt": "2022-05-01 01:11:17",
-    "objectId": "fb666fda-d12e-47e6-9fc0-21bf4089c940",
+    "objectId": "55fe5f6c-794a-4ab9-a826-67acc1cc9ddb",
     "updatedAt": "2022-05-01 01:11:17"
   },
   {
@@ -986,7 +1569,7 @@
     "productModel": "M2012K10C",
     "productName": "alioth",
     "createdAt": "2022-04-22 21:29:12",
-    "objectId": "a6023258-8b19-40e2-ab65-7e15092caa34",
+    "objectId": "930ccd5e-280c-4d2f-97ef-13cb64ce7bae",
     "updatedAt": "2022-04-22 21:29:12"
   },
   {
@@ -997,7 +1580,7 @@
     "productModel": "RMX3560",
     "productName": "RMX3560",
     "createdAt": "2022-04-20 05:54:56",
-    "objectId": "4ee60d8c-0522-43b4-ad07-7cc8658e84fc",
+    "objectId": "cafb3918-1438-435c-8553-553a80886513",
     "updatedAt": "2022-04-20 05:54:56"
   },
   {
@@ -1008,7 +1591,7 @@
     "productModel": "Redmi K30 5G",
     "productName": "picasso",
     "createdAt": "2022-04-16 18:20:03",
-    "objectId": "150ead5e-2ed8-45bb-bc39-78efe8330919",
+    "objectId": "050e529b-1588-4910-b44a-9692a9abfd88",
     "updatedAt": "2022-05-21 15:40:05"
   },
   {
@@ -1019,7 +1602,7 @@
     "productModel": "Mi 12 pro",
     "productName": "matisse",
     "createdAt": "2022-04-10 16:58:13",
-    "objectId": "8fc2c3ea-5a1f-4f25-9d29-deae54de0906",
+    "objectId": "2a78784a-2e73-4e92-9046-4c33186d5f58",
     "updatedAt": "2022-04-10 16:58:13"
   },
   {
@@ -1030,7 +1613,7 @@
     "productModel": "Mi 10",
     "productName": "umi",
     "createdAt": "2022-04-10 12:06:46",
-    "objectId": "0c7637b2-803e-461b-8f8e-b1c563efbdcd",
+    "objectId": "5fd2f24f-cc01-44b0-9c8f-fbd4b6e496d9",
     "updatedAt": "2022-04-10 12:06:46"
   },
   {
@@ -1041,7 +1624,7 @@
     "productModel": "RMX3370",
     "productName": "RMX3370",
     "createdAt": "2022-04-09 13:49:00",
-    "objectId": "51dd9703-ca9b-4e67-878b-b4bb0322f735",
+    "objectId": "ba0a3103-e566-4dd8-9846-910bd9b9dbcc",
     "updatedAt": "2022-04-09 13:49:00"
   },
   {
@@ -1052,7 +1635,7 @@
     "productModel": "21091116UC",
     "productName": "pissarropro",
     "createdAt": "2022-04-01 19:58:40",
-    "objectId": "11f469d5-fe11-4025-9b0b-a305f1c9fb56",
+    "objectId": "5ee20d24-487f-48ba-a4cb-cb336921cff4",
     "updatedAt": "2022-04-01 19:58:40"
   },
   {
@@ -1063,7 +1646,7 @@
     "productModel": "Mi 10 Pro",
     "productName": "cmi",
     "createdAt": "2022-03-12 21:30:24",
-    "objectId": "251baf54-98af-4ba3-8c9f-2518c42a6a02",
+    "objectId": "a5cd2878-2607-43f6-a38a-97b04fa3c51c",
     "updatedAt": "2022-03-12 21:30:24"
   },
   {
@@ -1074,7 +1657,7 @@
     "productModel": "M2007J3SC",
     "productName": "apollo",
     "createdAt": "2022-03-07 06:29:16",
-    "objectId": "e146cd4c-38f2-49e1-99ce-fa05c87e81b0",
+    "objectId": "e92cddcd-ba57-4a10-9c95-febc998c4c3c",
     "updatedAt": "2022-03-07 06:29:16"
   },
   {
@@ -1085,7 +1668,7 @@
     "productModel": "M2104K10AC",
     "productName": "chopin",
     "createdAt": "2022-03-04 20:57:54",
-    "objectId": "688d34d3-1e9c-42be-91e6-97bcb92912a9",
+    "objectId": "94355326-2f7e-41bd-b438-51fbf0f84d22",
     "updatedAt": "2022-03-04 20:57:54"
   },
   {
@@ -1096,7 +1679,7 @@
     "productModel": "MI 8",
     "productName": "dipper",
     "createdAt": "2022-03-02 16:03:55",
-    "objectId": "98870e44-dc4c-4fb3-8909-5a607a033a4f",
+    "objectId": "0d65731f-b357-462a-ba9d-29c8fa719042",
     "updatedAt": "2022-03-02 16:03:55"
   },
   {
@@ -1107,7 +1690,7 @@
     "productModel": "MI 9",
     "productName": "zeus",
     "createdAt": "2022-03-02 14:25:45",
-    "objectId": "d678d7c5-e178-4045-bb8f-4c27a8f55586",
+    "objectId": "0d917a15-9799-4ae6-bfd9-97c6e93eac92",
     "updatedAt": "2022-03-10 12:37:32"
   },
   {
@@ -1118,7 +1701,7 @@
     "productModel": "M2007J1SC",
     "productName": "cas",
     "createdAt": "2022-02-28 00:29:37",
-    "objectId": "11f1e1d7-f85b-4b2f-a877-cc228a853f83",
+    "objectId": "3253a7bd-1e4f-4141-a5f7-0054bb849b32",
     "updatedAt": "2022-02-28 00:29:37"
   },
   {
@@ -1129,7 +1712,7 @@
     "productModel": "M2102K1C",
     "productName": "gauguinpro",
     "createdAt": "2022-02-23 00:49:34",
-    "objectId": "2a51d4c7-3b00-400d-86f3-d999abc8bdaa",
+    "objectId": "0609518c-7aed-4b87-afa8-59a5c3587c93",
     "updatedAt": "2022-02-23 00:49:34"
   },
   {
@@ -1140,7 +1723,7 @@
     "productModel": "M2004J7AC",
     "productName": "atom",
     "createdAt": "2022-02-22 23:09:49",
-    "objectId": "fe6da34e-ebff-4da8-9830-29e7990fc4b1",
+    "objectId": "47d6891b-b1cc-46ef-a113-564c9011eec9",
     "updatedAt": "2022-02-22 23:09:49"
   },
   {
@@ -1151,7 +1734,7 @@
     "productModel": "BKL-AL20",
     "productName": "BKL-AL20",
     "createdAt": "2022-02-22 21:48:25",
-    "objectId": "d0d13c07-a430-4152-91a7-003bcbab64f9",
+    "objectId": "4636ec10-35eb-43fa-952d-5002609c015c",
     "updatedAt": "2022-02-22 21:48:25"
   },
   {
@@ -1162,7 +1745,7 @@
     "productModel": "Mi MIX 2",
     "productName": "mk_chiron",
     "createdAt": "2022-02-19 11:21:11",
-    "objectId": "45c7a4eb-2f5e-4ea5-911a-01ecabc45056",
+    "objectId": "7fc89c18-c84c-4198-8a0d-3dd515d3a1ac",
     "updatedAt": "2022-02-19 11:21:11"
   },
   {
@@ -1173,7 +1756,7 @@
     "productModel": "M2006J10C",
     "productName": "cezanne",
     "createdAt": "2022-02-19 07:26:25",
-    "objectId": "d346ff09-0c1b-4c4d-a54a-a125da33ea13",
+    "objectId": "f882447a-8679-49a8-98fd-18fc29571e96",
     "updatedAt": "2022-02-19 07:26:25"
   },
   {
@@ -1184,7 +1767,7 @@
     "productModel": "M2102J2SC",
     "productName": "thyme",
     "createdAt": "2022-02-15 23:43:56",
-    "objectId": "8cea3c3f-a8ad-46ee-8d39-fd8c446142cd",
+    "objectId": "f9de8aa8-10e3-49ba-a50f-c3b0876c4a3c",
     "updatedAt": "2022-02-15 23:43:56"
   },
   {
@@ -1195,7 +1778,7 @@
     "productModel": "Mi 11 Pro",
     "productName": "mars",
     "createdAt": "2022-02-15 21:31:07",
-    "objectId": "44b100c0-1bd5-4353-9ce3-03dd941c1990",
+    "objectId": "0be0d58a-3cad-4c20-b32b-cb192db7fd47",
     "updatedAt": "2022-02-15 21:31:07"
   },
   {
@@ -1206,7 +1789,7 @@
     "productModel": "Mi9 Pro 5G",
     "productName": "crux",
     "createdAt": "2022-02-15 20:47:27",
-    "objectId": "a667e99b-7009-4f88-84ad-0c7d639f9e0e",
+    "objectId": "b2d77525-be35-423e-845e-aa53c3bff877",
     "updatedAt": "2022-02-15 20:47:27"
   },
   {
@@ -1217,7 +1800,7 @@
     "productModel": "2106118C",
     "productName": "odin",
     "createdAt": "2022-02-15 11:36:08",
-    "objectId": "d9a9c949-2606-4d38-a52d-2aca4fe3529f",
+    "objectId": "bcc44649-a806-4aa6-8a60-1c7988f5eb73",
     "updatedAt": "2022-02-15 11:36:08"
   },
   {
@@ -1228,7 +1811,7 @@
     "productModel": "Redmi 8A",
     "productName": "olivelite",
     "createdAt": "2022-02-15 11:06:43",
-    "objectId": "4be04287-4ccd-460c-8bb5-988bdbb34aa2",
+    "objectId": "e97c44c5-2262-4891-8b20-3f230a625cf7",
     "updatedAt": "2022-02-15 11:06:43"
   },
   {
@@ -1239,7 +1822,7 @@
     "productModel": "M2012K11AC",
     "productName": "alioth",
     "createdAt": "2022-02-14 17:15:46",
-    "objectId": "bf554cf4-6028-4992-bb8f-f8f479a26a5c",
+    "objectId": "cc6f26f8-834f-4028-8153-3ca1de79090c",
     "updatedAt": "2022-02-14 17:15:46"
   },
   {
@@ -1250,7 +1833,7 @@
     "productModel": "M2010J19SC",
     "productName": "lime",
     "createdAt": "2022-02-14 15:28:01",
-    "objectId": "17706ca1-fbcf-49a0-be0e-a3cf6ba43352",
+    "objectId": "e86ab3b2-cb74-485c-b424-0d75b3ba738a",
     "updatedAt": "2022-02-14 15:28:01"
   }
 ]
