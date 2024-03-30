@@ -414,6 +414,7 @@
   "keyWordSkipAds": {
     "org.qiyi.android.video.MainActivity": "关闭"
   },
+  "bucketWorkPath": "%E7%9B%B4%E9%93%BE%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%88%B1%E7%8E%A9%E6%9C%BA%E5%AD%98%E5%82%A8%E6%A1%B6",
   "downloadCount": {
     "RescueBrick": 207995,
     "WorkSettingPro": 103454,
