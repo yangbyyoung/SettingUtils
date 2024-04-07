@@ -5,6 +5,56 @@
     "UpdateTypeLabel": "稳定版(Stable)",
     "cloudModuleAuditTime": "2022-10-31 00:00:00",
     "notificationQuery": false,
+    "updatelog": "新增一个备用服务器，防止部分情况下夜间欠费来不及续费\n替换shizuku下载资源链接\n修复安装器加载一些网络下的安装包异常问题\n优化缓存清理过多卡死问题\n修复批量分享应用遇到apks应用依旧分享apk问题\n优化分享应用进度条逻辑\n修复权限管理在无root权限下无法申请取权限",
+    "version": "S-22.0.8.7",
+    "createdAt": "2024-04-02 12:24:39",
+    "objectId": "ce19073a-4219-42df-a3b6-4da77d46ba79",
+    "updatedAt": "2024-04-02 12:24:39"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "修复magisk转ksu后导致应用无法申请到root权限问题\n新增提权插件版本检测，若提权插件版本过低则会提示引导更新为新版\n修复部分功能因提权插件版本过低导致部分功能闪退\n修复夜间模式多选框看不清问题\n修复部分设备壁纸模式主题闪烁异常\n修复部分设备多音量调节崩溃问题\n部分设备有root获取帧率异常\n修复白色主题下顶部配色问题\n修复终端异步页面无法终止操作\n修复部分页面丢失进度条问题\n修复部分系统卸载了谷歌服务导致应用调用系统权限管理崩溃问题",
+    "version": "S-22.0.8.6",
+    "createdAt": "2024-04-02 11:10:10",
+    "objectId": "44a16fe5-1ca4-4bce-a68a-53e94beff34d",
+    "updatedAt": "2024-04-02 11:10:10"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "部分apatch用户即使有root权限也无法加载模块列表请在apatch管理器设置页面开启全局处理，或停用软件root权限后打开软件，再停止软件开启root刷新挂载路径\n电池管理页面新增售后电池健康度查询，该功能可能由系统云控控制，故可能需要在质保期内的设备方可查询到\n修复一加安卓13设备菜单栏页面空白页面异常显示问题\n应用通知管理增强，上线免root拆分屏蔽通知功能\n通知管理新增拆分通知功能管理，可单独屏蔽某条通知\n内存扩展开关与大小设置合并\n修复部分内测用户丢失云端仓库问题\n修复ttf文件转mtz因文件名异常导致没有输出\n修复部分页面显示异常\n修复无root权限下打开正在运行的服务为空\n修复wsa部分设备卡死问题\n修复安卓15设备部分功能页面崩溃问题\n修复备份基带频繁提示root权限造成卡死问题",
+    "version": "S-22.0.8.4",
+    "createdAt": "2024-03-17 19:38:24",
+    "objectId": "da301c9b-aac5-4525-9588-3f1fe8015314",
+    "updatedAt": "2024-03-17 19:38:24"
+  },
+
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "修复部分用户从阿尔法版本切换稳定版导致无限跳转更新问题\n恢复仓库功能，引入全新协议说明与指引\n修复双开应用提示打开成功但是无反应问题\n修复apatch部分用户无法申请root权限问题(安装模块成功后需重启设备)\n优化小米一键换机识别逻辑，检测到应用通过小米换机将引导用户卸载重装避免部分功能识别丢失\n修复权限中心空白问题\n修复部分搜索页面卡死问题\n优化提示部分功能需要重启生效提示\n优化QQ登录弹窗说明逻辑\n修复magisk27.0提示文件不存在问题",
+    "version": "S-22.0.8.3",
+    "createdAt": "2024-03-01 07:41:04",
+    "objectId": "70b34781-bd0b-4f62-941d-0aafc92775f2",
+    "updatedAt": "2024-03-01 07:41:04"
+  },
+
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
     "updatelog": "添加安卓15，名称为VanillaIceCream识别\n修复部分安卓14设备卡死问题\n修复安卓13，安卓14系统更换API后导致无法还原DPI问题\n修复批量卸载自动后台问题\n修复批量卸载丢失通知回馈与操作完毕不会主动刷新列表问题\n修复仓库频繁搜索导致服务器卡死\/应用崩溃问题(仅尝试性修复)\n应用管理多选新增批量提取功能\n优化内测群认证逻辑\n因不再维护免费用户功能(详情酷安评论区已有解释)，应用将有些资金改进优化\n1:开放多设备云备份设置功能\n2:xp模块搜索时可根据作用域搜索(仅限部分)\n修复上传云备份设置崩溃问题\n修复安卓8.0以下设备点击关于页面崩溃问题\n刷机工具箱上线Kitsune Mask下载\n悬浮窗优化，新增状态栏沉浸模式\n悬浮窗优化，支持将悬浮窗放到状态栏上\n悬浮窗极简电池功能优化，每5秒则显示一次电池温度\n修复应用组件一键解冻后提示被冻结\n悬浮窗优化，支持将网速状态栏放置悬浮窗\n悬浮窗优化，支持网速悬浮窗在无网速下自动隐藏\n修复安卓7.0悬浮窗异常问题\n重做DPI分辨率修改等逻辑功能\n\ne913c95a9f，圣诞节py码\n",
     "version": "S-22.0.8.1",
     "color": "GoogleBlue",
