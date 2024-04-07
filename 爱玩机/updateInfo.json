@@ -238,7 +238,7 @@
     "cloudModuleAuditTime": "2022-10-31 00:00:00",
     "color": "GoogleBlue",
     "notificationQuery": false,
-    "updatelog": "自动点击功能新增类作用域，防止部分情况下误触\n修复安卓5.1设备获取mi\nsdk概率性闪退\n修复arm32位设备因性能不足导致部分功能闪退\n修复安卓7.0以下设备获取所有软件概率为空\n万能剪切板优化MIUIhome分享策略，支持识别应用进行二次改名分享/转为apks分享出去\n完善部分功能无法被搜索到",
+    "updatelog": "自动点击功能新增类作用域，防止部分情况下误触\n修复安卓5.1设备获取miSdk概率性闪退\n修复arm32位设备因性能不足导致部分功能闪退\n修复安卓7.0以下设备获取所有软件概率为空\n万能剪切板优化MIUIhome分享策略，支持识别应用进行二次改名分享/转为apks分享出去\n完善部分功能无法被搜索到",
     "version": "S-22.0.6.8",
     "createdAt": "2023-07-04 19:03:12",
     "objectId": "0fc1b359-4ef7-4ec5-a12a-b9abcacbc64e",
