@@ -130,13 +130,6 @@
     "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json"
   },
   {
-    "id": "bootloop_save_key",
-    "name": "Auto out of bootloop",
-    "author": "key",
-    "description": "在 [ /cache /data /mnt/vendor/persist /data/unencrypted ] 目录创建文件 [ dismod ] 可禁用模块，[ remod ]则移除所有模块，其他情况会自动救砖。",
-    "updateJson": "https://keytoolazy.coding.net/p/hms-core/d/HMS-CORE/git/raw/master/bootloop/update.json"
-  },
-  {
     "id": "chiller3.bcr",
     "name": "BCR",
     "author": "chenxiaolong",
