@@ -51,13 +51,7 @@
     "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
     "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json"
   },
-  {
-    "id": "oppotimize",
-    "name": "A关闭OPPO 优化",
-    "author": "酷安：官宣吖",
-    "description": "顾名思义.不做解释",
-    "updateJson": "https://gitee.com/slamdunka/i-inhuman/raw/master/op.json"
-  },
+
   {
     "id": "AOSPMods",
     "name": "AOSP Mods - Full Version",
@@ -958,7 +952,7 @@
 
 
 
-  
+
 
 
 
