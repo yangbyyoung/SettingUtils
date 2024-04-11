@@ -235,20 +235,7 @@
     "description": "Framework for installing the Google Dialer/Google Phone on Android",
     "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json"
   },
-  {
-    "id": "huoXY",
-    "name": "定应用分辨率",
-    "author": "HChai",
-    "description": "打开指定应用修改分辨率 [配置文件路径:/data/adb/modules/huoXY/配置.conf]",
-    "updateJson": "https://gitee.com/ranks/Hcclear/raw/master/c.json"
-  },
-  {
-    "id": "miuidebugdisabler",
-    "name": "Don't debug!",
-    "author": "F-19-F@github",
-    "description": "关闭MIUI非必要调试模式，禁止surfaceflinger高频log(NOP)",
-    "updateJson": "https://saas.tf19.co/static/midebug/update.json"
-  },
+
   {
     "id": "Automatic_balancing_of_Dual_Loudspeakers",
     "name": "非对称双扬音量平衡(识别耳机)",
@@ -284,13 +271,7 @@
     "description": "调用系统进行dex2oat编译，配置和日志所在文件夹：/data/adb/Dex2oatRUN",
     "updateJson": "https://raw.githubusercontent.com/SuxueSaMa/Dex2oatRUN/main/update.json"
   },
-  {
-    "id": "freezeit",
-    "name": "冻它",
-    "author": "JARK006",
-    "description": "实现部分墓碑机制，自动暂停后台应用运行",
-    "updateJson": "https://ghproxy.com/https://raw.githubusercontent.com/jark006/freezeitRelease/main/update.json"
-  },
+
   {
     "id": "iris_helper",
     "name": "Iris Helper",
@@ -347,20 +328,7 @@
     "description": "Systemlessly replaces emoji font with iOS 16.4 Emoji",
     "updateJson": "https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/main/updater.json"
   },
-  {
-    "id": "k50fullscreen",
-    "name": "K50 Series Full Screen",
-    "author": "Yejia995, 嘟嘟Ski",
-    "description": "K50 series full screen fix. Repo: https://github.com/Yejia995/K50FullScreen",
-    "updateJson": "https://Yejia995.top/K50FullScreen/update.json"
-  },
-  {
-    "id": "hksnttf2magisk",
-    "name": "华康少女字体(单字重版)",
-    "author": "Brave He",
-    "description": "【说明】此模块采用酷安大神霞鹜（微信公众号：霞鹜 lxgwshare）的TTF转换Magisk模块模板套壳制作。Symbian时代的优秀字体，终于可以在安卓上使用了，特来分享给大家，仅供个人使用，禁止商用哦。TFF文件来自网络收集，侵权即删！",
-    "updateJson": "https://updateJson.json"
-  },
+
   {
     "id": "HyperOS_yomol",
     "name": "HyperOS轻度精简",
@@ -375,13 +343,7 @@
     "description": "Get Samsung apps/features working again in your rooted Galaxy device.",
     "updateJson": "https://raw.githubusercontent.com/BlackMesa123/KnoxPatch/main/enhancer/update.json"
   },
-  {
-    "id": "magiskhide",
-    "name": "MagiskHide",
-    "author": "HuskyDG",
-    "description": "MagiskHide (DenyList works without Zygisk enabled) for official Magisk 24.0+",
-    "updateJson": "https://github.com/huskydg/magiskhide/releases/latest/download/update_release.json"
-  },
+
   {
     "id": "MIUI_MagicWindow+",
     "name": "HyperOS For Pad/Fold 完美横屏应用计划 - MIUI MagicWindow+",
@@ -402,13 +364,6 @@
     "author": "酷安@小花生FMR",
     "description": "你下一个云控何必是云控",
     "updateJson": "https://raw.githubusercontent.com/Jinsens/Jinsen/main/update.json"
-  },
-  {
-    "id": "logddisabler",
-    "name": "logDisabler",
-    "author": "F-19-F@github",
-    "description": "优雅的禁用log",
-    "updateJson": "https://saas.tf19.co/static/log/update.json"
   },
   {
     "id": "magisk_overlayfs",
@@ -466,13 +421,7 @@
     "description": "Run frida-server on boot",
     "updateJson": "https://github.com/ViRb3/magisk-frida/releases/latest/download/updater.json"
   },
-  {
-    "id": "Monet-All",
-    "name": "Monet-All",
-    "author": "Jerry Zhou",
-    "description": "莫奈取色整合模块 说明文档：monet.jerryz.com.cn",
-    "updateJson": "https://monet.jerryz.com.cn/Monet-All.json"
-  },
+
   {
     "id": "music-E85",
     "name": "Music ReVanced",
@@ -501,13 +450,7 @@
     "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
     "updateJson": "https://raw.github.com/nift4/microg_installer_revived/master/update.json"
   },
-  {
-    "id": "battery",
-    "name": "MIUI电池容量修复",
-    "author": "小贱小健滴",
-    "description": "恢复部分损耗的电池容量，刷入后需要冲满循环5-6次，以自身实践为准，查看日志是否有效，日志在/data/adb/modules/battery/log.txt 查看",
-    "updateJson": "https://alist.lu8345.repl.co/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E6%89%8B%E6%9C%BA%E7%9B%AE%E5%BD%95%E5%90%8C%E6%AD%A5/%E6%A8%A1%E5%9D%97/%E7%94%B5%E6%B1%A0/battery.json"
-  },
+
   {
     "id": "MIUI_browser_key",
     "name": "MIUI 浏览器增强",
@@ -684,26 +627,13 @@
     "updateJson": "https://lsposed.github.io/releases/shamiko.json"
   },
   {
-    "id": "power_saving_die",
-    "name": "省电模块",
-    "author": "栖由咲子",
-    "description": "模块关闭很多耗电项并且禁用两颗核心，但非实时运行，故不与其他调度冲突（因为会被覆盖）",
-    "updateJson": "https://raw.githubusercontent.com/SuyuSakiko/power_saving_die/main/update.json"
-  },
-  {
     "id": "tailscale",
     "name": "Tailscale",
     "author": "xireiki",
     "description": "[管理地址：127.0.0.1:8088，未登录]使用 tailscale 进行组网，不与 tun 冲突，可同连接 tun 代理，tproxy 自行测试",
     "updateJson": "https://raw.githubusercontent.com/xireiki/tailscale4magisk/main/tailscale.json"
   },
-  {
-    "id": "MI13Pro",
-    "name": "修改机型小米旗舰机型Pro",
-    "author": "酷安@y喻阳u",
-    "description": "修改机型小米旗舰Pro（当前小米14Pro），解锁游戏更高帧率。持续更新……",
-    "updateJson": "https://yuyang.site/mkgx/MIPro.json"
-  },
+
   {
     "id": "xray4magisk",
     "name": "Xray4Magisk",
@@ -711,13 +641,7 @@
     "description": "System Proxy",
     "updateJson": "https://raw.githubusercontent.com/Asterisk4Magisk/Xray4Magisk/master/update.json"
   },
-  {
-    "id": "YouTube",
-    "name": "YouTube PiP Build-DEV",
-    "author": "kakathic",
-    "description": "Build Mon Nov 15 01:41:47 UTC 2023, YouTube edited tool by Revanced mod added disable play store updates, mod rounded pip window.",
-    "updateJson": "https://github.com/Zelooooo/AT-YT/releases/download/Up/Up-ZVDarm64-Amoled.json"
-  },
+
   {
     "id": "zygisk-storage-isolation",
     "name": "Zygisk - Enhanced mode for Storage Isolation",
@@ -858,33 +782,13 @@
     "description": "安装Sqlite3到设备中。Install Sqlite3 to the device.",
     "updateJson": "https://keytoolazy.coding.net/p/hms-core/d/HMS-CORE/git/raw/master/Sqlite3/update.json"
   },
-  {
-    "id": "FKTemControl_Chinese",
-    "name": "移除温控【正式版】",
-    "author": "wusixl",
-    "description": "通用，移除手机的温控，使手机达到更好的性能释放。联系QQ群1030167550向我反馈。",
-    "updateJson": "https://gitee.com/wusixl/Remove_Control/raw/master/Update.json"
-  },
+
   {
     "id": "ThemedIcons",
     "name": "Themed icons for Pixel launcher",
     "author": "cayicons & saitama_96 & n3rd3x3 & Team Files & Modules Repo",
     "description": "Install themed icons to Pixel launcher",
     "updateJson": "https://tsukimio.github.io/ThemedIcons/update.json"
-  },
-  {
-    "id": "_CBLG-Zram_Control_Center",
-    "name": "[UP!] 多Zram设备块",
-    "author": "酷安@泠熙子",
-    "description": "采用zramctl指令进行Zram的花式玩法！ [配置目录: /sdcard/Android/_CBLG/Zram_Control_Center]",
-    "updateJson": "https://Outgoing.200OK.Work/o/Android/Modules/Zram_Control_Center/base.iNi"
-  },
-  {
-    "id": "vivo_thermal",
-    "name": "vivo Qualcomm",
-    "author": "酷安@你开源程序我开源不可能 @大笑生活 @御坂Thepoor",
-    "description": "为高通vivo/iQOO解除温控，无敌版。如果用本模块都还有不能解除的温控，其他人做的更不行了",
-    "updateJson": "https://codegang.top/file/other_user/2265514616/magisk/wenkong.json"
   },
   {
     "id": "mark2_5000",
