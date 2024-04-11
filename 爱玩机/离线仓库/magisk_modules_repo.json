@@ -199,13 +199,7 @@
     "description": "Make FDE.AI as system app systemlessly.",
     "updateJson": "https://raw.githubusercontent.com/feravolt/FDE.AI-docs/master/update.json"
   },
-  {
-    "id": "Hc_tombstone",
-    "name": "H-冰箱 [sloth]",
-    "author": "火機 || HChai(火柴) && 时雨🌌星空",
-    "description": "推荐黑名单 | 配置路径：[/sdcard/Android/Hc_tombstone]",
-    "updateJson": "https://hchai.dongyi.tk/d/%E4%BA%91/%E6%96%B0%E5%86%85%E6%A0%B8%E5%A2%93%E7%A2%91/fre.json"
-  },
+
   {
     "id": "ColorOS13_yomol",
     "name": "ColorOS13精简",
