@@ -1,14 +1,4 @@
 [
-
-
-
-
-
-
-
-
-
-
   {
     "id": "zygisk_lsposed",
     "name": "Zygisk - LSPosed",
@@ -243,27 +233,7 @@
     "description": "专为双扬音量不平衡的机型制作，可以在无耳机连接时，自动调整音量平衡。仅限Android11+机型。已适配7种连接类型。",
     "updateJson": "https://github.com/kongjianguan/Automatic-Volume-Balancing-for-Asymmetrical-Dual-Loudspeakers/blob/master/update.json"
   },
-  {
-    "id": "clearlineage",
-    "name": "ClearLineage",
-    "author": "programminghoch10",
-    "description": "LineageOS Clear Theme",
-    "updateJson": "https://raw.githubusercontent.com/programminghoch10/ClearLineage/deploy/update.json"
-  },
-  {
-    "id": "coloros_mod",
-    "name": "ColorOS_Mod",
-    "author": "AzukiAtsui",
-    "description": "Modify ColorOS and realmeUI configs. Repo: https://github.com/AzukiAtsui/ColorOS_Mod",
-    "updateJson": "https://azukiatsui.github.io/ColorOS_Mod/release/main.json"
-  },
-  {
-    "id": "10bit",
-    "name": "COS广色域适配",
-    "author": "酷安：官宣吖",
-    "description": "仅适配主流游戏和主流视频软件",
-    "updateJson": "https://gitee.com/slamdunka/i-inhuman/raw/master/op.json"
-  },
+
   {
     "id": "Dex2oatRUN",
     "name": "dex编译(dex2oat)",
@@ -400,13 +370,7 @@
     "description": "Modern superuser interface implementation. This module requires Riru v25.0.0 or above.",
     "updateJson": "https://rikkaapps.github.io/release/sui_riru.json"
   },
-  {
-    "id": "CoreDisableFormat",
-    "name": "核心防格",
-    "author": "Time",
-    "description": "[等待重启🙃] 可能是首款无加密防格模块。仅提供核心分区保护(引导分区/基带分区)。不一定100%有效，玩机需谨慎。",
-    "updateJson": "#"
-  },
+
   {
     "id": "scars_ChangeModel_GooglePixel7Pro",
     "name": "机型更改为Google Pixel 7 Pro",
@@ -557,13 +521,6 @@
     "updateJson": "https://ftp.womi.ltd/sakurax/mod/zram/zram.json"
   },
   {
-    "id": "MI",
-    "name": "修改机型小米旗舰机型",
-    "author": "酷安@y喻阳u",
-    "description": "修改机型小米旗舰（当前小米14），解锁游戏更高帧率。持续更新……",
-    "updateJson": "https://yuyang.site/mkgx/MI.json"
-  },
-  {
     "id": "mtd-ndk",
     "name": "mtd-utils for Android NDK",
     "author": "osm0sis @ xda-developers",
@@ -577,13 +534,7 @@
     "description": "让支付宝支持指纹支付 Fingerprint pay for Alipay.",
     "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_alipay.json"
   },
-  {
-    "id": "sfanalysis",
-    "name": "Surfaceflinger Analysis",
-    "author": "Matt Yang",
-    "description": "Get frame rendering event from surfaceflinger. Repo: https://github.com/yc9559/surfaceflinger-analysis/",
-    "updateJson": "https://github.com/yc9559/surfaceflinger-analysis/raw/master/version.json"
-  },
+
   {
     "id": "BuildingtheLightofHopefortheFuture",
     "name": "移除温控【正式版】",
