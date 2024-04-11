@@ -1,4 +1,979 @@
 [
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "zygisk_lsposed",
+    "name": "Zygisk - LSPosed",
+    "author": "LSPosed Developers",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json"
+  },
+  {
+    "id": "asoul_affinity_opt",
+    "name": "A-SOUL Games Optimization",
+    "author": "nakixii",
+    "description": "Game threads tweaker for Android.",
+    "updateJson": "https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json"
+  },
+  {
+    "id": "Hc_memory",
+    "name": "A1-内存管理 [Richard]",
+    "author": "HChai",
+    "description": "Third-party memory management, support Android 8 ~ 14. project: https://github.com/OneB1ank/A1Memory",
+    "updateJson": "https://ghproxy.com/https://raw.githubusercontent.com/OneB1ank/A1Memory/main/version.json"
+  },
+  {
+    "id": "adb-ndk",
+    "name": "ADB & Fastboot for Android NDK",
+    "author": "osm0sis & Surge1223 @ xda-developers",
+    "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json"
+  },
+  {
+    "id": "adguardcert",
+    "name": "AdGuard Certificate",
+    "author": "AdGuard",
+    "description": "Moves AdGuard's root CA certificate from the user certificate store to the system certificate store.",
+    "updateJson": "https://raw.githubusercontent.com/AdguardTeam/adguardcert/master/update.json"
+  },
+  {
+    "id": "acc",
+    "name": "Advanced Charging Controller (ACC)",
+    "author": "VR25",
+    "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
+    "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json"
+  },
+  {
+    "id": "oppotimize",
+    "name": "A关闭OPPO 优化",
+    "author": "酷安：官宣吖",
+    "description": "顾名思义.不做解释",
+    "updateJson": "https://gitee.com/slamdunka/i-inhuman/raw/master/op.json"
+  },
+  {
+    "id": "AOSPMods",
+    "name": "AOSP Mods - Full Version",
+    "author": "Siavash79 + ElTifo",
+    "description": "Xposed based module for customizations on SystemUI on AOSP based roms. Supports Android 12+",
+    "updateJson": "https://raw.githubusercontent.com/siavash79/AOSPMods/canary/MagiskModuleUpdate_Full.json"
+  },
+  {
+    "id": "aml",
+    "name": "Audio Modification Library",
+    "author": "zackptg5, ahrion",
+    "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
+    "updateJson": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/update.json"
+  },
+  {
+    "id": "HChen_Zram",
+    "name": "保后台模块V.N1",
+    "author": "焕晨HChen",
+    "description": "通过修改内存相关参数达到增强后台留存能力的目的。#Author by @焕晨HChen",
+    "updateJson": "https://raw.githubusercontent.com/HChenX/Background_retention/main/HChen.json"
+  },
+  {
+    "id": "zram_huanchen",
+    "name": "保后台能力增强40",
+    "author": "焕晨",
+    "description": "由`@嘟嘟ski`附加模块二改动而来，进行了大量修改，追求极限保后台！",
+    "updateJson": "https://raw.githubusercontent.com/HChenX/Background_retention/main/HChen.json"
+  },
+  {
+    "id": "BHcccc",
+    "name": "BH_定量停充",
+    "author": "不太会起网名 && HChai",
+    "description": "到达指定电量停止充电或恢复充电 [状态：待重启]",
+    "updateJson": "https://gitee.com/ranks/Hcclear/raw/master/tingc.json"
+  },
+  {
+    "id": "busybox-ndk",
+    "name": "Busybox for Android NDK",
+    "author": "osm0sis @ xda-developers",
+    "description": "Static busybox binary for all Android architectures built with the NDK",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json"
+  },
+  {
+    "id": "callrecorder-skvalex",
+    "name": "Call Recorder - SKVALEX",
+    "author": "skvalex",
+    "description": "App to record phone calls from the line with a power of root and Magisk",
+    "updateJson": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/magisk.json"
+  },
+  {
+    "id": "ClashForMagisk",
+    "name": "Clash for Magisk",
+    "author": "t@amarin 魔改",
+    "description": "Clash 透明代理    内核: Meta 1.18.0",
+    "updateJson": "https://raw.githubusercontent.com/AXEVO/Clash-MIX/Clash-MIX-3.0/verson.json"
+  },
+  {
+    "id": "zygisk_cleanerhooks",
+    "name": "Cleaner Hooks",
+    "author": "Green Mushroom",
+    "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://materialcleaner.github.io/MaterialCleaner/releases/module.json"
+  },
+  {
+    "id": "riru_clipboard_whitelist",
+    "name": "Clipboard Whitelist (Riru)",
+    "author": "Kr328",
+    "description": "Allow apps access clipboard in background.",
+    "updateJson": "https://github.com/Kr328/Riru-ClipboardWhitelist/releases/latest/download/riru-clipboard-whitelist.json"
+  },
+  {
+    "id": "ainur_narsil",
+    "name": "Ainur Narsil",
+    "author": "UltraM8, Zackptg5, LazerL0rd, and JohnFawkes",
+    "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer.",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json"
+  },
+  {
+    "id": "bootloop_save_key",
+    "name": "Auto out of bootloop",
+    "author": "key",
+    "description": "在 [ /cache /data /mnt/vendor/persist /data/unencrypted ] 目录创建文件 [ dismod ] 可禁用模块，[ remod ]则移除所有模块，其他情况会自动救砖。",
+    "updateJson": "https://keytoolazy.coding.net/p/hms-core/d/HMS-CORE/git/raw/master/bootloop/update.json"
+  },
+  {
+    "id": "chiller3.bcr",
+    "name": "BCR",
+    "author": "chenxiaolong",
+    "description": "Basic Call Recorder",
+    "updateJson": "https://github.com/chenxiaolong/BCR/raw/master/app/magisk/updates/release/info.json"
+  },
+  {
+    "id": "bindhosts",
+    "name": "bindhosts",
+    "author": "xx",
+    "description": "writable /system/etc/hosts via mount --bind",
+    "updateJson": "https://raw.githubusercontent.com/backslashxx/bindhosts/master/update.json"
+  },
+  {
+    "id": "zygisk_cacerts",
+    "name": "cacerts",
+    "author": "vvb2060",
+    "description": "Replace the root certificate store.",
+    "updateJson": "https://github.com/vvb2060/zygisk_cacerts/raw/HEAD/update.json"
+  },
+  {
+    "id": "cache_cleaner",
+    "name": "Cache Cleaner",
+    "author": "Taka🌿",
+    "description": "This module will clean all apps cache automatically if the total cache size is more than 1GB and can be done manually by typing \"su -c cleaner\" in the Terminal.",
+    "updateJson": "https://github.com/takeru-kageyuki/cache_cleaner/raw/main/update.json"
+  },
+  {
+    "id": "turbo-charge",
+    "name": "充电加速",
+    "author": "酷安@诺鸡鸭",
+    "description": "删除温控，关闭阶梯式充电，持续修改电池温度及充电电流，尽可能的让手机满血快充。配置文件在/data/adb/turbo-charge/option.txt，可以更改一些参数，日志文件为同目录的log.txt",
+    "updateJson": "https://gitee.com/chase535/turbo-charge/raw/main/update_channel/turbo-charge.json"
+  },
+  {
+    "id": "Dimming-like",
+    "name": "ColorOS13动态调光+",
+    "author": "酷安：官宣吖",
+    "description": "[已开启]动态DC调光当屏幕亮度低于0%自动开启，大于0%自动关闭，电量低于15%开启省电模式停止运行，触发DC后最低亮度开启极暗模式压制强光夜间达到护眼效果，息屏可指纹解锁，修复锁屏和支付界面指纹解锁失效问题，极暗模式异常开启的问题。",
+    "updateJson": "https://gitee.com/slamdunka/i-inhuman/raw/master/DC.json"
+  },
+  {
+    "id": "cpu_limiter",
+    "name": "CPU Max Frequency Limiter",
+    "author": "nakixii",
+    "description": "CPU最大频率限制器，支持主流SoC",
+    "updateJson": "https://github.com/nakixii/Magisk_CPULimiter/raw/main/CPULimiter.json"
+  },
+  {
+    "id": "DarkP_MIUI",
+    "name": "DarkMode Evolution",
+    "author": "lxdebug",
+    "description": "MIUI14/13深色模式补全，已经支持很多应用。Github:https://github.com/LxDebug/DarkP",
+    "updateJson": "https://raw.githubusercontent.com/LxDebug/DarkP/main/update.json"
+  },
+  {
+    "id": "ad-wars",
+    "name": "大圣净化",
+    "author": "lingyu0",
+    "description": " 大圣净化安装为系统级应用，减低驻留后台进程容易被杀，导致无障碍服务被关闭的问题，使八戒和沙僧工作更有效率！",
+    "updateJson": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/app_update.json"
+  },
+  {
+    "id": "busybox-system-android",
+    "name": "FDE.AI as system app",
+    "author": "FeraVolt",
+    "description": "Make FDE.AI as system app systemlessly.",
+    "updateJson": "https://raw.githubusercontent.com/feravolt/FDE.AI-docs/master/update.json"
+  },
+  {
+    "id": "Hc_tombstone",
+    "name": "H-冰箱 [sloth]",
+    "author": "火機 || HChai(火柴) && 时雨🌌星空",
+    "description": "推荐黑名单 | 配置路径：[/sdcard/Android/Hc_tombstone]",
+    "updateJson": "https://hchai.dongyi.tk/d/%E4%BA%91/%E6%96%B0%E5%86%85%E6%A0%B8%E5%A2%93%E7%A2%91/fre.json"
+  },
+  {
+    "id": "ColorOS13_yomol",
+    "name": "ColorOS13精简",
+    "author": "酷安@yomol",
+    "description": "精简应用列表：SIM卡工具包,融合搜索服务,全局搜索,OBrain,浏览器,乐划锁屏,快应用,反馈工具箱,百度输入法定制版,帮助与反馈,ADS,Shelper,智能应用检测,儿童空间,安全键盘,悬浮球,系统跟踪；修改机型为OPPO Find X5 Pro",
+    "updateJson": "https://gitee.com/yomolyomol/color-os_yomol/raw/master/Module/update.json"
+  },
+  {
+    "id": "cpu_closer",
+    "name": "CPU Closer for 8G3",
+    "author": "nakixii",
+    "description": "Switch CPU 5-6 dynamically on Snapdragon 8G3.",
+    "updateJson": "https://github.com/nakixii/Magisk_CPUCloser/raw/main/CPUCloser.json"
+  },
+  {
+    "id": "BATTERYOPT",
+    "name": "电池优化",
+    "author": "染崎枫",
+    "description": "配置：/data/adb/BATTERYOPT/电池优化白名单.prop",
+    "updateJson": "https://raw.githubusercontent.com/SomesakiKaede/BATTERYOPT/main/update.json"
+  },
+  {
+    "id": "Battery_Manage",
+    "name": "ColorOS Battery Manage",
+    "author": "酷安：官宣吖",
+    "description": "电量: 51%🫀️当前容量: 1730 mΑh🫀️电池健康: 76.2% 电流：-376 mΑ ⚡ 电压：3.83 V ⚡ 功率：-1440 mW ⚡预计容量: 3432 mΑH 🤯 电池状态：{Normal}_(:з」∠)_ 充电状态：( 🚦 温度：36℃🌡️️",
+    "updateJson": "https://gitee.com/slamdunka/magisk_-color-os/raw/master/BatteryManage.json"
+  },
+  {
+    "id": "GoogleDialerFramework",
+    "name": "Dialer Framework for Google Phone",
+    "author": "TJJ",
+    "description": "Framework for installing the Google Dialer/Google Phone on Android",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json"
+  },
+  {
+    "id": "huoXY",
+    "name": "定应用分辨率",
+    "author": "HChai",
+    "description": "打开指定应用修改分辨率 [配置文件路径:/data/adb/modules/huoXY/配置.conf]",
+    "updateJson": "https://gitee.com/ranks/Hcclear/raw/master/c.json"
+  },
+  {
+    "id": "miuidebugdisabler",
+    "name": "Don't debug!",
+    "author": "F-19-F@github",
+    "description": "关闭MIUI非必要调试模式，禁止surfaceflinger高频log(NOP)",
+    "updateJson": "https://saas.tf19.co/static/midebug/update.json"
+  },
+  {
+    "id": "Automatic_balancing_of_Dual_Loudspeakers",
+    "name": "非对称双扬音量平衡(识别耳机)",
+    "author": "酷安@Theneworder",
+    "description": "专为双扬音量不平衡的机型制作，可以在无耳机连接时，自动调整音量平衡。仅限Android11+机型。已适配7种连接类型。",
+    "updateJson": "https://github.com/kongjianguan/Automatic-Volume-Balancing-for-Asymmetrical-Dual-Loudspeakers/blob/master/update.json"
+  },
+  {
+    "id": "clearlineage",
+    "name": "ClearLineage",
+    "author": "programminghoch10",
+    "description": "LineageOS Clear Theme",
+    "updateJson": "https://raw.githubusercontent.com/programminghoch10/ClearLineage/deploy/update.json"
+  },
+  {
+    "id": "coloros_mod",
+    "name": "ColorOS_Mod",
+    "author": "AzukiAtsui",
+    "description": "Modify ColorOS and realmeUI configs. Repo: https://github.com/AzukiAtsui/ColorOS_Mod",
+    "updateJson": "https://azukiatsui.github.io/ColorOS_Mod/release/main.json"
+  },
+  {
+    "id": "10bit",
+    "name": "COS广色域适配",
+    "author": "酷安：官宣吖",
+    "description": "仅适配主流游戏和主流视频软件",
+    "updateJson": "https://gitee.com/slamdunka/i-inhuman/raw/master/op.json"
+  },
+  {
+    "id": "Dex2oatRUN",
+    "name": "dex编译(dex2oat)",
+    "author": "素雪",
+    "description": "调用系统进行dex2oat编译，配置和日志所在文件夹：/data/adb/Dex2oatRUN",
+    "updateJson": "https://raw.githubusercontent.com/SuxueSaMa/Dex2oatRUN/main/update.json"
+  },
+  {
+    "id": "freezeit",
+    "name": "冻它",
+    "author": "JARK006",
+    "description": "实现部分墓碑机制，自动暂停后台应用运行",
+    "updateJson": "https://ghproxy.com/https://raw.githubusercontent.com/jark006/freezeitRelease/main/update.json"
+  },
+  {
+    "id": "iris_helper",
+    "name": "Iris Helper",
+    "author": "AB",
+    "description": "Customizable Pixelworks X7 parameter configuration for any App.",
+    "updateJson": "https://raw.githubusercontent.com/AestasBritannia/Iris-Helper/main/update.json"
+  },
+  {
+    "id": "accurate_battery",
+    "name": "精准电量",
+    "author": "酷安@诺鸡鸭",
+    "description": "精准电量，干掉虚假的UI电量。可通过创建或删除/data/adb/accurate_battery/no_trickle文件来更改是否将涓流充电过程加入电量统计，创建为不加入，删除为加入，更改实时生效，无需重启手机",
+    "updateJson": "https://gitee.com/chase535/accurate_battery/raw/main/update_channel/accurate_battery.json"
+  },
+  {
+    "id": "PixelXpert",
+    "name": "Pixel Xpert",
+    "author": "Pixel Xpert Team",
+    "description": "Xposed based module for customizations on Pixel roms. Android 13+",
+    "updateJson": "https://raw.githubusercontent.com/siavash79/PixelXpert/stable/MagiskModuleUpdate_Xposed.json"
+  },
+  {
+    "id": "kp_enhancer",
+    "name": "KnoxPatch Enhancer",
+    "author": "BlackMesa123",
+    "description": "Get Samsung apps/features working again in your rooted Galaxy device.",
+    "updateJson": "https://raw.githubusercontent.com/BlackMesa123/KnoxPatch/main/enhancer/update.json"
+  },
+  {
+    "id": "mindetach",
+    "name": "mindetach",
+    "author": "j-hc",
+    "description": "Minimal module for detaching apps from Play Store",
+    "updateJson": "https://raw.githubusercontent.com/j-hc/mindetach-magisk/master/update.json"
+  },
+  {
+    "id": "music-extended-jhc",
+    "name": "Music ReVanced Extended",
+    "author": "j-hc",
+    "description": "Music ReVanced Extended Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/Smart123s/revanced-extended-autobuild/update/music-extended-update.json"
+  },
+  {
+    "id": "music-matado-arm64",
+    "name": "Music ReVanced Extended",
+    "author": "MatadorProBr",
+    "description": "Music ReVanced Extended Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/MatadorProBr/revanced-extended-magisk-module/update/music (arm64-v8a)-update.json"
+  },
+  {
+    "id": "iOS_Emoji",
+    "name": "iOS 16.4 iOS Emoji font",
+    "author": "Keinta15",
+    "description": "Systemlessly replaces emoji font with iOS 16.4 Emoji",
+    "updateJson": "https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/main/updater.json"
+  },
+  {
+    "id": "k50fullscreen",
+    "name": "K50 Series Full Screen",
+    "author": "Yejia995, 嘟嘟Ski",
+    "description": "K50 series full screen fix. Repo: https://github.com/Yejia995/K50FullScreen",
+    "updateJson": "https://Yejia995.top/K50FullScreen/update.json"
+  },
+  {
+    "id": "hksnttf2magisk",
+    "name": "华康少女字体(单字重版)",
+    "author": "Brave He",
+    "description": "【说明】此模块采用酷安大神霞鹜（微信公众号：霞鹜 lxgwshare）的TTF转换Magisk模块模板套壳制作。Symbian时代的优秀字体，终于可以在安卓上使用了，特来分享给大家，仅供个人使用，禁止商用哦。TFF文件来自网络收集，侵权即删！",
+    "updateJson": "https://updateJson.json"
+  },
+  {
+    "id": "HyperOS_yomol",
+    "name": "HyperOS轻度精简",
+    "author": "酷安@yomol",
+    "description": "精简搜索，搜狗输入法，快应用，服务反馈，质量服务等应用。因精简自带搜狗输入法，请刷入前确保自己安装有第三方输入法",
+    "updateJson": "https://gitee.com/yomolyomol/miui-thin-yomol/raw/master/Module/update.json"
+  },
+  {
+    "id": "kp_enhancer",
+    "name": "KnoxPatch Enhancer",
+    "author": "BlackMesa123",
+    "description": "Get Samsung apps/features working again in your rooted Galaxy device.",
+    "updateJson": "https://raw.githubusercontent.com/BlackMesa123/KnoxPatch/main/enhancer/update.json"
+  },
+  {
+    "id": "magiskhide",
+    "name": "MagiskHide",
+    "author": "HuskyDG",
+    "description": "MagiskHide (DenyList works without Zygisk enabled) for official Magisk 24.0+",
+    "updateJson": "https://github.com/huskydg/magiskhide/releases/latest/download/update_release.json"
+  },
+  {
+    "id": "MIUI_MagicWindow+",
+    "name": "HyperOS For Pad/Fold 完美横屏应用计划 - MIUI MagicWindow+",
+    "author": "御坂初琴、做梦书 等",
+    "description": "适用于HyperOS For Pad/Fold，用于扩展信箱模式和平行视界的支持范围，以及优化信箱模式和平行视界的体验。当前刷入的是[小米(红米)平板通用版]。遇到问题先看[问题合集]，反馈问题请提交[应用名]、[系统版本]、[模块版本]、[不适配的现象]。(反馈应用适配问题可前往酷安私信 @做梦书 或者GitHub:https://github.com/sothx/mipad-magic-window，如需卸载模块请使用GitHub上的卸载模块进行卸载)",
+    "updateJson": "https://hyper-magic-window-module-update.sothx.com/release/pad.json"
+  },
+  {
+    "id": "ainur_jamesdsp",
+    "name": "JamesDSP Manager",
+    "author": "james34602, zackptg5, ahrion",
+    "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+    "updateJson": "https://raw.githubusercontent.com/Zackptg5/JamesDSPManager/master/update.json"
+  },
+  {
+    "id": "JE",
+    "name": "锦森",
+    "author": "酷安@小花生FMR",
+    "description": "你下一个云控何必是云控",
+    "updateJson": "https://raw.githubusercontent.com/Jinsens/Jinsen/main/update.json"
+  },
+  {
+    "id": "logddisabler",
+    "name": "logDisabler",
+    "author": "F-19-F@github",
+    "description": "优雅的禁用log",
+    "updateJson": "https://saas.tf19.co/static/log/update.json"
+  },
+  {
+    "id": "magisk_overlayfs",
+    "name": "Magical Overlayfs",
+    "author": "HuskyDG",
+    "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
+    "updateJson": "https://github.com/huskydg/magic_overlayfs/releases/latest/download/update_release.json"
+  },
+  {
+    "id": "barrier_free_litiaotiao",
+    "name": "李跳跳2.2无障碍保活",
+    "author": "酷安@哕哕吖",
+    "description": "保活策略：重启后将李跳跳转化为系统应用＋开机自启动李跳跳无障碍服务，用crond自动保活。",
+    "updateJson": "https://share.yyycontrol.top/d/updatemod/barrier_free_litiaotiao_keep-alive.json"
+  },
+  {
+    "id": "Mi12_TemperatureControl",
+    "name": "Mi·淦掉温控",
+    "author": "酷安@哕哕吖",
+    "description": "Mi·淦掉温控：不跳电淦温控，淦掉云控，满血快充(会阶梯式充电，也会受机身48℃温度墙影响)，游戏不掉帧，兼容A12/A13，MIUI13/MIUI14。",
+    "updateJson": "https://share.yyycontrol.top/d/updatemod/Mi12_TemperatureControl.json"
+  },
+  {
+    "id": "riru_lsposed",
+    "name": "Riru - LSPosed",
+    "author": "LSPosed Developers",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Riru 26.1.7 or above installed.",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/riru.json"
+  },
+  {
+    "id": "riru-sui",
+    "name": "Riru - Sui",
+    "author": "Rikka",
+    "description": "Modern superuser interface implementation. This module requires Riru v25.0.0 or above.",
+    "updateJson": "https://rikkaapps.github.io/release/sui_riru.json"
+  },
+  {
+    "id": "CoreDisableFormat",
+    "name": "核心防格",
+    "author": "Time",
+    "description": "[等待重启🙃] 可能是首款无加密防格模块。仅提供核心分区保护(引导分区/基带分区)。不一定100%有效，玩机需谨慎。",
+    "updateJson": "#"
+  },
+  {
+    "id": "scars_ChangeModel_GooglePixel7Pro",
+    "name": "机型更改为Google Pixel 7 Pro",
+    "author": "酷安@Scars_Official",
+    "description": "将机型修改为Google Pixel 7 Pro",
+    "updateJson": "https://github.com/CN-Scars/JSON-Repository/releases/download/ChangeModelPixel7Pro_JSON/ChangeModelPixel7Pro.JSON"
+  },
+  {
+    "id": "magisk-frida",
+    "name": "MagiskFrida",
+    "author": "ViRb3",
+    "description": "Run frida-server on boot",
+    "updateJson": "https://github.com/ViRb3/magisk-frida/releases/latest/download/updater.json"
+  },
+  {
+    "id": "Monet-All",
+    "name": "Monet-All",
+    "author": "Jerry Zhou",
+    "description": "莫奈取色整合模块 说明文档：monet.jerryz.com.cn",
+    "updateJson": "https://monet.jerryz.com.cn/Monet-All.json"
+  },
+  {
+    "id": "music-E85",
+    "name": "Music ReVanced",
+    "author": "E85 Addict",
+    "description": "Music ReVanced Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/E85Addict/revanced-magisk-module/update/music-update.json"
+  },
+  {
+    "id": "key_lmk_mod",
+    "name": "内存管理优化",
+    "author": "key",
+    "description": "调整lmk，vm参数，优化后台管理能力。",
+    "updateJson": "https://keytoolazy.coding.net/p/hms-core/d/HMS-CORE/git/raw/master/lmkd/update.json"
+  },
+  {
+    "id": "scars",
+    "name": "机型更改为Google Pixel 7 Pro",
+    "author": "酷安@Scars_Official",
+    "description": "将机型修改为Google Pixel 7 Pro",
+    "updateJson": "https://github.com/CN-Scars/JSON-Repository/releases/download/ChangeModelPixel7Pro_JSON/ChangeModelPixel7Pro.JSON"
+  },
+  {
+    "id": "microg_installer",
+    "name": "microG Installer Revived",
+    "author": "nift4",
+    "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
+    "updateJson": "https://raw.github.com/nift4/microg_installer_revived/master/update.json"
+  },
+  {
+    "id": "battery",
+    "name": "MIUI电池容量修复",
+    "author": "小贱小健滴",
+    "description": "恢复部分损耗的电池容量，刷入后需要冲满循环5-6次，以自身实践为准，查看日志是否有效，日志在/data/adb/modules/battery/log.txt 查看",
+    "updateJson": "https://alist.lu8345.repl.co/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E6%89%8B%E6%9C%BA%E7%9B%AE%E5%BD%95%E5%90%8C%E6%AD%A5/%E6%A8%A1%E5%9D%97/%E7%94%B5%E6%B1%A0/battery.json"
+  },
+  {
+    "id": "MIUI_browser_key",
+    "name": "MIUI 浏览器增强",
+    "author": "@coolapk 10007",
+    "description": "恢复MIUI 强大的广告拦截功能。可在/data/adb/modules/MIUI_browser_key/配置.prop文件里更换规则。",
+    "updateJson": "https://lingeringsound.github.io/Miui_Browser_enhance/update.json"
+  },
+  {
+    "id": "SetoSkins",
+    "name": "色图(Seto)温控",
+    "author": "菜卡@SetoSkins @shadow3",
+    "description": "多功能保姆温控 | 充电log和配置在/data/adb/modules/SetoSkins | 48度会撞内核墙强制降流 | 卸载卡第一屏比较久是因为卸载代码较多请耐心等待一会",
+    "updateJson": "https://ghproxy.com/https://github.com/zjw2017/SetoSkins_Thermal/blob/master/SetoSkins.json"
+  },
+  {
+    "id": "SG_Athena",
+    "name": "SG_Athena",
+    "author": "官宣吖",
+    "description": "[SG]官宣正在为您守护进程",
+    "updateJson": "https://gitee.com/slamdunka/magisk_-color-os/raw/master/sgAthena.json"
+  },
+  {
+    "id": "systemless-hosts-KernelSU-module",
+    "name": "systemless hosts KernelSU module",
+    "author": "symbuzzer (avalibeyaz.com/github)",
+    "description": "Required module to use applications such as AdAway on KernelSU",
+    "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json"
+  },
+  {
+    "id": "riru-module-xfingerprint-pay-unionpay",
+    "name": "Riru - 指纹支付 - 云闪付",
+    "author": "Jason Eric",
+    "description": "让云闪付支持指纹支付 Fingerprint pay for UnionPay.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_unionpay.json"
+  },
+  {
+    "id": "mark2_4500",
+    "name": "Xperia II解容4500 mAh",
+    "author": "lzghzr",
+    "description": "为更换三代电池的Xperia 1 II, Xperia 5 II解锁电池容量到 4500 mAh",
+    "updateJson": "https://github.com/lzghzr/mark2_4500/raw/main/update.json"
+  },
+  {
+    "id": "zygisk_tweaker",
+    "name": "Zygisk - Tweaker",
+    "author": "HChai",
+    "description": "读取Json配置来对指定应用伪装机型解锁游戏高帧率，自动获取本机刷新率来伪装适合的机型，对unity游戏call函数可自定义fps和分辨率。zygisk实现不易被检测。",
+    "updateJson": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/OneB1ank/zygisk-Tweaker/main/version.json"
+  },
+  {
+    "id": "trichromelibrary-squoosh",
+    "name": "TrichromeLibrary Squoosh",
+    "author": "entr0pia@GitHub",
+    "description": "Remove the outdated TrichromeLibrary after reboot | 重启后移除过时的 TrichromeLibrary",
+    "updateJson": "https://raw.githubusercontent.com/entr0pia/trichromelibrary-squoosh/master/update.json"
+  },
+  {
+    "id": "uperf",
+    "name": "Uperf",
+    "author": "Matt Yang",
+    "description": "Userspace performance controller for android. Repo: https://github.com/yc9559/uperf/",
+    "updateJson": "https://github.com/yc9559/uperf/raw/master/version.json"
+  },
+  {
+    "id": "XiaomiCTSPass",
+    "name": "Xiaomi CTS Pass",
+    "author": "yanbuyu SkyMi",
+    "description": "强制小米设备通过谷歌CTS测试，github开源地址：https://github.com/yanbuyu/XiaomiCTSPass",
+    "updateJson": "https://raw.githubusercontent.com/yanbuyu/XiaomiCTSPass/master/release/XiaomiCTSPass.json"
+  },
+  {
+    "id": "zygisk-detach",
+    "name": "zygisk-detach",
+    "author": "j-hc",
+    "description": "Detaches installed apps from Play Store",
+    "updateJson": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/update.json"
+  },
+  {
+    "id": "playcurl",
+    "name": "playcurl",
+    "author": "daboynb",
+    "description": "Fingerprint downloader for play integrity fix.",
+    "updateJson": "https://raw.githubusercontent.com/daboynb/PlayIntegrityNEXT/main/update.json"
+  },
+  {
+    "id": "GGAT_10007",
+    "name": "去广告",
+    "author": "@coolapk 10007",
+    "description": "host+chattr+pm+iptables去广告，host规则来自网络+本人手动抓取。当前已经累积 [ 45085 ] 条host规则，当前状态[ 网络基本无影响 ](超过5万条会轻微影响网络，超过50万条网速则会有一定延迟。)",
+    "updateJson": "https://lingeringsound.github.io/10007/update.json"
+  },
+  {
+    "id": "riru-module-xfingerprint-pay-wechat",
+    "name": "Riru - 指纹支付 - 微信",
+    "author": "Jason Eric",
+    "description": "让微信支持指纹支付 Fingerprint pay for WeChat.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_wechat.json"
+  },
+  {
+    "id": "ltd.womi.mod.sakurax.zram",
+    "name": "[SakuraX] Zram Control",
+    "author": "酷安@泠熙子",
+    "description": "全自动地进行Zram调优，无需任何配置！(默认设置成物理运存两倍的Zram)",
+    "updateJson": "https://ftp.womi.ltd/sakurax/mod/zram/zram.json"
+  },
+  {
+    "id": "MI",
+    "name": "修改机型小米旗舰机型",
+    "author": "酷安@y喻阳u",
+    "description": "修改机型小米旗舰（当前小米14），解锁游戏更高帧率。持续更新……",
+    "updateJson": "https://yuyang.site/mkgx/MI.json"
+  },
+  {
+    "id": "mtd-ndk",
+    "name": "mtd-utils for Android NDK",
+    "author": "osm0sis @ xda-developers",
+    "description": "Static arm/arm64 mtd-utils (flash_erase, flash_lock, flash_unlock, nanddump and nandwrite) binaries for Android built with the NDK",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/update.json"
+  },
+  {
+    "id": "riru-module-xfingerprint-pay-alipay",
+    "name": "Riru - 指纹支付 - 支付宝",
+    "author": "Jason Eric",
+    "description": "让支付宝支持指纹支付 Fingerprint pay for Alipay.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_alipay.json"
+  },
+  {
+    "id": "sfanalysis",
+    "name": "Surfaceflinger Analysis",
+    "author": "Matt Yang",
+    "description": "Get frame rendering event from surfaceflinger. Repo: https://github.com/yc9559/surfaceflinger-analysis/",
+    "updateJson": "https://github.com/yc9559/surfaceflinger-analysis/raw/master/version.json"
+  },
+  {
+    "id": "BuildingtheLightofHopefortheFuture",
+    "name": "移除温控【正式版】",
+    "author": "御坂Thepoor",
+    "description": "性能释放中............",
+    "updateJson": "https://raw.githubusercontent.com/YubanDoge/TempConMi/main/update.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-qq",
+    "name": "Zygisk - 指纹支付 - QQ",
+    "author": "Jason Eric",
+    "description": "让QQ支持指纹支付 Fingerprint pay for QQ.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_qq.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-unionpay",
+    "name": "Zygisk - 指纹支付 - 云闪付",
+    "author": "Jason Eric",
+    "description": "让云闪付支持指纹支付 Fingerprint pay for UnionPay.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_unionpay.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-alipay",
+    "name": "Zygisk - 指纹支付 - 支付宝",
+    "author": "Jason Eric",
+    "description": "让支付宝支持指纹支付 Fingerprint pay for Alipay.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_alipay.json"
+  },
+  {
+    "id": "riru_storage_redirect",
+    "name": "Riru - Enhanced mode for Storage Isolation",
+    "author": "Rikka",
+    "description": "Enable Enhanced mode for Storage Isolation. This module requires Riru v26.1.6 or above.",
+    "updateJson": "https://rikkaapps.github.io/release/si_riru.json"
+  },
+  {
+    "id": "zygisk_shamiko",
+    "name": "Shamiko",
+    "author": "LSPosed Developers",
+    "description": "これで勝ったと思うなよ―――!!",
+    "updateJson": "https://lsposed.github.io/releases/shamiko.json"
+  },
+  {
+    "id": "power_saving_die",
+    "name": "省电模块",
+    "author": "栖由咲子",
+    "description": "模块关闭很多耗电项并且禁用两颗核心，但非实时运行，故不与其他调度冲突（因为会被覆盖）",
+    "updateJson": "https://raw.githubusercontent.com/SuyuSakiko/power_saving_die/main/update.json"
+  },
+  {
+    "id": "tailscale",
+    "name": "Tailscale",
+    "author": "xireiki",
+    "description": "[管理地址：127.0.0.1:8088，未登录]使用 tailscale 进行组网，不与 tun 冲突，可同连接 tun 代理，tproxy 自行测试",
+    "updateJson": "https://raw.githubusercontent.com/xireiki/tailscale4magisk/main/tailscale.json"
+  },
+  {
+    "id": "MI13Pro",
+    "name": "修改机型小米旗舰机型Pro",
+    "author": "酷安@y喻阳u",
+    "description": "修改机型小米旗舰Pro（当前小米14Pro），解锁游戏更高帧率。持续更新……",
+    "updateJson": "https://yuyang.site/mkgx/MIPro.json"
+  },
+  {
+    "id": "xray4magisk",
+    "name": "Xray4Magisk",
+    "author": "Asterisk4Magisk",
+    "description": "System Proxy",
+    "updateJson": "https://raw.githubusercontent.com/Asterisk4Magisk/Xray4Magisk/master/update.json"
+  },
+  {
+    "id": "YouTube",
+    "name": "YouTube PiP Build-DEV",
+    "author": "kakathic",
+    "description": "Build Mon Nov 15 01:41:47 UTC 2023, YouTube edited tool by Revanced mod added disable play store updates, mod rounded pip window.",
+    "updateJson": "https://github.com/Zelooooo/AT-YT/releases/download/Up/Up-ZVDarm64-Amoled.json"
+  },
+  {
+    "id": "zygisk-storage-isolation",
+    "name": "Zygisk - Enhanced mode for Storage Isolation",
+    "author": "Rikka",
+    "description": "Enable Enhanced mode for Storage Isolation. This module requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://rikkaapps.github.io/release/si_zygisk.json"
+  },
+  {
+    "id": "music-x",
+    "name": "Music ReVanced eXtended",
+    "author": "AbakNacchan",
+    "description": "Music ReVanced eXtended Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/AbakNacchan/revanced-extended/update/music-update.json"
+  },
+  {
+    "id": "safetynet-fix",
+    "name": "Universal SafetyNet Fix",
+    "author": "kdrag0n",
+    "description": "A universal fix for SafetyNet and Play Integrity on Android 8–13 devices with hardware attestation.",
+    "updateJson": "https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json"
+  },
+  {
+    "id": "ytm-rv-arm64",
+    "name": "YouTube-Music ReVanced",
+    "author": "NoName-exe",
+    "description": "YouTube-Music ReVanced Magisk Module",
+    "updateJson": "https://raw.githubusercontent.com/NoName-exe/revanced/update/music (arm64-v8a)-update.json"
+  },
+  {
+    "id": "zygisk_clipboard_whitelist",
+    "name": "Zygisk - Clipboard Whitelist",
+    "author": "Kr328",
+    "description": "Allow apps access clipboard in background.",
+    "updateJson": "https://github.com/Kr328/Riru-ClipboardWhitelist/releases/latest/download/zygisk-clipboard-whitelist.json"
+  },
+  {
+    "id": "wzn01",
+    "name": "微信QQ内存压制",
+    "author": "温助宁",
+    "description": "压制毒瘤微信和QQ的后台内存占用，自动识别是否在后台并且清理掉无用进程，只保留主进程和消息推送进程，不会影响消息接受。",
+    "updateJson": "https://raw.githubusercontent.com/wenzhuning/magisk/master/update.json"
+  },
+  {
+    "id": "wifi-bonding",
+    "name": "Wifi Bonding (Qcom)",
+    "author": "simonsmh",
+    "description": "Doubles your wi-fi bandwith by modifying WCNSS_qcom_cfg.ini.",
+    "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json"
+  },
+  {
+    "id": "xmlpak",
+    "name": "xmlpak – a road to vendor apps",
+    "author": "RKBDI, Tadi (j1505243 at xda)",
+    "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/updater.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-wechat",
+    "name": "Zygisk - 指纹支付 - 微信",
+    "author": "Jason Eric",
+    "description": "让微信支持指纹支付 Fingerprint pay for WeChat.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_wechat.json"
+  },
+  {
+    "id": "riru-module-xfingerprint-pay-qq",
+    "name": "Riru - 指纹支付 - QQ",
+    "author": "Jason Eric",
+    "description": "让QQ支持指纹支付 Fingerprint pay for QQ.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_qq.json"
+  },
+  {
+    "id": "universal-gms-doze",
+    "name": "Universal GMS Doze",
+    "author": "gloeyisk",
+    "description": "Patches Google Play services app and certain processes/services to be able to use battery optimizations",
+    "updateJson": "https://raw.githubusercontent.com/gloeyisk/universal-gms-doze/master/module.json"
+  },
+  {
+    "id": "ViPER4AndroidFX",
+    "name": "ViPER4AndroidFX repackagedhoch77",
+    "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, programminghoch10",
+    "description": "ViPER4AndroidFX v2.7.x reborn & repackaged",
+    "updateJson": "https://raw.githubusercontent.com/programminghoch10/ViPER4AndroidRepackaged/deploy/update.json"
+  },
+  {
+    "id": "MIUI14_yomol",
+    "name": "MIUI14轻度精简",
+    "author": "酷安@yomol",
+    "description": "精简搜索，搜狗输入法，快应用，服务反馈，质量服务等应用。因精简自带搜狗输入法，请刷入前确保自己安装有第三方输入法",
+    "updateJson": "https://gitee.com/yomolyomol/miui-thin-yomol/raw/master/Module/update.json"
+  },
+  {
+    "id": "music-jhc-arm64",
+    "name": "Music ReVanced",
+    "author": "j-hc",
+    "description": "Music ReVanced Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/music (arm64-v8a)-update.json"
+  },
+  {
+    "id": "riru-module-xfingerprint-pay-taobao",
+    "name": "Riru - 指纹支付 - 淘宝",
+    "author": "Jason Eric",
+    "description": "让淘宝支持指纹支付 Fingerprint pay for Taobao.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_taobao.json"
+  },
+  {
+    "id": "zygisk_ifw_enhance",
+    "name": "Zygisk - IFW Enhance",
+    "author": "Kr328",
+    "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
+    "updateJson": "https://github.com/Kr328/Riru-IFWEnhance/releases/latest/download/zygisk-ifw-enhance.json"
+  },
+  {
+    "id": "ytrv-magisk",
+    "name": "YouTube ReVanced",
+    "author": "j-hc",
+    "description": "YouTube ReVanced Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/youtube-update.json"
+  },
+  {
+    "id": "zygisk-module-xfingerprint-pay-taobao",
+    "name": "Zygisk - 指纹支付 - 淘宝",
+    "author": "Jason Eric",
+    "description": "让淘宝支持指纹支付 Fingerprint pay for Taobao.",
+    "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_taobao.json"
+  },
+  {
+    "id": "zygisksu",
+    "name": "Zygisk Next",
+    "author": "Nullptr, 5ec1cff",
+    "description": "Standalone implementation of Zygisk.",
+    "updateJson": "https://api.nullptr.icu/android/zygisk-next/static/update.json"
+  },
+  {
+    "id": "sqlite3_key",
+    "name": "Sqlite3",
+    "author": "key",
+    "description": "安装Sqlite3到设备中。Install Sqlite3 to the device.",
+    "updateJson": "https://keytoolazy.coding.net/p/hms-core/d/HMS-CORE/git/raw/master/Sqlite3/update.json"
+  },
+  {
+    "id": "FKTemControl_Chinese",
+    "name": "移除温控【正式版】",
+    "author": "wusixl",
+    "description": "通用，移除手机的温控，使手机达到更好的性能释放。联系QQ群1030167550向我反馈。",
+    "updateJson": "https://gitee.com/wusixl/Remove_Control/raw/master/Update.json"
+  },
+  {
+    "id": "ThemedIcons",
+    "name": "Themed icons for Pixel launcher",
+    "author": "cayicons & saitama_96 & n3rd3x3 & Team Files & Modules Repo",
+    "description": "Install themed icons to Pixel launcher",
+    "updateJson": "https://tsukimio.github.io/ThemedIcons/update.json"
+  },
+  {
+    "id": "_CBLG-Zram_Control_Center",
+    "name": "[UP!] 多Zram设备块",
+    "author": "酷安@泠熙子",
+    "description": "采用zramctl指令进行Zram的花式玩法！ [配置目录: /sdcard/Android/_CBLG/Zram_Control_Center]",
+    "updateJson": "https://Outgoing.200OK.Work/o/Android/Modules/Zram_Control_Center/base.iNi"
+  },
+  {
+    "id": "vivo_thermal",
+    "name": "vivo Qualcomm",
+    "author": "酷安@你开源程序我开源不可能 @大笑生活 @御坂Thepoor",
+    "description": "为高通vivo/iQOO解除温控，无敌版。如果用本模块都还有不能解除的温控，其他人做的更不行了",
+    "updateJson": "https://codegang.top/file/other_user/2265514616/magisk/wenkong.json"
+  },
+  {
+    "id": "mark2_5000",
+    "name": "Xperia II解容5000 mAh",
+    "author": "lzghzr",
+    "description": "为更换四代电池的Xperia 1 II, Xperia 5 II解锁电池容量到 5000 mAh",
+    "updateJson": "https://github.com/lzghzr/mark2_5000/raw/main/update.json"
+  },
+  {
+    "id": "zygisk-sui",
+    "name": "Zygisk - Sui",
+    "author": "Rikka",
+    "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+    "updateJson": "https://rikkaapps.github.io/release/sui_zygisk.json"
+  },
+  {
+    "id": "music-jhc",
+    "name": "Music ReVanced",
+    "author": "j-hc",
+    "description": "Music ReVanced Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/Ryuuzenkai/rvx-module/update/music-update.json"
+  },
+  {
+    "id": "ytmusicrvx-magisk",
+    "name": "Music ReVanced Extended",
+    "author": "nikhilbadyal",
+    "description": "Music ReVanced Extended Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/nikhilbadyal/revanced-magisk-module/update/ytmusic-update.json"
+  },
+  {
+    "id": "nano-ndk",
+    "name": "Nano for Android NDK",
+    "author": "osm0sis @ xda-developers",
+    "description": "Static arm/arm64 nano binary for Android built with the NDK",
+    "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json"
+  },
+  {
+    "id": "playintegrityfix",
+    "name": "Play Integrity Fix",
+    "author": "chiteroman",
+    "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-14.",
+    "updateJson": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json"
+  },
+  {
+    "id": "ytmusic-jhc",
+    "name": "YTMusic ReVanced",
+    "author": "j-hc",
+    "description": "YTMusic ReVanced Magisk module",
+    "updateJson": "https://raw.githubusercontent.com/mehhh12/revanced-magisk-module/update/ytmusic-update.json"
+  },
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "author": "LSPosed Developers",
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
