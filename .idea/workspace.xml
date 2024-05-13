@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正" />
+    <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715515433291</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="修正">
+      <option name="closed" value="true" />
+      <created>1715589021409</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715589021409</updated>
+    </task>
+    <task id="LOCAL-00015" summary="修正">
+      <option name="closed" value="true" />
+      <created>1715589222736</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715589222736</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
