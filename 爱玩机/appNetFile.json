@@ -180,7 +180,7 @@
     "fileName": "general_new.json",
     "fileUrl": [
       "https://jihulab.com/mercuryli/blocker-general-rules/-/raw/main/zh-cn/general.json",
-      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/zh-cn/general.json",
+      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/rules/zh-cn/general.json",
       "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json",
       "https://gitcode.net/xiaobyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json"
     ]
