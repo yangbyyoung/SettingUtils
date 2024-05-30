@@ -104,7 +104,7 @@
     },
     {
       "title": "什么是纯付费模式并如何退出？",
-      "summary": "答：使用纯付费模式(所有不需要物品全部变卖)，应用不会向你展示任何无用信息，您也没有机会白嫖任何个性化物品！\n\n当然部分白嫖功能你也将无法免费使用！\n\n退出方式：登录的时候取消指纹密码快捷登录，即可看到被遮挡的开关！"
+      "summary": "答：更简洁的页面展示，适用于付费用户\n\n使用纯付费模式(所有不需要物品全部变卖)，应用不会向你展示任何无用信息，您也没有机会白嫖任何个性化物品！\n\n当然部分白嫖功能(如py码使用、使用余额兑换云盘、有奖问答等)你也将无法免费使用！\n\n退出方式：登录的时候取消指纹密码快捷登录，即可看到被遮挡的开关！"
     },
     {
       "title": "功能太多如何快速找到自己想要的功能？",
@@ -174,6 +174,28 @@
     {
       "title": "抽奖券（参与大转盘）",
       "summary": "独有：抽奖用的，可获得大量用户物品"
+    }
+  ],
+  "协议说明与帮助": [
+    {
+      "title": "用户登录与注册",
+      "data": "https://www.yuque.com/xiaobaiyang-grmtb/ig7v4y/dyg7ltmrgrhcu8ge"
+    },
+    {
+      "title": "用户物品资源（包含非纯付费）",
+      "data": "https://www.yuque.com/docs/share/4ad70972-1fb9-4573-9c92-ce9b144efa57"
+    },
+    {
+      "title": "用户捐赠示例",
+      "data": "https://www.yuque.com/docs/share/6d7b59e2-e54c-4380-9948-f07d183c0176"
+    },
+    {
+      "title": "root权限申请",
+      "data": "https://www.yuque.com/xiaobaiyang-grmtb/ig7v4y/lidbavqn743t9g76"
+    },
+    {
+      "title": "设备管理员（免root）权限申请",
+      "data": "https://www.yuque.com/docs/share/d236cbfa-a02a-46ce-87fe-6f8c8bc9ce42"
     }
   ]
 }

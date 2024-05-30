@@ -52,7 +52,6 @@
     "fileName": "qr-wechat_1.png",
     "fileUrl": [
       "https://gitcode.net/xiaobyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/qr-wechat_1.png",
-
       "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/qr-wechat_1.png",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/qr-wechat_1.png",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/qr-wechat_1.png"
@@ -227,9 +226,11 @@
   {
     "fileName": "appHelper.json",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
+      "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
+      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
       "https://gitcode.net/xiaobyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json"
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
+      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json"
     ]
   },
   {
