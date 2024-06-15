@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,9 @@
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\离线仓库" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\paymentPic" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects_TMP\SettingUtils\爱玩机\paymentPic" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -385,7 +389,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718076407714</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="修正">
+      <option name="closed" value="true" />
+      <created>1718107997679</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1718107997679</updated>
+    </task>
+    <task id="LOCAL-00042" summary="修正">
+      <option name="closed" value="true" />
+      <created>1718108013299</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1718108013299</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
