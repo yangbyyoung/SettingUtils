@@ -38,7 +38,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Projects_TMP/SettingUtils/爱玩机/Magisk模块&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects_TMP/SettingUtils/爱玩机/离线仓库&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Facet&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -47,8 +47,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Projects_TMP\SettingUtils\爱玩机\Magisk模块" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\离线仓库" />
+      <recent name="E:\Projects_TMP\SettingUtils\爱玩机\Magisk模块" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\应用软件" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\paymentPic" />
@@ -69,14 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714876201857</updated>
-    </task>
-    <task id="LOCAL-00015" summary="修正">
-      <option name="closed" value="true" />
-      <created>1715589222736</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1715589222736</updated>
     </task>
     <task id="LOCAL-00016" summary="修正">
       <option name="closed" value="true" />
@@ -462,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722430956278</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="修正">
+      <option name="closed" value="true" />
+      <created>1722471778705</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1722471778706</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

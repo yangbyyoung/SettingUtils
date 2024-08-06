@@ -5,11 +5,71 @@
     "UpdateTypeLabel": "稳定版(Stable)",
     "cloudModuleAuditTime": "2022-10-31 00:00:00",
     "notificationQuery": false,
+    "updatelog": "去除部分无用资源，减少应用体积\n优化部分页面多选逻辑\n因新版ksu与magisk大改模块API，导致大部分模块无法刷入，请在模块刷入页面设置为兼容模式(关闭传统方式则为兼容)方式刷入模块，也可联系开发者积极适配\n更新内置magisk模块制作模板\n适配新版magisk与ksu刷入模块成功没有模块问题\n修复识别部分文件异常\n优化部分页面崩溃问题\n修复无root下进入分区管理卡死问题\n适配部分xz打包的模块无法识别问题\n修复安装器安装完应用后有概率不删除安装包\n新增应用卸载器无法使用保留数据说明与无法所有用户卸载说明",
+    "version": "S-22.0.9.2",
+    "createdAt": "2024-08-03 18:42:44",
+    "objectId": "3126ee32-2ab6-477a-a46c-1e2d447efa68",
+    "updatedAt": "2024-08-03 18:42:44"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "修复上一个版本仓库加载异常缓慢问题\n修复上一个版本安装模块概率性失败问题\n修复上一个版本批量安装软件有概率性崩溃问题\n修复上一个版本加载云端数据有概率重复加载问题\n\n修复在ksu\/apatch授权分身下无法获取root权限问题\n优化搜索逻辑，全选多选将不在使用全局列表而使用搜索列表处理\n修复部分情况下丢失资源包检测不到问题\n修复dhizuku模式下无法使用应用找回功能与卸载残留功能\n适配设备管理员权限下无法使用保留数据卸载应用功能\n修复安装器部分情况下批量安装获取应用包名出错问题\n修复应用读取应用列表权限被拒绝后使用安卓ID修改成功但重启无效问题\n适配部分机型dhizuku模式下无法静默安装问题(可能因selinux机制依旧失败，需更新最新版提权插件)\n适配部分机型dhizuku模式下无法修改管理员名称(可能因selinux机制依旧失败，需更新最新版提权插件)",
+    "version": "S-22.0.9.1",
+    "createdAt": "2024-07-14 10:10:55",
+    "objectId": "4a56763b-545c-4378-a912-c2bdfd79de46",
+    "updatedAt": "2024-07-14 10:10:55"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "部分文档协议将长期在帮助文档里面，方便随时查看\n修复部分系统应用处理私有目录出错问题\n短信伪装新增已送达状态伪装\n修复上个版本appops页面异常问题\n修复部分功能出错问题\n修复应用被卸载重装后不主动向dhizuku申请权限，导致dhizuku无法授权",
+    "version": "S-22.0.9.0",
+    "createdAt": "2024-06-02 12:26:11",
+    "objectId": "ec0d3d65-fb7f-443c-b232-1636d3a92c2b",
+    "updatedAt": "2024-06-04 21:18:10"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "应用相关，新增应用通知渠道管理，方便统一逻辑处理多条通知\n修复部分页面主题资源异常问题\n优化提权插件检测未安装时自动下载引导安装\n优化部分无效的资源导致数据干扰\n修复dhizuku提权插件逻辑\n修复部分异常崩溃\n优化部分云控模块扫描，暂时仅做检测，待完善后将进一步提取云控url",
+    "version": "S-22.0.8.9",
+    "createdAt": "2024-05-22 20:36:24",
+    "objectId": "c5ea1431-5781-4ca1-8646-43f8b21b14ee",
+    "updatedAt": "2024-05-22 20:36:24"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
+    "updatelog": "优化卸载重装判定，避免部分用户从其他设备备份恢复后导致应用出现奇奇怪怪的问题\n修复部分设备处理中文文件名乱码相关问题\n优化下载批量操作逻辑\n修复授权root自定义su为空格\/@时无法判定直接失败导致无法撤销操作\n修复应用crc32校验显示错误\n修复WIFI密码部采用新加密方式部分设备无法识别\n适配红魔设备无法使用安卓id修改提示系统魔改问题\n电池管理统计记录亮屏时间，电池管理统计去除秒单位显示\n模块仓库新增批量更新模块功能，大幅度减少不必要的重复操作\n适配新版ksu模块特性\n修复magisk模块丢失meta配置导致无法识别为模块\n修复部分接口异常\n修复git仓库个别模块信息加载失败导致整个仓库列表崩溃\n修复应用安装器处理网络传输的apk丢失文件信息问题\n修复安装器概率性继承上一次操作bug\n修复应用管理导出括号被屏蔽问题",
+    "version": "S-22.0.8.8",
+    "createdAt": "2024-05-08 06:56:47",
+    "objectId": "3c493b26-f586-4105-a4c3-463ee10e174f",
+    "updatedAt": "2024-05-08 06:58:05"
+  },
+  {
+    "ModulesVersion": "22.0",
+    "UpdateType": "Stable",
+    "UpdateTypeLabel": "稳定版(Stable)",
+    "cloudModuleAuditTime": "2022-10-31 00:00:00",
+    "notificationQuery": false,
     "updatelog": "新增一个备用服务器，防止部分情况下夜间欠费来不及续费\n替换shizuku下载资源链接\n修复安装器加载一些网络下的安装包异常问题\n优化缓存清理过多卡死问题\n修复批量分享应用遇到apks应用依旧分享apk问题\n优化分享应用进度条逻辑\n修复权限管理在无root权限下无法申请取权限",
     "version": "S-22.0.8.7",
     "createdAt": "2024-04-02 12:24:39",
-    "objectId": "ce19073a-4219-42df-a3b6-4da77d46ba79",
-    "updatedAt": "2024-04-02 12:24:39"
+    "objectId": "6ea84c05-cf46-44ce-8779-3bd1e809c22f",
+    "updatedAt": "2024-04-11 16:17:53"
   },
   {
     "ModulesVersion": "22.0",
@@ -35,7 +95,6 @@
     "objectId": "da301c9b-aac5-4525-9588-3f1fe8015314",
     "updatedAt": "2024-03-17 19:38:24"
   },
-
   {
     "ModulesVersion": "22.0",
     "UpdateType": "Stable",
@@ -48,7 +107,6 @@
     "objectId": "70b34781-bd0b-4f62-941d-0aafc92775f2",
     "updatedAt": "2024-03-01 07:41:04"
   },
-
   {
     "ModulesVersion": "22.0",
     "UpdateType": "Stable",
