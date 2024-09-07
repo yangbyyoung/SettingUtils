@@ -1,11 +1,6 @@
 [
-  {
-    "id": "zygisk_lsposed",
-    "name": "Zygisk - LSPosed",
-    "author": "LSPosed Developers",
-    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
-    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json"
-  },
+
+
   {
     "id": "asoul_affinity_opt",
     "name": "A-SOUL Games Optimization",
@@ -562,13 +557,7 @@
     "description": "Enable Enhanced mode for Storage Isolation. This module requires Riru v26.1.6 or above.",
     "updateJson": "https://rikkaapps.github.io/release/si_riru.json"
   },
-  {
-    "id": "zygisk_shamiko",
-    "name": "Shamiko",
-    "author": "LSPosed Developers",
-    "description": "これで勝ったと思うなよ―――!!",
-    "updateJson": "https://lsposed.github.io/releases/shamiko.json"
-  },
+
   {
     "id": "tailscale",
     "name": "Tailscale",
@@ -2177,5 +2166,25 @@
     "zip_url": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c.zip",
     "version": "v1.3",
     "versionCode": "13"
+  },
+
+
+
+
+
+
+  {
+    "id": "zygisk_lsposed",
+    "name": "Zygisk - LSPosed",
+    "author": "LSPosed Developers",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json"
+  },
+  {
+    "id": "zygisk_shamiko",
+    "name": "Shamiko",
+    "author": "LSPosed Developers",
+    "description": "これで勝ったと思うなよ―――!!",
+    "updateJson": "https://lsposed.github.io/releases/shamiko.json"
   }
 ]
