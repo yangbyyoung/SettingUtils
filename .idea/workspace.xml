@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/离线仓库/magisk.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/离线仓库/magisk.xml.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/离线仓库/xposed.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/离线仓库/xposed.xml.gz" afterDir="false" />
-    </list>
+    <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +29,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder0": "0",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder1": "1",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder2": "2",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder3": "3",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth0": "434",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth1": "434",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth2": "435",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth3": "434",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder0": "0",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder1": "1",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder2": "2",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder3": "3",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth0": "434",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth1": "434",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth2": "435",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth3": "434",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -49,8 +61,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Projects_TMP\SettingUtils\爱玩机\应用软件" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\离线仓库" />
+      <recent name="E:\Projects_TMP\SettingUtils\爱玩机\应用软件" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\paymentPic" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\Magisk模块" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机" />
@@ -72,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714876201857</updated>
-    </task>
-    <task id="LOCAL-00029" summary="修正">
-      <option name="closed" value="true" />
-      <created>1716714027464</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1716714027464</updated>
     </task>
     <task id="LOCAL-00030" summary="修正">
       <option name="closed" value="true" />
@@ -465,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725707186796</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="修正">
+      <option name="closed" value="true" />
+      <created>1725755195586</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1725755195586</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,6 +492,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
     <MESSAGE value="修正" />
     <option name="LAST_COMMIT_MESSAGE" value="修正" />
   </component>
