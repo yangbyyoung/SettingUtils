@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正">
-      <change beforePath="$PROJECT_DIR$/爱玩机/authorInfo.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/authorInfo.json.gz" afterDir="false" />
-    </list>
+    <list default="true" id="21b96e49-b04f-4bcc-b554-22ba3b76f5da" name="更改" comment="修正" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,22 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714876201857</updated>
-    </task>
-    <task id="LOCAL-00035" summary="修正">
-      <option name="closed" value="true" />
-      <created>1717290440304</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1717290440304</updated>
-    </task>
-    <task id="LOCAL-00036" summary="修正">
-      <option name="closed" value="true" />
-      <created>1717380810122</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1717380810122</updated>
     </task>
     <task id="LOCAL-00037" summary="修正">
       <option name="closed" value="true" />
@@ -479,7 +461,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726046253391</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="修正">
+      <option name="closed" value="true" />
+      <created>1726046525620</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1726046525620</updated>
+    </task>
+    <task id="LOCAL-00085" summary="修正">
+      <option name="closed" value="true" />
+      <created>1726046807630</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1726046807630</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
