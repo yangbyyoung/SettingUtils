@@ -434,11 +434,11 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "isQuery": false,
+    "isQuery": true,
     "allUser": false,
     "pushTime": "",
-    "title": "新年快乐，新春愉快！~",
-    "summary": "PY码(领取有效期7天)：933d9673cc\n特殊码说明：无会员的领完概率带1-6个月会员\n已有普通会员的领完会保底2个月会员，概率最高12个月会员\n专享的领完概率升豪华永久\n豪华永久的领完概率直接重置消费额度\n活动时间：2024年2月7日0晨-2024年2月15日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！",
+    "title": "中秋节快乐~（中国四大传统节日）",
+    "summary": "中秋节快乐，PY福利码：eadc1c190f（内含100M云盘，100张抽奖券，豪华会员有概率获得双倍）\n活动时间：2024年9月17日0晨-2024年9月17日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！",
     "intent": "com.byyoung.setting/com.byyoung.setting.Setting.ClarificationActivity"
   },
   "telegramChannel": "https://t.me/+jbABrZEzR3UyZDQ1",
