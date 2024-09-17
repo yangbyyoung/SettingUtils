@@ -434,7 +434,7 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "isQuery": true,
+    "isQuery": false,
     "allUser": false,
     "pushTime": "",
     "title": "中秋节快乐~（中国四大传统节日）",
