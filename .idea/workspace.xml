@@ -66,8 +66,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Projects_TMP\SettingUtils\爱玩机" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\离线仓库" />
+      <recent name="E:\Projects_TMP\SettingUtils\爱玩机" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\应用软件" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\paymentPic" />
       <recent name="E:\Projects_TMP\SettingUtils\爱玩机\Magisk模块" />
@@ -89,14 +89,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714876201857</updated>
-    </task>
-    <task id="LOCAL-00051" summary="修正">
-      <option name="closed" value="true" />
-      <created>1720584664273</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1720584664274</updated>
     </task>
     <task id="LOCAL-00052" summary="修正">
       <option name="closed" value="true" />
@@ -482,7 +474,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727504170741</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="修正">
+      <option name="closed" value="true" />
+      <created>1727655475869</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1727655475869</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
