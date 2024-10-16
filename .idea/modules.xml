@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SettingUtils.iml" filepath="$PROJECT_DIR$/.idea/SettingUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SettingUtils.iml" filepath="$PROJECT_DIR$/SettingUtils.iml" />
     </modules>
   </component>
 </project>
