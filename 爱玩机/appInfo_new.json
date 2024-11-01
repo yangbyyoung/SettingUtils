@@ -503,16 +503,28 @@
   "historyVersion": {
     "zygisk_lsposed": [
       {
-        "versionName": "v1.8.6 (稳定版)",
+        "versionName": "v1.8.6 (官方稳定版)",
         "fileUrl": [
           "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Zygisk-LSPosed_6712.zip",
           "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Zygisk-LSPosed_6712.zip"
+        ]
+      },
+      {
+        "versionName": "v1.9.2 (Irena版)",
+        "fileUrl": [
+          "https://github.com/re-zero001/LSPosed-Irena/releases/download/1.9.2/LSPosed-v1.9.2-7249-Irena-release.zip"
+        ]
+      },
+      {
+        "versionName": "v1.10.1 (JingMatrix版)",
+        "fileUrl": [
+          "https://github.com/JingMatrix/LSPosed/releases/download/v1.10.1/LSPosed-v1.10.1-7115-zygisk-release.zip"
         ]
       }
     ],
     "riru_lsposed": [
       {
-        "versionName": "v1.8.6 (稳定版)",
+        "versionName": "v1.8.6 (官方稳定版)",
         "fileUrl": [
           "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/LSPosed-v1.8.6-6712-riru-release.zip",
           "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/LSPosed-v1.8.6-6712-riru-release.zip"
