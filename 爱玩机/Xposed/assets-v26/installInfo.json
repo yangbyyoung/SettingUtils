@@ -3,10 +3,10 @@
     "name": "zygisk_lsposed_v1.9.2(官方)",
     "minSdk": 27,
     "maxSdk": 34,
+    "apkName": "manager.apk",
     "zipName": [
       "zygisk_lsposed_v1.9.2.zip"
-    ],
-    "apkName": "manager.apk"
+    ]
   },
   {
     "name": "zygisk_lsposed_v1.9.2(Irena)",
