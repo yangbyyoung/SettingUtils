@@ -166,6 +166,20 @@
       "https://wwp.lanzouw.com/isEAB07rg3ih"
     ]
   },
+
+  {
+    "fileName": "xposed_26.zip",
+    "fileUrl": [
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
+      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
+      "https://codeberg.org/aqqor/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
+      "https://raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
+      "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
+      "https://wwp.lanzouw.com/isEAB07rg3ih"
+    ]
+  },
+
+
   {
     "fileName": "xposed-v87-v88.zip",
     "fileUrl": [

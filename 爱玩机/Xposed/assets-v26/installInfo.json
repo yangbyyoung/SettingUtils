@@ -1,0 +1,49 @@
+[
+  {
+    "fileName": "zygisk_lsposed_v1.9.2(官方)",
+    "minSdk": 27,
+    "maxSdk": 34,
+    "zipName": [
+      "zygisk_lsposed_v1.9.2.zip"
+    ],
+    "apkName": "manager.apk"
+  },
+  {
+    "fileName": "zygisk_lsposed_v1.9.2(Irena)",
+    "minSdk": 27,
+    "maxSdk": 35,
+    "apkName": "manager.apk",
+    "zipName": [
+      "zygisk_lsposed_v1.9.2_Irena.zip"
+    ]
+  },
+  {
+    "fileName": "zygisk_lsposed_v1.10.1(JingMatrix)",
+    "minSdk": 27,
+    "maxSdk": 35,
+    "apkName": "manager.apk",
+    "zipName": [
+      "zygisk_lsposed_v1.10.1_JingMatrix.zip"
+    ]
+  },
+  {
+    "fileName": "riru_lsposed_v1.8.0",
+    "minSdk": 27,
+    "maxSdk": 33,
+    "apkName": "manager.apk",
+    "zipName": [
+      "riru-core_v26.1.zip",
+      "riru_lsposed_v1.8.0.zip"
+    ]
+  },
+  {
+    "fileName": "riru_edxposed_v0.5.2",
+    "minSdk": 27,
+    "maxSdk": 31,
+    "apkName": "EdXposed.apk",
+    "zipName": [
+      "riru-core_v23.9.zip",
+      "riru_edxposed_v0.5.2.zip"
+    ]
+  }
+]
