@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐">
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v21/xposed-magisk.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v21/xposed-v87-v88.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/installInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/riru-core_v23.9.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/riru-core_v26.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/riru_edxposed_v0.5.2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/riru_lsposed_v1.8.0.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/zygisk_lsposed_v1.10.1_JingMatrix.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/zygisk_lsposed_v1.9.2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/zygisk_lsposed_v1.9.2_Irena.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/installInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/Xposed/assets-v26/installInfo.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730605210089</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="补齐">
+      <option name="closed" value="true" />
+      <created>1730780159736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730780159736</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
