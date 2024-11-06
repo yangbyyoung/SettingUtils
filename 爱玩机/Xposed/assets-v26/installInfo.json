@@ -38,7 +38,7 @@
   },
   {
     "name": "riru_edxposed_v0.5.2",
-    "minSdk": 24,
+    "minSdk": 26,
     "maxSdk": 31,
     "apkName": "EdXposed.apk",
     "zipName": [
