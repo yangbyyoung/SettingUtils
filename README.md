@@ -5,5 +5,5 @@ git push origin master
 git push -u origin
 git push -u master
 
-git remote set-url --add master https://codeberg.org/inikale/SettingUtils.git 
+git remote set-url --add master url 
 git remote set-url --delete master url 
