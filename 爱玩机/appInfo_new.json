@@ -514,13 +514,13 @@
         ]
       },
       {
-        "versionName": "v1.9.2 (Irena版)",
+        "versionName": "v1.9.2 (Irena版,支持安卓15)",
         "fileUrl": [
           "https://github.com/re-zero001/LSPosed-Irena/releases/download/1.9.2/LSPosed-v1.9.2-7249-Irena-release.zip"
         ]
       },
       {
-        "versionName": "v1.10.1 (JingMatrix版)",
+        "versionName": "v1.10.1 (JingMatrix版,支持安卓15)",
         "fileUrl": [
           "https://github.com/JingMatrix/LSPosed/releases/download/v1.10.1/LSPosed-v1.10.1-7115-zygisk-release.zip"
         ]
