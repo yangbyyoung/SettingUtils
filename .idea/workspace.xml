@@ -33,7 +33,7 @@
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Projects/SettingUtils/爱玩机/离线仓库",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -349,7 +349,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733194839695</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="补齐">
+      <option name="closed" value="true" />
+      <created>1733195869353</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733195869353</updated>
+    </task>
+    <task id="LOCAL-00038" summary="补齐">
+      <option name="closed" value="true" />
+      <created>1733196143210</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1733196143210</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

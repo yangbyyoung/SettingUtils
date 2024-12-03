@@ -453,9 +453,8 @@
     "isQuery": false,
     "allUser": false,
     "pushTime": "",
-    "title": "国庆节快乐~",
-
-    "summary": "国庆节快乐码：1b6957c948(内含100-200张抽奖券等奖励，请自行留意资源上限，以免领取无效浪费)\n活动时间：2024年10月1日0晨-2024年10月3日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！",
+    "title": "新年快乐~",
+    "summary": "快乐码：1b6957c948(内含100-200张抽奖券等奖励，请自行留意资源上限，以免领取无效浪费)\n活动时间：2024年10月1日0晨-2024年10月3日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！",
     "intent": "com.byyoung.setting/com.byyoung.setting.Setting.ClarificationActivity"
   },
   "telegramChannel": "https://t.me/+jbABrZEzR3UyZDQ1",
