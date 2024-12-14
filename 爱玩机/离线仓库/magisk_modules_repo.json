@@ -768,29 +768,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
+    "id": "zygisk_lsposed",
+    "name": "Zygisk - LSPosed",
     "author": "LSPosed Developers",
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
-    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
-    "name": "Zygisk - Lsposed",
-    "id": "zygisk_lsposed"
+    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json"
   },
+
   {
     "id": "riru_lsposed",
     "name": "Riru - LSPosed",
@@ -843,10 +828,14 @@
   {
     "author": "LSPosed Developers",
     "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
-    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+    "updateJson": "https://lsposed.github.io/releases/shamiko.json",
     "name": "Shamiko",
     "id": "zygisk_shamiko"
   },
+
+
+
+
   {
     "author": "chiteroman",
     "description": "Fix CTS profile (SafetyNet) and DEVICE verdict (Play Integrity).",
@@ -2166,25 +2155,8 @@
     "zip_url": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c.zip",
     "version": "v1.3",
     "versionCode": "13"
-  },
-
-
-
-
-
-
-  {
-    "id": "zygisk_lsposed",
-    "name": "Zygisk - LSPosed",
-    "author": "LSPosed Developers",
-    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
-    "updateJson": "https://lsposed.github.io/LSPosed/release/zygisk.json"
-  },
-  {
-    "id": "zygisk_shamiko",
-    "name": "Shamiko",
-    "author": "LSPosed Developers",
-    "description": "これで勝ったと思うなよ―――!!",
-    "updateJson": "https://lsposed.github.io/releases/shamiko.json"
   }
+
+
+
 ]
