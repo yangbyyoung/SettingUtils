@@ -54,7 +54,11 @@
     },
     {
       "title": "OpenGapps",
-      "data": "http://opengapps.org/"
+      "data": "http://opengapps.org"
+    },
+    {
+      "title": "萤火虫资源站",
+      "data": "https://www.yhcres.top"
     }
   ],
   "其它服务": [
