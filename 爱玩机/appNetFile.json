@@ -165,7 +165,6 @@
       "https://wwp.lanzouw.com/isEAB07rg3ih"
     ]
   },
-
   {
     "fileName": "xposed_26.zip",
     "fileUrl": [
@@ -175,8 +174,6 @@
       "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Xposed/assets-v26/%E5%AE%89%E5%8D%938.0Xposed.zip"
     ]
   },
-
-
   {
     "fileName": "xposed-v87-v88.zip",
     "fileUrl": [
@@ -399,7 +396,6 @@
       "http://res.byyang.top/down/oaPhL7e2bQjo?fname=/magisk.xml.gz",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
-
       "https://codeberg.org/rifikif/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz"
@@ -409,9 +405,9 @@
     "fileName": "xposed.xml.gz",
     "fileUrl": [
       "http://res.byyang.top/down/oaPhL7e2bQjo?fname=/xposed.xml.gz",
+
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
-
       "https://codeberg.org/rifikif/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz"
@@ -434,8 +430,6 @@
       "https://raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
       "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
-
-
       "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json"
     ]
   },
