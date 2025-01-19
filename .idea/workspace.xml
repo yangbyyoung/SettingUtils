@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐">
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLabDefaultAccount">
-    <option name="defaultAccountId" value="fded317e-3801-430e-a13c-5bf40df91fea" />
+    <option name="defaultAccountId" value="360a136c-4af0-4134-80a7-f4299de1f33c" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -66,30 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00024" summary="补齐">
-      <option name="closed" value="true" />
-      <created>1732422988498</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1732422988498</updated>
-    </task>
-    <task id="LOCAL-00025" summary="补齐">
-      <option name="closed" value="true" />
-      <created>1732446380933</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1732446380933</updated>
-    </task>
-    <task id="LOCAL-00026" summary="补齐">
-      <option name="closed" value="true" />
-      <created>1732447836257</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1732447836257</updated>
     </task>
     <task id="LOCAL-00027" summary="补齐">
       <option name="closed" value="true" />
@@ -459,7 +435,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737177410866</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="补齐">
+      <option name="closed" value="true" />
+      <created>1737177735797</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1737177735797</updated>
+    </task>
+    <task id="LOCAL-00074" summary="补齐+1">
+      <option name="closed" value="true" />
+      <created>1737177836097</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1737177836097</updated>
+    </task>
+    <task id="LOCAL-00075" summary="补齐+1">
+      <option name="closed" value="true" />
+      <created>1737205942005</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1737205942005</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,6 +475,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="补齐" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐" />
+    <MESSAGE value="补齐+1" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+1" />
   </component>
 </project>
