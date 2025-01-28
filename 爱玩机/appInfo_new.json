@@ -451,11 +451,11 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "isQuery": false,
+    "isQuery": true,
     "allUser": false,
     "pushTime": "",
-    "title": "元旦快乐~",
-    "summary": "辞旧迎新，新的一年祝您心想事成，万事如意，财源滚滚！\n\n快乐码：342eab17b4(内含100-300张抽奖券等奖励，请自行留意资源上限，以免领取无效浪费)\n活动时间：2024年12月31日0晨-2025年1月1日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！",
+    "title": "新春快乐~",
+    "summary": "1：新春快乐，新的一年祝您心想事成，万事如意，梦想成真，在这里，开发者们给您拜年啦！\n\n快乐码：421248c69c(内含100-300抽奖券，1000-3000K币，50-100M云盘，1-15天会员等奖励，请自行留意资源上限，以免领取无效浪费)\n活动时间：2024年1月27日0晨-2025年2月3日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！\n\n2：新春到，感谢广大用户对爱玩机的支持，我们将在活动期各抽取2名会员（永久豪华2，专享2，月租2，共6名）用户进行100%红包赠送（例：历史消费累计50元则赠送50元红包转账），活动结束后将通过邮件进行通知（注：邮件通知不需要提供账号密码等任何隐私数据，谨防诈骗！）",
     "intent": "com.byyoung.setting/com.byyoung.setting.Setting.ClarificationActivity"
   },
   "telegramChannel": "https://t.me/+jbABrZEzR3UyZDQ1",
@@ -554,7 +554,6 @@
           "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v0.7-ksu-fix2-141-release.zip"
         ]
       }
-
     ],
     "AdGuardHome": [
       {
