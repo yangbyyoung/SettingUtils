@@ -39,10 +39,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
+      <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库\VersionInfo" />
       <recent name="E:\Projects\SettingUtils\爱玩机\paymentPic" />
       <recent name="E:\Projects\SettingUtils\爱玩机\应用软件" />
       <recent name="E:\Projects\SettingUtils\爱玩机\Xposed\assets-v26" />
-      <recent name="E:\Projects\SettingUtils\爱玩机\Xposed" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
@@ -61,14 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00032" summary="补齐">
-      <option name="closed" value="true" />
-      <created>1733110455091</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1733110455091</updated>
     </task>
     <task id="LOCAL-00033" summary="补齐">
       <option name="closed" value="true" />
@@ -454,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738637778283</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="补齐+1">
+      <option name="closed" value="true" />
+      <created>1738923449692</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1738923449692</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
