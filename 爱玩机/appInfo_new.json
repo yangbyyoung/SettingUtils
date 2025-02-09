@@ -1209,6 +1209,14 @@
     "888e492d",
     "693a47f5",
     "113c6c2f"
+  ],
+  "blockGrantId": [
+    {
+      "moduleId": "tricky_store",
+      "userId": [
+        "b93983b0e4"
+      ]
+    }
   ]
 }
 
