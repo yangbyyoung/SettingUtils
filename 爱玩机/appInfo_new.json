@@ -1210,13 +1210,10 @@
     "693a47f5",
     "113c6c2f"
   ],
-  "blockGrantId": [
-    {
-      "moduleId": "tricky_store",
-      "userId": [
-        "b93983b0e4"
-      ]
-    }
-  ]
+  "blockGrantId": {
+    "tricky_store": [
+      "b93983b0e4"
+    ]
+  }
 }
 
