@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,14 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00047" summary="补齐">
-      <option name="closed" value="true" />
-      <created>1734176958127</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1734176958127</updated>
     </task>
     <task id="LOCAL-00048" summary="补齐">
       <option name="closed" value="true" />
@@ -457,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743566373661</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="补齐+1">
+      <option name="closed" value="true" />
+      <created>1743567349568</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1743567349568</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
