@@ -347,10 +347,11 @@
   {
     "fileName": "device.json",
     "fileUrl": [
+      "https://code.highspec.ru/oronny/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
+
       "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
       "https://codeberg.org/roleric527/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
-      "https://code.highspec.ru/oronny/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json"
     ]
   },
