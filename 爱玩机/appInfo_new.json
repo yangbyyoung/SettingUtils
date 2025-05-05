@@ -464,7 +464,7 @@
     "https://hub.gitmirror.com"
   ],
   "notificationInfo": {
-    "isQuery": true,
+    "isQuery": false,
     "allUser": false,
     "pushTime": "",
     "title": "劳动节快乐~",
