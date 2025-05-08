@@ -325,7 +325,6 @@
     "fileUrl": [
       "https://api.vvhan.com/api/wallpaper/acg",
       "https://api.hanximeng.com/ranimg/api.php",
-
       "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
@@ -347,7 +346,6 @@
     "fileName": "device.json",
     "fileUrl": [
       "https://code.highspec.ru/idoidraw/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
-
       "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
@@ -395,13 +393,11 @@
   {
     "fileName": "magisk.xml.gz",
     "fileUrl": [
-
       "https://t5988i5178.zicp.fun/d/assets/magisk.xml.gz",
       "https://gitlab.com/yangbyyang/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "http://res.byyang.top/down/oaPhL7e2bQjo?fname=/magisk.xml.gz",
-
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://code.highspec.ru/idoidraw/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz"
     ]
@@ -411,8 +407,6 @@
     "fileUrl": [
       "https://t5988i5178.zicp.fun/d/assets/xposed.xml.gz",
       "http://res.byyang.top/down/oaPhL7e2bQjo?fname=/xposed.xml.gz",
-
-
       "https://gitlab.com/yangbyyang/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
