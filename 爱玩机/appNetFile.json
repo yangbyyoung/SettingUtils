@@ -264,7 +264,6 @@
   {
     "fileName": "appInfo_new.json",
     "fileUrl": [
-
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo_new.json",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo_new.json",
       "https://gitlab.com/yangbyyang/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo_new.json",
@@ -467,8 +466,9 @@
   {
     "fileName": "zygisk_shamiko",
     "fileUrl": [
-      "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/magisk/Shamiko_zygisk_shamiko.zip",
-      "https://gitea.com/byyang/OfflineModule/raw/branch/master/magisk/Shamiko_zygisk_shamiko.zip"
+      "https://github.com/LSPosed/LSPosed.github.io/releases/download/shamiko-383/Shamiko-v1.2.1-383-release.zip",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v1.2.1-383-release.zip",
+      "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v1.2.1-383-release.zip"
     ]
   },
   {
@@ -476,6 +476,17 @@
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk",
       "https://gitea.com/byyang/OfflineModule/raw/branch/master/xposed/爱玩机-快捷捕抓增强_com.intent.get.apk"
+    ]
+  },
+  {
+    "fileName": "io.github.icepony.alwayscreateuser",
+    "fileUrl": [
+      "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
+      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
+      "https://gitlab.com/yangbyyang/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
+      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
+      "https://code.highspec.ru/idoidraw/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6Alwayscreateuser-io.github.icepony.alwayscreateuser.apk"
     ]
   },
   {
