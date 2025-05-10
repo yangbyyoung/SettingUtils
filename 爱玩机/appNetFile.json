@@ -352,13 +352,6 @@
     ]
   },
   {
-    "fileName": "appMessage.json",
-    "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appMessage.json",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appMessage.json"
-    ]
-  },
-  {
     "fileName": "vipInfo.json",
     "fileUrl": [
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json",
@@ -481,7 +474,6 @@
     "fileName": "io.github.icepony.alwayscreateuser",
     "fileUrl": [
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
       "https://gitlab.com/yangbyyang/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
       "https://code.highspec.ru/idoidraw/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/Alwayscreateuser-io.github.icepony.alwayscreateuser.apk",
@@ -492,7 +484,6 @@
     "fileName": "com.byyang.appmodify",
     "fileUrl": [
       "http://res.byyang.top/down/aSlb2kdRU1R7?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/爱玩机-应用伪装.apk",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/爱玩机-应用伪装.apk",
       "https://gitlab.com/yangbyyang/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/爱玩机-应用伪装.apk",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/爱玩机-应用伪装.apk",
       "https://code.highspec.ru/idoidraw/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/爱玩机-应用伪装.apk",
