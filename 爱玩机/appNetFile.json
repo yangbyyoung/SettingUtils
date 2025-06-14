@@ -429,9 +429,10 @@
   {
     "fileName": "lsposedModules.json",
     "fileUrl": [
+      "https://modules-vercel.lsposed.org/modules.json",
       "https://modules.lsposed.org/modules.json",
-      "https\\modules-cloudflare.lsposed.org/modules.json",
-      "https://modules-vercel.lsposed.org/modules.json"
+
+      "https\\modules-cloudflare.lsposed.org/modules.json"
     ]
   },
   {
