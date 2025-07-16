@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/paymentPic/mm_facetoface_collect_qrcode_1718107879300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/paymentPic/qr-wechat_3.png" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +41,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\SettingUtils\爱玩机\paymentPic" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
       <recent name="E:\Projects\SettingUtils\爱玩机\Magisk模块" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库\VersionInfo" />
       <recent name="E:\Projects\SettingUtils\爱玩机\应用软件" />
-      <recent name="E:\Projects\SettingUtils\爱玩机" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
@@ -72,14 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00093" summary="补齐+1">
-      <option name="closed" value="true" />
-      <created>1743138161226</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1743138161226</updated>
     </task>
     <task id="LOCAL-00094" summary="补齐+1">
       <option name="closed" value="true" />
@@ -465,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752319622524</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="补齐+5">
+      <option name="closed" value="true" />
+      <created>1752538987976</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1752538987976</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
