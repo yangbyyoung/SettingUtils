@@ -177,7 +177,7 @@
     },
     {
       "label": "谷歌服务",
-      "action":"miui.intent.action.APP_SETTINGS",
+      "action": "miui.intent.action.APP_SETTINGS",
       "packageName": "com.miui.securitycenter",
       "className": "com.miui.googlebase.ui.GmsCoreSettings"
     },
@@ -289,6 +289,44 @@
       "className": "com.android.settings.Settings$ReduceBrightColorsSettingsActivity"
     },
     {
+      "label": "权限管理[原生]：有权查看使用情况的应用",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$UsageAccessSettingsActivity"
+    },
+    {
+      "label": "权限管理[原生]：悬浮窗权限管理",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$OverlaySettingsActivity"
+    },
+    {
+      "label": "正在运行的服务：安卓原生的正在运行的服务",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.SubSettings",
+      "extra": "S.:settings:show_fragment_title=正在运行的服务_爱玩机工具箱\ni.:settings:source_metrics=39\ni.:android:show_fragment_title=-1\ni.:show_fragment_title_resid=-1\nS.:settings:show_fragment=com.android.settings.applications.RunningServices"
+    },
+
+    {
+      "label": "系统无线调试模式",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.SubSettings",
+      "extra": "S.:settings:show_fragment_title=无线调试_爱玩机工具箱\nS.:settings:show_fragment=com.android.settings.development.WirelessDebuggingFragment"
+    },
+    {
+      "label": "安卓系统文件管理器",
+      "packageName": "com.google.android.documentsui",
+      "className": "com.android.documentsui.files.FilesActivity"
+    },
+    {
+      "label": "系统内存使用情况",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$MemorySettingsActivity"
+    },
+    {
+      "label": "系统内存使用情况",
+      "packageName": "com.android.settings",
+      "className": "com.android.settings.Settings$AppMemoryUsageActivity"
+    },
+    {
       "label": "彩蛋玩耍：甜品盒",
       "packageName": "com.android.systemui",
       "className": "com.android.systemui.DessertCase"
@@ -302,37 +340,6 @@
       "label": "彩蛋玩耍：随意涂鸦",
       "packageName": "com.android.egg",
       "className": "com.android.egg.paint.PaintActivity"
-    },
-    {
-      "label": "权限管理[原生]：有权查看使用情况的应用",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.Settings$UsageAccessSettingsActivity"
-    },
-    {
-      "label": "权限管理[原生]：悬浮窗权限管理",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.Settings$OverlaySettingsActivity"
-    },
-    {
-      "label": "安卓系统文件管理器",
-      "packageName": "com.google.android.documentsui",
-      "className": "com.android.documentsui.files.FilesActivity"
-    },
-    {
-      "label": "系统内存使用情况",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.Settings$MemorySettingsActivity"
-    },
-    {
-      "label": "正在运行的服务：安卓原生的正在运行的服务",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.SubSettings",
-      "extra": "S.:settings:show_fragment_title=正在运行的服务_爱玩机工具箱\ni.:settings:source_metrics=39\ni.:android:show_fragment_title=-1\ni.:show_fragment_title_resid=-1\nS.:settings:show_fragment=com.android.settings.applications.RunningServices"
-    },
-    {
-      "label": "系统内存使用情况",
-      "packageName": "com.android.settings",
-      "className": "com.android.settings.Settings$AppMemoryUsageActivity"
     }
   ]
 }
