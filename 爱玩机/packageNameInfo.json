@@ -119,6 +119,12 @@
       ]
     },
     {
+      "packageName": "tv.danmaku.bilibilihd",
+      "filePath": [
+        "/data/tv.danmaku.bilibilihd/files/splash2"
+      ]
+    },
+    {
       "packageName": "com.douban.frodo",
       "filePath": [
         "/data/com.douban.frodo/cache/douban_ad"
