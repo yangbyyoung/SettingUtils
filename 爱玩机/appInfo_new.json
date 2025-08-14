@@ -471,7 +471,9 @@
     "10086"
   ],
   "proxyGithub": [
-    "https://ghfast.top"
+    "https://hub.gitmirror.com",
+    "https://ghfast.top",
+    "https://shrill-pond-3e81.hunsh.workers.dev"
   ],
   "notificationInfo": {
     "isQuery": false,
