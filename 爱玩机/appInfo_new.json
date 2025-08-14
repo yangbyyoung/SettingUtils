@@ -471,11 +471,7 @@
     "10086"
   ],
   "proxyGithub": [
-    "https://ghfast.top",
-    "https://github.moeyy.xyz",
-    "https://ghproxy.com",
-    "https://mirror.ghproxy.com",
-    "https://hub.gitmirror.com"
+    "https://ghfast.top"
   ],
   "notificationInfo": {
     "isQuery": false,
