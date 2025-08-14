@@ -2134,6 +2134,17 @@
       "zip_url": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c.zip",
       "version": "v1.3",
       "versionCode": "13"
+    },
+
+    {
+      "author": "LSPosed Developers",
+      "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
+      "name": "Shamiko",
+      "id": "zygisk_shamiko",
+      "versionCode": 414,
+      "version": "v1.2.5",
+      "zipUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/download/shamiko-414/Shamiko-v1.2.5-414-release.zip",
+      "changelog": "https://github.com/LSPosed/LSPosed.github.io/raw/master/releases/shamiko_changelog.md"
     }
   ]
 }
