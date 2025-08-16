@@ -442,7 +442,10 @@
       "name": "Zygisk - Tweaker",
       "author": "HChai",
       "description": "读取Json配置来对指定应用伪装机型解锁游戏高帧率，自动获取本机刷新率来伪装适合的机型，对unity游戏call函数可自定义fps和分辨率。zygisk实现不易被检测。",
-      "updateJson": "https://raw.githubusercontent.com/OneB1ank/zygisk-Tweaker/main/version.json"
+      "version": "v1 (2023.11.28)",
+      "versionCode": 8,
+      "zipUrl": "https://github.com/OneB1ank/zygisk-Tweaker/releases/download/Beta8/zygisk-Tweaker-2023-11-28.zip",
+      "changelog": "https://raw.githubusercontent.com/OneB1ank/zygisk-Tweaker/main/changelog.md"
     },
     {
       "id": "trichromelibrary-squoosh",
@@ -2135,7 +2138,6 @@
       "version": "v1.3",
       "versionCode": "13"
     },
-
     {
       "author": "LSPosed Developers",
       "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
