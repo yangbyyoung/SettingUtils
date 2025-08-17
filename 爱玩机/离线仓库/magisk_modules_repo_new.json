@@ -67,6 +67,7 @@
       "updateJson": "https://raw.githubusercontent.com/HChenX/Background_retention/main/HChen.json"
     },
     {
+      "hidden": true,
       "id": "BHcccc",
       "name": "BH_定量停充",
       "author": "不太会起网名 && HChai",
@@ -93,6 +94,15 @@
       "author": "t@amarin 魔改",
       "description": "Clash 透明代理    内核: Meta 1.18.0",
       "updateJson": "https://raw.githubusercontent.com/AXEVO/Clash-MIX/Clash-MIX-3.0/verson.json"
+    },
+    {
+      "id": "Clash",
+      "name": "Clash MIX",
+      "version": "V4.0",
+      "versionCode": "20250701",
+      "author": "GFW Fucker",
+      "description": "Clash透明代理[Tun]   面板: http://127.0.0.1:9090/ui",
+      "updateJson": "https://raw.githubusercontent.com/AXEVO/Clash-MIX/refs/heads/Archive/Update/4.0Update.json"
     },
     {
       "id": "zygisk_cleanerhooks",
@@ -137,6 +147,7 @@
       "updateJson": "https://github.com/vvb2060/zygisk_cacerts/raw/HEAD/update.json"
     },
     {
+      "hidden": true,
       "id": "cache_cleaner",
       "name": "Cache Cleaner",
       "author": "Taka🌿",
@@ -151,6 +162,7 @@
       "updateJson": "https://gitee.com/chase535/turbo-charge/raw/main/update_channel/turbo-charge.json"
     },
     {
+      "hidden": true,
       "id": "Dimming-like",
       "name": "ColorOS13动态调光+",
       "author": "酷安：官宣吖",
@@ -186,6 +198,7 @@
       "updateJson": "https://raw.githubusercontent.com/feravolt/FDE.AI-docs/master/update.json"
     },
     {
+      "hidden": true,
       "id": "ColorOS13_yomol",
       "name": "ColorOS13精简",
       "author": "酷安@yomol",
@@ -207,6 +220,7 @@
       "updateJson": "https://raw.githubusercontent.com/SomesakiKaede/BATTERYOPT/main/update.json"
     },
     {
+      "hidden": true,
       "id": "Battery_Manage",
       "name": "ColorOS Battery Manage",
       "author": "酷安：官宣吖",
@@ -221,6 +235,7 @@
       "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json"
     },
     {
+      "hidden": true,
       "id": "Automatic_balancing_of_Dual_Loudspeakers",
       "name": "非对称双扬音量平衡(识别耳机)",
       "author": "酷安@Theneworder",
@@ -291,6 +306,7 @@
       "updateJson": "https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/main/updater.json"
     },
     {
+      "hidden": true,
       "id": "HyperOS_yomol",
       "name": "HyperOS轻度精简",
       "author": "酷安@yomol",
@@ -319,6 +335,7 @@
       "updateJson": "https://raw.githubusercontent.com/Jinsens/Jinsen/main/update.json"
     },
     {
+      "hidden": true,
       "id": "magisk_overlayfs",
       "name": "Magical Overlayfs",
       "author": "HuskyDG",
@@ -326,6 +343,7 @@
       "updateJson": "https://github.com/huskydg/magic_overlayfs/releases/latest/download/update_release.json"
     },
     {
+      "hidden": true,
       "id": "barrier_free_litiaotiao",
       "name": "李跳跳2.2无障碍保活",
       "author": "酷安@哕哕吖",
@@ -333,6 +351,7 @@
       "updateJson": "https://share.yyycontrol.top/d/updatemod/barrier_free_litiaotiao_keep-alive.json"
     },
     {
+      "hidden": true,
       "id": "Mi12_TemperatureControl",
       "name": "Mi·淦掉温控",
       "author": "酷安@哕哕吖",
@@ -375,6 +394,7 @@
       "updateJson": "https://raw.githubusercontent.com/E85Addict/revanced-magisk-module/update/music-update.json"
     },
     {
+      "hidden": true,
       "id": "key_lmk_mod",
       "name": "内存管理优化",
       "author": "key",
@@ -410,6 +430,7 @@
       "updateJson": "https://github.com/zjw2017/SetoSkins_Thermal/blob/master/SetoSkins.json"
     },
     {
+      "hidden": true,
       "id": "SG_Athena",
       "name": "SG_Athena",
       "author": "官宣吖",
@@ -497,6 +518,7 @@
       "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_riru_wechat.json"
     },
     {
+      "hidden": true,
       "id": "ltd.womi.mod.sakurax.zram",
       "name": "[SakuraX] Zram Control",
       "author": "酷安@泠熙子",
@@ -609,6 +631,17 @@
       "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json"
     },
     {
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/README.md",
+      "author": "simonsmh",
+      "last_update": "1598456659000",
+      "name": "Wifi Bonding (Qcom)",
+      "description": "Doubles your wi-fi bandwith by modifying WCNSS_qcom_cfg.ini.",
+      "id": "wifi-bonding",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/5072c1fda550d3fa9d2b5bbc115f799466a1cc1b.zip",
+      "version": "1.14",
+      "versionCode": "15"
+    },
+    {
       "id": "xmlpak",
       "name": "xmlpak – a road to vendor apps",
       "author": "RKBDI, Tadi (j1505243 at xda)",
@@ -644,6 +677,7 @@
       "updateJson": "https://raw.githubusercontent.com/programminghoch10/ViPER4AndroidRepackaged/deploy/update.json"
     },
     {
+      "hidden": true,
       "id": "MIUI14_yomol",
       "name": "MIUI14轻度精简",
       "author": "酷安@yomol",
@@ -686,13 +720,7 @@
       "updateJson": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/release/update_zygisk_taobao.json"
     },
     {
-      "id": "zygisksu",
-      "name": "Zygisk Next",
-      "author": "Nullptr, 5ec1cff",
-      "description": "Standalone implementation of Zygisk.",
-      "updateJson": "https://api.nullptr.icu/android/zygisk-next/static/update.json"
-    },
-    {
+      "hidden": true,
       "id": "sqlite3_key",
       "name": "Sqlite3",
       "author": "key",
@@ -742,6 +770,7 @@
       "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json"
     },
     {
+      "hidden": true,
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
       "author": "chiteroman",
@@ -775,13 +804,6 @@
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "updateJson": "https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json"
-    },
-    {
-      "id": "zygisk_cleanerhooks",
-      "name": "Cleaner Hooks",
-      "author": "Green Mushroom",
-      "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
-      "updateJson": "https://materialcleaner.github.io/MaterialCleaner/releases/module.json"
     },
     {
       "id": "zygisksu",
@@ -819,11 +841,14 @@
       "id": "zygisk_shamiko"
     },
     {
-      "author": "chiteroman",
-      "description": "Fix CTS profile (SafetyNet) and DEVICE verdict (Play Integrity).",
-      "name": "Play Integrity Fix",
-      "id": "playintegrityfix",
-      "updateJson": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json"
+      "author": "LSPosed Developers",
+      "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
+      "name": "Shamiko",
+      "id": "zygisk_shamiko",
+      "versionCode": 414,
+      "version": "v1.2.5",
+      "zipUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/download/shamiko-414/Shamiko-v1.2.5-414-release.zip",
+      "changelog": "https://github.com/LSPosed/LSPosed.github.io/raw/master/releases/shamiko_changelog.md"
     },
     {
       "id": "zygisk-module-xfingerprint-pay-qq",
@@ -887,13 +912,6 @@
       "author": "shadow3",
       "description": "Frame-aware scheduling binary",
       "updateJson": "https://github.com/shadow3aaa/fas-rs/raw/master/update/update.json"
-    },
-    {
-      "id": "zygisk_cleanerhooks",
-      "name": "Cleaner Hooks",
-      "author": "Green Mushroom",
-      "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
-      "updateJson": "https://materialcleaner.github.io/MaterialCleaner/releases/module.json"
     },
     {
       "template": "1500",
@@ -1622,17 +1640,6 @@
       "versionCode": "55"
     },
     {
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/README.md",
-      "author": "simonsmh",
-      "last_update": "1598456659000",
-      "name": "Wifi Bonding (Qcom)",
-      "description": "Doubles your wi-fi bandwith by modifying WCNSS_qcom_cfg.ini.",
-      "id": "wifi-bonding",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/5072c1fda550d3fa9d2b5bbc115f799466a1cc1b.zip",
-      "version": "1.14",
-      "versionCode": "15"
-    },
-    {
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/README.md",
       "author": "TeamDeluxe & dark-basic",
       "last_update": "1594398059000",
@@ -2139,14 +2146,13 @@
       "versionCode": "13"
     },
     {
-      "author": "LSPosed Developers",
-      "description": "[\uD83D\uDE0B Shamiko is working as blacklist mode] これで勝ったと思うなよ―――!!",
-      "name": "Shamiko",
-      "id": "zygisk_shamiko",
-      "versionCode": 414,
-      "version": "v1.2.5",
-      "zipUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/download/shamiko-414/Shamiko-v1.2.5-414-release.zip",
-      "changelog": "https://github.com/LSPosed/LSPosed.github.io/raw/master/releases/shamiko_changelog.md"
+      "id": "googlephotos-jhc-arm64",
+      "name": "GooglePhotos ReVanced",
+      "version": "v7.40.0.790840830 (patches 5.33.0)",
+      "versionCode": "37",
+      "author": "j-hc",
+      "description": "GooglePhotos ReVanced Magisk module",
+      "updateJson": "https://raw.githubusercontent.com/MatadorProBr/revanced-magisk-module/update/googlephotos (arm64-v8a)-update.json"
     }
   ]
 }
