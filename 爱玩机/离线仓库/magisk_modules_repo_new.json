@@ -98,7 +98,7 @@
     {
       "id": "Clash",
       "name": "Clash MIX",
-      "version": "V4.0",
+      "versionName": "V4.0",
       "versionCode": "20250701",
       "author": "GFW Fucker",
       "description": "Clash透明代理[Tun]   面板: http://127.0.0.1:9090/ui",
@@ -2148,7 +2148,7 @@
     {
       "id": "googlephotos-jhc-arm64",
       "name": "GooglePhotos ReVanced",
-      "version": "v7.40.0.790840830 (patches 5.33.0)",
+      "versionName": "v7.40.0.790840830 (patches 5.33.0)",
       "versionCode": "37",
       "author": "j-hc",
       "description": "GooglePhotos ReVanced Magisk module",

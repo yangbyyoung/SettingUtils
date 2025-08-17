@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+10" />
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,14 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00122" summary="补齐+3">
-      <option name="closed" value="true" />
-      <created>1749373689573</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1749373689573</updated>
     </task>
     <task id="LOCAL-00123" summary="补齐+3">
       <option name="closed" value="true" />
@@ -473,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755331219435</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="补齐+11">
+      <option name="closed" value="true" />
+      <created>1755424327118</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1755424327118</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,6 +499,7 @@
     <MESSAGE value="补齐+8" />
     <MESSAGE value="补齐+9" />
     <MESSAGE value="补齐+10" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+10" />
+    <MESSAGE value="补齐+11" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+11" />
   </component>
 </project>
