@@ -89,6 +89,7 @@
       "updateJson": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/magisk.json"
     },
     {
+      "hidden": true,
       "id": "ClashForMagisk",
       "name": "Clash for Magisk",
       "author": "t@amarin 魔改",
@@ -292,6 +293,7 @@
       "updateJson": "https://raw.githubusercontent.com/Smart123s/revanced-extended-autobuild/update/music-extended-update.json"
     },
     {
+      "hidden": true,
       "id": "music-matado-arm64",
       "name": "Music ReVanced Extended",
       "author": "MatadorProBr",
