@@ -91,13 +91,14 @@
     {
       "packageName": "com.sf.activity",
       "filePath": [
+        "/data/com.sf.activity/files/openScreenADsImg",
         "/sdcard/Android/data/com.sf.activity/files/SHCache"
       ]
     },
     {
       "packageName": "com.netease.mail",
       "filePath": [
-        "/sdcard/Android/data/com.netease.cloudmusic/cache/Ad"
+        "/sdcard/Android/data/com.netease.mail/cache/Ad"
       ]
     },
     {
@@ -109,19 +110,26 @@
     {
       "packageName": "com.netease.cloudmusic",
       "filePath": [
+        "/data/com.netease.cloudmusic/cache/MusicWebApp",
         "/sdcard/Android/data/com.netease.cloudmusic/cache/Ad"
       ]
     },
     {
       "packageName": "tv.danmaku.bili",
       "filePath": [
-        "/data/tv.danmaku.bili/files/splash2"
+        "/data/tv.danmaku.bili/files/splash2",
+        "/data/tv.danmaku.bili/files/res_cache",
+        "/data/tv.danmaku.bili/files/update",
+        "/data/tv.danmaku.bili/app_mod_resource"
       ]
     },
     {
       "packageName": "tv.danmaku.bilibilihd",
       "filePath": [
-        "/data/tv.danmaku.bilibilihd/files/splash2"
+        "/data/tv.danmaku.bilibilihd/files/splash2",
+        "/data/tv.danmaku.bilibilihd/files/res_cache",
+        "/data/tv.danmaku.bilibilihd/files/update",
+        "/data/tv.danmaku.bilibilihd/app_mod_resource"
       ]
     },
     {
@@ -154,6 +162,76 @@
       "packageName": "com.taobao.idlefish",
       "filePath": [
         "/sdcard/Android/data/com.taobao.idlefish/files/ad"
+      ]
+    },
+    {
+      "packageName": "com.sankuai.meituan.takeoutnew",
+      "filePath": [
+        "/data/com.sankuai.meituan.takeoutnew/files/cips/common/waimai/assets/ad",
+        "/sdcard/Android/data/com.sankuai.meituan.takeoutnew/files/cips/common/waimai/assets/promotion"
+      ]
+    },
+    {
+      "packageName": "com.sankuai.meituan.takeoutnew",
+      "filePath": [
+        "/data/com.sankuai.meituan.takeoutnew/files/cips/common/waimai/assets/ad",
+        "/sdcard/Android/data/com.sankuai.meituan.takeoutnew/files/cips/common/waimai/assets/promotion"
+      ]
+    },
+    {
+      "packageName": "com.zhihu.android",
+      "filePath": [
+        "/data/com.zhihu.android/files/ad"
+      ]
+    },
+    {
+      "packageName": "com.zhihu.android",
+      "filePath": [
+        "/data/com.zhihu.android/files/ad"
+      ]
+    },
+    {
+      "packageName": "com.ai.obc.cbn.app",
+      "filePath": [
+        "/data/com.ai.obc.cbn.app/files/splashShow"
+      ]
+    },
+    {
+      "packageName": "cn.kuwo.player",
+      "filePath": [
+        "/data/cn.kuwo.player/app_adnet",
+        "/sdcard/Android/data/cn.kuwo.player/files/KuwoMusic/.ad",
+        "/sdcard/Android/data/cn.kuwo.player/files/KuwoMusic/.screenad"
+      ]
+    },
+    {
+      "packageName": "cn.damai",
+      "filePath": [
+        "/data/cn.damai/files/ad_dir"
+      ]
+    },
+    {
+      "packageName": "com.yongyou",
+      "filePath": [
+        "/sdcard/Android/data/com.yongyou/files/Pictures"
+      ]
+    },
+    {
+      "packageName": "cn.missevan",
+      "filePath": [
+        "/data/cn.missevan/cache/splash"
+      ]
+    },
+    {
+      "packageName": "com.xiaomi.youpin",
+      "filePath": [
+        "/data/com.xiaomi.youpin/cache/image_manager_disk_cache"
+      ]
+    },
+    {
+      "packageName": "com.xiaomi.mico",
+      "filePath": [
+        "/sdcard/Android/data/com.xiaomi.mico/files/log/VoipSdk"
       ]
     }
   ],
