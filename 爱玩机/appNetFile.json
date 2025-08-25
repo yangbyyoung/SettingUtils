@@ -37,7 +37,6 @@
       "https://wwgh.lanzouu.com/i1Ezs32wnnnc"
     ]
   },
-
   {
     "fileName": "Busybox_for_Android_ADB.zip",
     "fileUrl": [
@@ -48,7 +47,6 @@
       "https://wwgh.lanzouu.com/ivwn932vyv9g"
     ]
   },
-
   {
     "fileName": "新手引导素材.zip",
     "fileUrl": [
@@ -193,6 +191,7 @@
   {
     "fileName": "xposed_26.zip",
     "fileUrl": [
+      "https://www.lanzoui.com/iNDxi34hfrbi",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Xposed/assets-v26/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https://raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Xposed/assets-v26/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https://gitea.com/yangbyyang/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Xposed/assets-v26/%E5%AE%89%E5%8D%938.0Xposed.zip",
@@ -483,7 +482,6 @@
     "fileUrl": [
       "https://modules-vercel.lsposed.org/modules.json",
       "https://modules.lsposed.org/modules.json",
-
       "https\\modules-cloudflare.lsposed.org/modules.json"
     ]
   },
