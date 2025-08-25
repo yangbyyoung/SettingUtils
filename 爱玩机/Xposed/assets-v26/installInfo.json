@@ -5,25 +5,28 @@
     "maxSdk": 34,
     "apkName": "manager.apk",
     "zipName": [
+      "zygisk_next_v1.2.9.1.zip",
       "zygisk_lsposed_v1.9.2.zip"
     ]
   },
   {
     "name": "zygisk_lsposed_v1.9.2(Irena)",
     "minSdk": 27,
-    "maxSdk": 35,
+    "maxSdk": 36,
     "apkName": "manager.apk",
     "zipName": [
+      "zygisk_next_v1.2.9.1.zip",
       "zygisk_lsposed_v1.9.2_Irena.zip"
     ]
   },
   {
-    "name": "zygisk_lsposed_v1.10.1(JingMatrix)",
+    "name": "zygisk_lsposed_v1.10.2(JingMatrix)",
     "minSdk": 27,
-    "maxSdk": 35,
+    "maxSdk": 36,
     "apkName": "manager.apk",
     "zipName": [
-      "zygisk_lsposed_v1.10.1_JingMatrix.zip"
+      "zygisk_next_v1.2.9.1.zip",
+      "zygisk_lsposed_v1.10.2_JingMatrix.zip"
     ]
   },
   {
