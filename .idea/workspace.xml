@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+15" />
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+19">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,38 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00130" summary="补齐+3">
-      <option name="closed" value="true" />
-      <created>1750383668097</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1750383668097</updated>
-    </task>
-    <task id="LOCAL-00131" summary="补齐+3">
-      <option name="closed" value="true" />
-      <created>1750383940268</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1750383940268</updated>
-    </task>
-    <task id="LOCAL-00132" summary="补齐+3">
-      <option name="closed" value="true" />
-      <created>1750813104597</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1750813104598</updated>
-    </task>
-    <task id="LOCAL-00133" summary="补齐+3">
-      <option name="closed" value="true" />
-      <created>1750837579438</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1750837579438</updated>
     </task>
     <task id="LOCAL-00134" summary="补齐+4">
       <option name="closed" value="true" />
@@ -473,7 +443,39 @@
       <option name="project" value="LOCAL" />
       <updated>1756084538394</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="补齐+16">
+      <option name="closed" value="true" />
+      <created>1756114090228</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1756114090228</updated>
+    </task>
+    <task id="LOCAL-00180" summary="补齐+17">
+      <option name="closed" value="true" />
+      <created>1756114593486</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1756114593486</updated>
+    </task>
+    <task id="LOCAL-00181" summary="补齐+18">
+      <option name="closed" value="true" />
+      <created>1756115197008</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1756115197008</updated>
+    </task>
+    <task id="LOCAL-00182" summary="补齐+19">
+      <option name="closed" value="true" />
+      <created>1756119357013</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1756119357014</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,6 +506,10 @@
     <MESSAGE value="补齐+13" />
     <MESSAGE value="补齐+14" />
     <MESSAGE value="补齐+15" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+15" />
+    <MESSAGE value="补齐+16" />
+    <MESSAGE value="补齐+17" />
+    <MESSAGE value="补齐+18" />
+    <MESSAGE value="补齐+19" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+19" />
   </component>
 </project>
