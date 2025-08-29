@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+19">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,12 +57,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Projects\SettingUtils\爱玩机" />
+      <recent name="E:\Projects\SettingUtils" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
       <recent name="E:\Projects\SettingUtils\爱玩机\paymentPic" />
       <recent name="E:\Projects\SettingUtils\爱玩机\Magisk模块" />
-      <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库\VersionInfo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\SettingUtils\爱玩机" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库\VersionInfo" />
       <recent name="E:\Projects\SettingUtils\爱玩机\Xposed\assets-v26" />
@@ -82,22 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00134" summary="补齐+4">
-      <option name="closed" value="true" />
-      <created>1750854615964</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1750854615964</updated>
-    </task>
-    <task id="LOCAL-00135" summary="补齐+5">
-      <option name="closed" value="true" />
-      <created>1750906428729</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1750906428729</updated>
     </task>
     <task id="LOCAL-00136" summary="补齐+5">
       <option name="closed" value="true" />
@@ -475,7 +458,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756119357014</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="补齐+20">
+      <option name="closed" value="true" />
+      <created>1756433278950</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1756433278950</updated>
+    </task>
+    <task id="LOCAL-00184" summary="补齐+21">
+      <option name="closed" value="true" />
+      <created>1756433485392</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1756433485392</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,6 +509,8 @@
     <MESSAGE value="补齐+17" />
     <MESSAGE value="补齐+18" />
     <MESSAGE value="补齐+19" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+19" />
+    <MESSAGE value="补齐+20" />
+    <MESSAGE value="补齐+21" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+21" />
   </component>
 </project>
