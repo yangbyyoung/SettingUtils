@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+22">
-      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00138" summary="补齐+5">
-      <option name="closed" value="true" />
-      <created>1751786037933</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1751786037934</updated>
     </task>
     <task id="LOCAL-00139" summary="补齐+5">
       <option name="closed" value="true" />
@@ -476,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756459855157</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="补齐+23">
+      <option name="closed" value="true" />
+      <created>1756538954161</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1756538954162</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,6 +512,7 @@
     <MESSAGE value="补齐+20" />
     <MESSAGE value="补齐+21" />
     <MESSAGE value="补齐+22" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+22" />
+    <MESSAGE value="补齐+23" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+23" />
   </component>
 </project>
