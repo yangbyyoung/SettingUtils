@@ -475,7 +475,6 @@
   "proxyGithub": [
     "https://gh.qninq.cn",
     "https://g.blfrp.cn",
-    "https://gh.b52m.cn",
     "https://ghfast.top",
     "https://gh-proxy.com",
     "https://gh.ddlc.top",
@@ -483,10 +482,10 @@
     "https://www.ghproxy.cn",
     "https://hub.gitmirror.com",
     "https://github-proxy.lixxing.top",
-
-
-    "https://g.cachecdn.ggff.net",
     "https://gh.llkk.cc",
+
+    "https://gh.b52m.cn",
+    "https://g.cachecdn.ggff.net",
     "https://gitproxy.click",
     "https://shrill-pond-3e81.hunsh.workers.dev"
   ],
