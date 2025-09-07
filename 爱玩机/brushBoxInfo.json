@@ -9,15 +9,16 @@
       "title": "镜像分区管理",
       "summary": "备份与刷入设备分区",
       "key": "partitionManage"
-    },{
-      "title": "分区防篡改",
-      "summary": "通过破坏分区表映射避免分区被其他模块/软件修改",
-      "key": "partitionLock"
     },
     {
       "title": "刷写AnyKernel3",
       "summary": "请确认AK3刷机包与当前设备兼容/可刷写Magisk(技术来源@Time)",
       "key": "AnyKernel3"
+    },
+    {
+      "title": "分区防篡改",
+      "summary": "通过破坏分区表映射避免分区被其他模块/软件修改",
+      "key": "partitionLock"
     }
   ],
   "重置偏好设置（免刷机）": [
