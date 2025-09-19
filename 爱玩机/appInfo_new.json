@@ -475,7 +475,6 @@
     "10086"
   ],
   "proxyGithub": [
-    "https://gh.qninq.cn",
 
     "https://g.blfrp.cn",
     "https://ghfast.top",
@@ -491,6 +490,7 @@
     "https://g.cachecdn.ggff.net",
     "https://gitproxy.click",
     "https://shrill-pond-3e81.hunsh.workers.dev"
+
   ],
   "notificationInfo": {
     "isQuery": false,
