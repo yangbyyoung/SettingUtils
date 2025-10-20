@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+31" />
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+36,修复部分异常" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,78 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00162" summary="补齐+7">
-      <option name="closed" value="true" />
-      <created>1754571662505</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1754571662506</updated>
-    </task>
-    <task id="LOCAL-00163" summary="补齐+7">
-      <option name="closed" value="true" />
-      <created>1754572944855</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1754572944855</updated>
-    </task>
-    <task id="LOCAL-00164" summary="补齐+7">
-      <option name="closed" value="true" />
-      <created>1755130855128</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1755130855128</updated>
-    </task>
-    <task id="LOCAL-00165" summary="补齐+7">
-      <option name="closed" value="true" />
-      <created>1755156430327</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1755156430327</updated>
-    </task>
-    <task id="LOCAL-00166" summary="补齐+8">
-      <option name="closed" value="true" />
-      <created>1755157058889</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1755157058889</updated>
-    </task>
-    <task id="LOCAL-00167" summary="补齐+8">
-      <option name="closed" value="true" />
-      <created>1755160082085</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1755160082085</updated>
-    </task>
-    <task id="LOCAL-00168" summary="补齐+9">
-      <option name="closed" value="true" />
-      <created>1755169125504</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1755169125504</updated>
-    </task>
-    <task id="LOCAL-00169" summary="补齐+10">
-      <option name="closed" value="true" />
-      <created>1755319778183</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1755319778183</updated>
-    </task>
-    <task id="LOCAL-00170" summary="补齐+10">
-      <option name="closed" value="true" />
-      <created>1755331219435</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1755331219435</updated>
     </task>
     <task id="LOCAL-00171" summary="补齐+11">
       <option name="closed" value="true" />
@@ -474,7 +402,79 @@
       <option name="project" value="LOCAL" />
       <updated>1760579513708</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="补齐+31">
+      <option name="closed" value="true" />
+      <created>1760679477946</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1760679477946</updated>
+    </task>
+    <task id="LOCAL-00212" summary="补齐+32">
+      <option name="closed" value="true" />
+      <created>1760680722429</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1760680722429</updated>
+    </task>
+    <task id="LOCAL-00213" summary="补齐+32">
+      <option name="closed" value="true" />
+      <created>1760683260938</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1760683260938</updated>
+    </task>
+    <task id="LOCAL-00214" summary="补齐+33">
+      <option name="closed" value="true" />
+      <created>1760708241221</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1760708241221</updated>
+    </task>
+    <task id="LOCAL-00215" summary="补齐+34">
+      <option name="closed" value="true" />
+      <created>1760786866944</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1760786866944</updated>
+    </task>
+    <task id="LOCAL-00216" summary="补齐+34">
+      <option name="closed" value="true" />
+      <created>1760788908696</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1760788908696</updated>
+    </task>
+    <task id="LOCAL-00217" summary="补齐+35">
+      <option name="closed" value="true" />
+      <created>1760789090661</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1760789090661</updated>
+    </task>
+    <task id="LOCAL-00218" summary="补齐+35">
+      <option name="closed" value="true" />
+      <created>1760795153235</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1760795153235</updated>
+    </task>
+    <task id="LOCAL-00219" summary="补齐+36,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1760834634394</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1760834634394</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,11 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="补齐+7" />
-    <MESSAGE value="补齐+8" />
-    <MESSAGE value="补齐+9" />
-    <MESSAGE value="补齐+10" />
-    <MESSAGE value="补齐+11" />
     <MESSAGE value="补齐+12" />
     <MESSAGE value="补齐+13" />
     <MESSAGE value="补齐+14" />
@@ -514,6 +509,11 @@
     <MESSAGE value="补齐+29" />
     <MESSAGE value="补齐+30" />
     <MESSAGE value="补齐+31" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+31" />
+    <MESSAGE value="补齐+32" />
+    <MESSAGE value="补齐+33" />
+    <MESSAGE value="补齐+34" />
+    <MESSAGE value="补齐+35" />
+    <MESSAGE value="补齐+36,修复部分异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+36,修复部分异常" />
   </component>
 </project>
