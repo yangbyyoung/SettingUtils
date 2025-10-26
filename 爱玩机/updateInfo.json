@@ -1,5 +1,38 @@
 [
   {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n修复模块解析123盘资源出错问题\n优化蓝奏云资源解析异常问题\n修复部分服务器卡顿导致闪退问题\n修复安卓5.0与安卓5.1设备启动应用概率性白屏问题\n修复安卓6.0设备不支持16kb分页导致应用崩溃问题\n修复ak3刷入缺少环境变量导致刷入失败问题\n修复无root权限下在安卓5.1系统以下杀死自己会导致顺带将安卓系统给杀死\n修复超级终端无法使用adb命令\n拆分adb资源包与核心资源包，避免无需使用adb则不再加载\n修复一些命令行错误问题\n应用安装器root提权增强拆分多个功能分模块设置\n修复部分情况下安装应用后不删除安装包问题\n修复OTG远程卸载应用会操作本地问题\n应用安装器新增安装前对应用备份功能\n修复WSA部分情况下卡死问题\n修复其他相关性功能\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.1",
+    "createdAt": "2025-10-25 21:59:19",
+    "objectId": "047807c1-69b4-4e24-8c18-e4a9b24c7ad3",
+    "updatedAt": "2025-10-25 21:59:19"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n适配安卓16一键安装XP模块无法使用问题\n应用安装器新增安装前对应用备份功能\n修复WSA部分情况下卡死问题\n一个终端页面焕然一新，新增shell命令收藏功能\nROM解包功能支持从外部URL获取boot，同时支持直接处理payload.bin，或者从zip里面获取payload.bin，tgz线刷包\n修复应用卸载系统更新会把系统软件一并卸载问题\n修复OTG功能遇到多端连接无法操作处理问题\n修复SukiSU Ultra安装了hma模块导致应用无法读写私有目录造成大部分功能无法使用，如果仍然无法使用，请使用命令(touch \/data\/data\/com.byyoung.setting\/files\/isLegacy)\n修复部分情况(已展示免单)下载模块仍然需要扣除云盘BUG\n修复初始化授权页面不开启音量救砖功能空指针出错\n适配MMRL仓库加载逻辑(合并在GIT里面，也可自定义添加)\n去除仓库加载通知进度条，改为软件内部显示\n修复小米浏览器关闭下载推荐失效问题\n开放模块WebUI外部接口，调用命令(am start -n \"com.byyoung.setting\/com.byyoung.setting.Magisk.WebUIActivity\" -e id \"moduleId\")\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.0.1.0",
+    "createdAt": "2025-09-19 11:23:09",
+    "objectId": "95dbf0a1-f6ce-4af4-93b4-c5d35775b2d4",
+    "updatedAt": "2025-09-19 11:23:09"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "修复模块备份遇到不合法的id导致备份失败\n优化模块仓库加载git文件添加状态栏进度条相关\n修复数据备份处理不规则文件名异常问题\n修复夜间模式设置异常问题\n开放开机动画素材制作导入zip文件，方便直接修改\n去除限制开机动画第二屏处理\n优化安卓ID加载所有应用异常缓慢问题\n修复一加等设备开机动画制作丢失挂载文件导致开机动画模块不生效\n精简一些无用的资源包\n安卓ID修改新增历史清空按钮\n修复hosts订阅输入为空无法设置\n修复安卓系统11以上动态申请异常问题\n修复应用权限管理无法正确跳转问题\n会员相关功能支持一键跳转打开到功能项\n修复应用数据校验失败后软件卡死问题\n修复apatch下安装了hma模块导致应用无法读取私有目录\n修复应用组件无法识别多选逻辑(由图标变灰改为多选框)\n修复无root情况下无法清除本应用数据，导致部分情况下只能卸载重装\n修复安装器无法安装不规范文件名的apk文件\n应用管理相关商店查询支持扫描所有应用商店列表\n修复dhizuku授权后与root权限方式冲突，root优先级>dhizuku\n应用管理设置新增多页面处理，不再强制锁定默认页面与本地安装包，您可添加更多页面丰富您的应用管理\n修复应用相关页面多选操作只能导入剪切板无法导出问题\n应用多开限制解除功能合并，可自选xp模块方式于root方式\n应用多开功能新增单应用点击后直接安装到其他分身上，减少多选操作逻辑\n废除\/data\/local\/tmp\/临时执行文件策略，改由私有目录处理\n修复版本号检测异常问题，调整一些错误日志详情\n\n注：此版本已经对应用更新逻辑进行大幅度调整API，旧版本可能无法接受不到更新提醒，请自行手动更新操作\n\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.0.9.9",
+    "createdAt": "2025-08-16 09:10:10",
+    "objectId": "547b5761-f1bf-46fd-aede-57668b5c2588",
+    "updatedAt": "2025-08-16 09:10:10"
+  },
+  {
     "modulesVersion": "22.0",
     "UpdateType": "Stable",
     "UpdateTypeLabel": "稳定版(Stable)",
@@ -35,7 +68,6 @@
     "objectId": "3126ee32-2ab6-477a-a46c-1e2d447efa01",
     "updatedAt": "2024-12-08 11:55:26"
   },
-
   {
     "modulesVersion": "22.0",
     "UpdateType": "Stable",
