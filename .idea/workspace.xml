@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+36,修复部分异常" />
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+37,修复部分异常">
+      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,28 +48,29 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\26321\\AppData\\Roaming\\Google\\AndroidStudio2025.2.1\\plugins\\Shell Script\\shellcheck.exe",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Projects/SettingUtils/爱玩机/离线仓库",
+    "last_opened_file_path": "E:/Projects/SettingUtils/爱玩机/其他",
     "settings.editor.selected.configurable": "vcs.log"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\SettingUtils\爱玩机\其他" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
       <recent name="E:\Projects\SettingUtils\爱玩机" />
       <recent name="E:\Projects\SettingUtils" />
       <recent name="E:\Projects\SettingUtils\爱玩机\paymentPic" />
-      <recent name="E:\Projects\SettingUtils\爱玩机\Magisk模块" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\SettingUtils\爱玩机\其他\lsposedScope" />
       <recent name="E:\Projects\SettingUtils\爱玩机" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库" />
       <recent name="E:\Projects\SettingUtils\爱玩机\离线仓库\VersionInfo" />
       <recent name="E:\Projects\SettingUtils\爱玩机\Xposed\assets-v26" />
-      <recent name="E:\Projects\SettingUtils\爱玩机\Xposed\assets-v21" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -81,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00173" summary="补齐+12">
-      <option name="closed" value="true" />
-      <created>1755430690352</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1755430690352</updated>
     </task>
     <task id="LOCAL-00174" summary="补齐+13">
       <option name="closed" value="true" />
@@ -474,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761445783611</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="补齐+37,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1762135465772</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1762135465772</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="补齐+12" />
     <MESSAGE value="补齐+13" />
     <MESSAGE value="补齐+14" />
     <MESSAGE value="补齐+15" />
@@ -514,6 +516,7 @@
     <MESSAGE value="补齐+34" />
     <MESSAGE value="补齐+35" />
     <MESSAGE value="补齐+36,修复部分异常" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+36,修复部分异常" />
+    <MESSAGE value="补齐+37,修复部分异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+37,修复部分异常" />
   </component>
 </project>
