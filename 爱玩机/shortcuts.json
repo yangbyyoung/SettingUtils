@@ -197,6 +197,16 @@
       "className": "com.android.settings.MiuiSmartCoverGuideActivity"
     },
     {
+      "label": "晕车缓解",
+      "packageName": "com.miui.securitycenter",
+      "className": "com.miui.carsickness.ui.CarSicknessReliefSettingsActivity"
+    },
+    {
+      "label": "用眼时长统计",
+      "packageName": "com.xiaomi.misettings",
+      "className": "com.xiaomi.misettings.features.visualhealth.ui.VisualHealthDetailPage"
+    },
+    {
       "label": "设备使用时间提醒：只能一小时",
       "packageName": "com.android.settings",
       "className": "com.android.settings.usagestats.DeviceTimeoverActivity"
@@ -304,7 +314,6 @@
       "className": "com.android.settings.SubSettings",
       "extra": "S.:settings:show_fragment_title=正在运行的服务_爱玩机工具箱\ni.:settings:source_metrics=39\ni.:android:show_fragment_title=-1\ni.:show_fragment_title_resid=-1\nS.:settings:show_fragment=com.android.settings.applications.RunningServices"
     },
-
     {
       "label": "系统无线调试模式",
       "packageName": "com.android.settings",
