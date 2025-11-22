@@ -503,7 +503,7 @@
   "packageName": "com.byyoung.setting",
   "newDomain": [
     "https://api.byyang.top",
-    "https://api.pjnoeru.top"
+    "http://ocrsdk.thinkzhou.com"
   ],
   "safeStatus": false,
   "loadModules": false,
