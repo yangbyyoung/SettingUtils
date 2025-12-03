@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+39,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/爱玩机/apkFiles/爱玩机工具箱-S-22.1.0.1(22102)-release_01aa1e9b.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/apkFiles/爱玩机工具箱-S-22.1.0.1(22102)-release_01aa1e9b.apk" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/apkFiles/爱玩机工具箱-S-22.1.0.1(22102)-release_7fd4feff.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00189" summary="补齐+23">
-      <option name="closed" value="true" />
-      <created>1756614751540</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1756614751540</updated>
     </task>
     <task id="LOCAL-00190" summary="补齐+24">
       <option name="closed" value="true" />
@@ -478,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764500385228</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="补齐+39,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1764504861952</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1764504861952</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
