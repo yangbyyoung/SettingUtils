@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+41,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/爱玩机/paymentPic/qr_shop.png" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/paymentPic/qr_shop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00200" summary="补齐+28">
-      <option name="closed" value="true" />
-      <created>1758252353438</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1758252353438</updated>
     </task>
     <task id="LOCAL-00201" summary="补齐+28">
       <option name="closed" value="true" />
@@ -477,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765103423562</updated>
     </task>
-    <option name="localTasksCounter" value="249" />
+    <task id="LOCAL-00249" summary="补齐+41,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1765104420576</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1765104420576</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
