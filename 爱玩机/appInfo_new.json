@@ -494,7 +494,7 @@
 
   ],
   "notificationInfo": {
-    "isQuery": false,
+    "isQuery": true,
     "allUser": false,
     "pushTime": "",
     "title": "新年快乐~",
