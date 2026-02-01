@@ -1,4 +1,17 @@
 [
+
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "调整应用缓存策略，不再提供外部接口以免部分模块乱删目录\n重做屏幕亮度调节页面\n修复米专区ROM在线链接获取功能\n调整sql编辑功能，部分软件运行下修改失败问题\n优化安卓ID修改获取应用列表逻辑\n修复开机动画制作不输出文件\n应用管理新增单独筛选系统与用户分类\n开机动画素材制作调整到私有目录处理\n模块仓库扩容至2800，避免部分情况下无法丢失一些模块",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.2",
+    "createdAt": "2026-02-01 10:10:11",
+    "objectId": "088807c1-69b4-4e24-8c18-e4a9b24c7cb7",
+    "updatedAt": "2026-02-01 10:10:11"
+  },
+
   {
     "defaultColor": "GoogleBlue",
     "modulesVersion": "22.0",
