@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+46,修复部分异常" />
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+46,修复部分异常">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,22 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00216" summary="补齐+34">
-      <option name="closed" value="true" />
-      <created>1760788908696</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1760788908696</updated>
-    </task>
-    <task id="LOCAL-00217" summary="补齐+35">
-      <option name="closed" value="true" />
-      <created>1760789090661</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1760789090661</updated>
     </task>
     <task id="LOCAL-00218" summary="补齐+35">
       <option name="closed" value="true" />
@@ -475,7 +462,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770621885579</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="补齐+46,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1770623106571</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1770623106571</updated>
+    </task>
+    <task id="LOCAL-00266" summary="补齐+46,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1770632018423</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1770632018423</updated>
+    </task>
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
