@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+46,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/爱玩机/appInfo_new.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appInfo_new.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,30 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00221" summary="补齐+36,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1761445783611</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1761445783611</updated>
-    </task>
-    <task id="LOCAL-00222" summary="补齐+37,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1762136480328</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1762136480328</updated>
-    </task>
-    <task id="LOCAL-00223" summary="补齐+38,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1763353939638</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1763353939638</updated>
     </task>
     <task id="LOCAL-00224" summary="补齐+38,修复部分异常">
       <option name="closed" value="true" />
@@ -477,7 +454,31 @@
       <option name="project" value="LOCAL" />
       <updated>1771206263916</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="补齐+46,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1771206952965</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1771206952966</updated>
+    </task>
+    <task id="LOCAL-00271" summary="补齐+46,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1771206991481</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1771206991481</updated>
+    </task>
+    <task id="LOCAL-00272" summary="补齐+46,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1771207084168</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1771207084169</updated>
+    </task>
+    <option name="localTasksCounter" value="273" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
