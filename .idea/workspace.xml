@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+46,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+47,修复部分异常" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00225" summary="补齐+38,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1763464285333</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1763464285333</updated>
     </task>
     <task id="LOCAL-00226" summary="补齐+38,修复部分异常">
       <option name="closed" value="true" />
@@ -477,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772073199301</updated>
     </task>
-    <option name="localTasksCounter" value="274" />
+    <task id="LOCAL-00274" summary="补齐+47,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1772162079513</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1772162079513</updated>
+    </task>
+    <option name="localTasksCounter" value="275" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +491,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="补齐+22" />
     <MESSAGE value="补齐+23" />
     <MESSAGE value="补齐+24" />
     <MESSAGE value="补齐+25" />
@@ -518,6 +515,7 @@
     <MESSAGE value="补齐+44,修复部分异常" />
     <MESSAGE value="补齐+45,修复部分异常" />
     <MESSAGE value="补齐+46,修复部分异常" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+46,修复部分异常" />
+    <MESSAGE value="补齐+47,修复部分异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+47,修复部分异常" />
   </component>
 </project>
