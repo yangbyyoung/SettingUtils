@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+46,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00224" summary="补齐+38,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1763357266256</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1763357266256</updated>
     </task>
     <task id="LOCAL-00225" summary="补齐+38,修复部分异常">
       <option name="closed" value="true" />
@@ -478,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771207084169</updated>
     </task>
-    <option name="localTasksCounter" value="273" />
+    <task id="LOCAL-00273" summary="补齐+46,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1772073199300</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1772073199301</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
