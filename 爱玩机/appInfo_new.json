@@ -502,7 +502,7 @@
 
   ],
   "notificationInfo": {
-    "isQuery": true,
+    "isQuery": false,
     "allUser": true,
     "pushTime": "",
     "title": "新年快乐,爱玩机集体工作人员给您拜年啦~",
