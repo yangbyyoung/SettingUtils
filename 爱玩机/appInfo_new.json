@@ -499,7 +499,6 @@
     "https://gh.llkk.cc",
     "https://gh.b52m.cn",
     "https://gitproxy.click"
-
   ],
   "notificationInfo": {
     "isQuery": false,
@@ -561,6 +560,14 @@
     "com.coderstory.toolkit": 261010
   },
   "historyVersion": {
+    "playintegrityfix": [
+      {
+        "versionName": "v4.4-inject-s",
+        "fileUrl": [
+          "https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.4-inject-s/PlayIntegrityFix_v4.4-inject-s.zip"
+        ]
+      }
+    ],
     "zygisk_lsposed": [
       {
         "versionName": "v1.8.6 (官方稳定版)",
@@ -576,9 +583,9 @@
         ]
       },
       {
-        "versionName": "v1.10.1 (JingMatrix版,支持安卓15)",
+        "versionName": "v1.11.0 (JingMatrix版,支持安卓16)",
         "fileUrl": [
-          "https://github.com/JingMatrix/LSPosed/releases/download/v1.10.1/LSPosed-v1.10.1-7115-zygisk-release.zip"
+          "https://github.com/JingMatrix/LSPosed/releases/download/v1.11.0/LSPosed-v1.11.0-7209-zygisk-release.zip"
         ]
       }
     ],
