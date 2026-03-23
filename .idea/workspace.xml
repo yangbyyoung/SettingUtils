@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+52,修复部分异常" />
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+52,修复部分异常">
+      <change beforePath="$PROJECT_DIR$/爱玩机/离线仓库/magisk.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/离线仓库/magisk.xml.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱玩机/离线仓库/xposed.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/离线仓库/xposed.xml.gz" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
