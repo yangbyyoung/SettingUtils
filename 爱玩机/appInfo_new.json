@@ -578,6 +578,14 @@
         ]
       },
       {
+        "versionName": "v1.9.2 (官方测试版)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Zygisk-LSPosed_7058.zip",
+          "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Zygisk-LSPosed_7058.zip",
+          "https://www.lanzoui.com/iSrVT1kcpo1e"
+        ]
+      },
+      {
         "versionName": "v1.9.2 (Irena版,支持安卓15)",
         "fileUrl": [
           "https://github.com/re-zero001/LSPosed-Irena/releases/download/1.9.2/LSPosed-v1.9.2-7249-Irena-release.zip"
