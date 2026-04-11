@@ -4,24 +4,67 @@
     "defaultColor": "GoogleBlue",
     "modulesVersion": "22.0",
     "notificationQuery": false,
-    "updateLog": "调整应用缓存策略，不再提供外部接口以免部分模块乱删目录\n重做屏幕亮度调节页面\n修复米专区ROM在线链接获取功能\n调整sql编辑功能，部分软件运行下修改失败问题\n优化安卓ID修改获取应用列表逻辑\n修复开机动画制作不输出文件\n应用管理新增单独筛选系统与用户分类\n开机动画素材制作调整到私有目录处理\n模块仓库扩容至2800，避免部分情况下无法丢失一些模块",
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n修复部分悬浮窗启动卡死问题\n修复shortcut收集出现几份重复的\n重做快捷方式功能\nmagisk模块开放支持创建快捷方式\n优化目录获取逻辑\n新增当前模块API查询\n开放安卓17代号，适配安卓17beta版本\n修复上个版本部分情况下模块上传更新均无回调提示问题\n优化split应用分包识别策略\n修复16kb系统下读取数据异常问题\n系统详情新增分页页面\n重做虚拟内存设置页面，修复启动zram下无法切换压缩模式，开放开机自启设定\n模块仓库新增ksu模块下载\n应用设置新增自定义目录，不再锁定\/storage\/emulated\/0\/Documents\/advanced目录\n\n\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
     "updateType": "Stable",
-    "versionName": "S-22.1.0.2",
-    "createdAt": "2026-02-01 10:10:11",
-    "objectId": "088807c1-69b4-4e24-8c18-e4a9b24c7cb7",
-    "updatedAt": "2026-02-01 10:10:11"
+    "versionName": "S-22.1.0.8",
+    "createdAt": "2026-04-11 07:54:56",
+    "objectId": "738ac158-5fdd-4015-88f3-9df625fe26c7",
+    "updatedAt": "2026-04-11 07:54:56"
   },
-
   {
     "defaultColor": "GoogleBlue",
     "modulesVersion": "22.0",
     "notificationQuery": false,
-    "updateLog": "适配magisk30.6授予爱玩机受限的超级权限，可能导致exit退出失效继续执行致使可能变砖，强烈建议更新最新版以免触发该bug，同时授予允许\n适配ksu模块ID规则，避免制作出来的模块无法刷入\n修复创建快捷方式功能异常\n修复部分云端资源加载失败问题\n添加应用官网功能\n纠正应用更新提示应用酷安链接(后续改为在线更新减少操作步骤)\n页面及部分文档调整，正式移出帮助文档页面交由云端服务器处理\n修复ak3刷入丢失字符导致刷入异常\n优化dhizuku授权逻辑\n调整部分页面风格不适配问题\n安装器修复澎湃OS安装系统软件有概率失败问题\n应用设置新增加速节点设置\n若Zygisk Next新版存在，则shamiko白名单设置不再要求下载，自动跳转到Zygisk Next设置页面\n优化蓝奏云节点耗时问题，改为多线程检测\n新增加速节点可关闭设置\n修复部分情况下模块无法加载/模块加载耗时严重问题\nMi专区新增hyper高级设置1.0，新增几个hyper快捷方式\n修复一加部分设备无法获取电池温度与电压问题\n解耦功耗设置，可自行设定电流*2，电压*2\n修复安卓8.0以下设备系统根证书丢失导致很多服务器资源无法加载，已做内置签名白名单处理与屏蔽签名校验",
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n修复多选列表自动勾选不存在的默认值导致使用功能异常\n修复ROM解包异常问题\n优化下载逻辑策略\n修复蓝奏云解密链接异常导致模块下载失败问题\n修复部分高通设备获取gpu频率异常问题\n修复部分功能添加悬浮窗权限检测，避免应用丢失悬浮窗权限后无限崩溃\n\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.7",
+    "createdAt": "2026-03-21 08:26:45",
+    "objectId": "cd1a7c74-a3f9-45e7-bd3e-d0fbcb0c9a87",
+    "updatedAt": "2026-03-21 08:26:45"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n修复xp模块下载概率性下载到不支持自身设备的模块，如arm设备下载到x86平台\n重做多选弹窗功能，新增多选模式下支持搜索，全选按钮\n优化部分应用多开检测\n优化部分情况下获取应用列表耗时问题\n优化通知栏速配，新增支持使用原生通知\n修复多开功能部分软件提示没有启动项问题\n优化模块下载逻辑\n修复sql编辑策略异常问题\n修复应用多开显示部分应用失败问题\n修复模块下载部分情况下跳转网页\n修复lsp模块下载多个安装包附件自动择优问题\nsql编辑功能独立，设置里面可开启接口\n为所有多选模式下的弹窗新增全选功能\n修复部分情况下空指针异常问题\n\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.6",
+    "createdAt": "2026-03-08 08:40:36",
+    "objectId": "1397e6fb-823d-45ae-8add-6006662a14f4",
+    "updatedAt": "2026-03-08 08:40:36"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n调整应用缓存策略，不再提供外部接口以免部分模块乱删目录\n重做屏幕亮度调节页面\n修复米专区ROM在线链接获取功能\n调整sql编辑功能，部分软件运行下修改失败问题\n优化安卓ID修改获取应用列表逻辑\n修复开机动画制作不输出文件\n应用管理新增单独筛选系统与用户分类\n开机动画素材制作调整到私有目录处理\n模块仓库扩容至2800，避免部分情况下无法丢失一些模块\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.4",
+    "createdAt": "2026-02-01 12:14:00",
+    "objectId": "e637f7f4-40f2-4f13-84e8-15436ce6d75b",
+    "updatedAt": "2026-02-19 20:32:45"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n新年快乐，新春福利码，b853f746e2\n\n设备管理新增vulkan版本号详情\n修复OTG功能与扩展模块冲突导致闪退\n优化部分文档描述，修复登录页面卡死问题\n修复安卓6.0以下与安卓7.0设备闪退问题\n修复部分设备登录页面卡死问题\n修复主页弹出更新因提前结束软件导致崩溃\n修复sql锁死只能读取问题\n修复hosts缺少最后一行空格导致最后一行规则不生效\n捐赠功能开启在线支付功能\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.3",
+    "createdAt": "2026-01-01 10:24:05",
+    "objectId": "5299a85d-c626-4f62-a476-b21833fe4bd2",
+    "updatedAt": "2026-01-04 13:10:22"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
+    "updateLog": "注：如遇到软件bug请致邮箱到，xiaobyyang@163.com，尽可能的提供录屏与信息详情描述\n\n适配magisk30.6授予爱玩机受限的超级权限，可能导致exit退出失效继续执行致使可能变砖，强烈建议更新最新版以免触发该bug，同时授予允许\n适配ksu模块ID规则，避免制作出来的模块无法刷入\n修复创建快捷方式功能异常\n修复部分云端资源加载失败问题\n添加应用官网功能\n纠正应用更新提示应用酷安链接(后续改为在线更新减少操作步骤)\n页面及部分文档调整，正式移出帮助文档页面交由云端服务器处理\n修复ak3刷入丢失字符导致刷入异常\n优化dhizuku授权逻辑\n调整部分页面风格不适配问题\n安装器修复澎湃OS安装系统软件有概率失败问题\n应用设置新增加速节点设置\n若Zygisk Next新版存在，则shamiko白名单设置不再要求下载，自动跳转到Zygisk Next设置页面\n优化蓝奏云节点耗时问题，改为多线程检测\n新增加速节点可关闭设置\n修复部分情况下模块无法加载\/模块加载耗时严重问题\nMi专区新增hyper高级设置1.0，新增几个hyper快捷方式\n修复一加部分设备无法获取电池温度与电压问题\n解耦功耗设置，可自行设定电流*2，电压*2\n修复安卓8.0以下设备系统根证书丢失导致很多服务器资源无法加载，已做内置签名白名单处理与屏蔽签名校验\n\n备用下载链接：https:\/\/www.123684.com\/s\/DuvbVv-bfiA3",
     "updateType": "Stable",
     "versionName": "S-22.1.0.2",
-    "createdAt": "2025-12-06 10:21:19",
-    "objectId": "047807c1-69b4-4e24-8c18-e4a9b24c7cb5",
-    "updatedAt": "2025-12-06 10:21:19"
+    "createdAt": "2025-12-06 10:13:09",
+    "objectId": "d9912db9-9e3c-4fd1-8d71-438e97973ae7",
+    "updatedAt": "2025-12-06 10:13:09"
   },
   {
     "defaultColor": "GoogleBlue",
@@ -31,8 +74,8 @@
     "updateType": "Stable",
     "versionName": "S-22.1.0.1",
     "createdAt": "2025-10-25 21:59:19",
-    "objectId": "047807c1-69b4-4e24-8c18-e4a9b24c7ad3",
-    "updatedAt": "2025-10-25 21:59:19"
+    "objectId": "364d2df5-2c4d-45cf-9252-9fe95ed2e52c",
+    "updatedAt": "2025-12-05 20:55:55"
   },
   {
     "defaultColor": "GoogleBlue",
@@ -42,7 +85,7 @@
     "updateType": "Stable",
     "versionName": "S-22.0.1.0",
     "createdAt": "2025-09-19 11:23:09",
-    "objectId": "95dbf0a1-f6ce-4af4-93b4-c5d35775b2d4",
+    "objectId": "94e33dd8-3486-4ddf-94b1-4ad4d0f56f45",
     "updatedAt": "2025-09-19 11:23:09"
   },
   {
