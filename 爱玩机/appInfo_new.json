@@ -377,7 +377,8 @@
     "86AB80801F6313F5DA3F2D87F4CFFC34",
     "8241352FDF8F2BEB6AEF9DAE94034BA0",
     "9E99ECB9A330E5B4B3FDAE7EBD94666F",
-    "E2AD1C5EBBBDCA46E76246DA42502BAE","35B68A8F607821328C3ECA1226BC6B83"
+    "E2AD1C5EBBBDCA46E76246DA42502BAE",
+    "35B68A8F607821328C3ECA1226BC6B83"
   ],
   "blackModuleNameList": [
     "520b1",
@@ -620,6 +621,15 @@
         "fileUrl": [
           "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v0.7-ksu-fix2-141-release.zip",
           "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Shamiko-v0.7-ksu-fix2-141-release.zip"
+        ]
+      }
+    ],
+    "tricky_store": [
+      {
+        "versionName": "1.4.1 (官方原版)",
+        "fileUrl": [
+          "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Tricky Store-v1.4.1.zip",
+          "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/VersionInfo/Tricky Store-v1.4.1.zip"
         ]
       }
     ],
