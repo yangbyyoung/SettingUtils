@@ -3,6 +3,17 @@
     "defaultColor": "GoogleBlue",
     "modulesVersion": "22.0",
     "notificationQuery": false,
+    "updateLog": "修复部分应用启动后，使用快捷方式再次启动活动无法打开问题\n修复虚拟内存管理页面字符串溢出问题\n应用多开功能优化，新增支持使用隐藏应用代替卸载系统应用，避免部分系统删除过多系统应用导致卡开机\n帮助文档新增小米/一加多开保留列表名单，经过反复测试最终仅保留30个系统应用即可完全使用分身功能\n修复上个版本与lsp部分模块冲突造成应用闪退问题\n修复清理空文件夹安卓11设备以上不能用问题\n优化sql编辑无法对blob数据进行修改\n优化sql编辑无法正常查阅blob数据，目前已对其进行解密处理\n优化应用处于后台自动进入纯净模式，避免部分情况下被杀死后重启频繁获取root\n优化应用处于前台才加载一些重要数据\n重做应用分身功能逻辑，新增设置隐私密码可选\n修复安卓ID修改不会删除备份问题导致系统还原引发修改成功但无效问题\n修复xp模块页面显示错误问题",
+    "updateType": "Stable",
+    "versionName": "S-22.1.0.9",
+    "createdAt": "2026-05-04 07:22:56",
+    "objectId": "738ac158-5fdd-4015-55f8-7df625fe26e8",
+    "updatedAt": "2026-05-04 09:22:56"
+  },
+  {
+    "defaultColor": "GoogleBlue",
+    "modulesVersion": "22.0",
+    "notificationQuery": false,
     "updateLog": "修复部分悬浮窗启动卡死问题\n修复shortcut收集出现几份重复的\n重做快捷方式功能\nmagisk模块开放支持创建快捷方式\n优化目录获取逻辑\n新增当前模块API查询\n开放安卓17代号，适配安卓17beta版本\n修复上个版本部分情况下模块上传更新均无回调提示问题\n优化split应用分包识别策略\n修复16kb系统下读取数据异常问题\n系统详情新增分页页面\n重做虚拟内存设置页面，修复启动zram下无法切换压缩模式，开放开机自启设定\n模块仓库新增ksu模块下载\n应用设置新增自定义目录，不再锁定\/storage\/emulated\/0\/Documents\/advanced目录",
     "updateType": "Stable",
     "versionName": "S-22.1.0.8",
