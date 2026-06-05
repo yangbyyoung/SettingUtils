@@ -692,7 +692,7 @@
     "fileName": "lsposedModules.json",
     "fileUrl": [
       "https://doc.byyoung.top/api/get-lsposed-modules.json",
-      "https://modules.lsposed.org/moduls.ejson",
+      "https://modules.lsposed.org/moduls.json",
       "https://backup.modules.lsposed.org/modules.json",
       "https\\modules-vercel.lsposed.org/modules.json",
       "https\\modules-cloudflare.lsposed.org/modules.json"
