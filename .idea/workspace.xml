@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+68,修复部分异常">
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+70,修复部分异常">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,30 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00258" summary="补齐+42,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1768029704804</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1768029704805</updated>
-    </task>
-    <task id="LOCAL-00259" summary="补齐+43,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1768030811808</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
-      <option name="project" value="LOCAL" />
-      <updated>1768030811808</updated>
-    </task>
-    <task id="LOCAL-00260" summary="补齐+44,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1768706653666</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1768706653666</updated>
     </task>
     <task id="LOCAL-00261" summary="补齐+45,修复部分异常">
       <option name="closed" value="true" />
@@ -478,7 +454,31 @@
       <option name="project" value="LOCAL" />
       <updated>1780449751258</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="补齐+69,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1780668270861</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1780668270862</updated>
+    </task>
+    <task id="LOCAL-00308" summary="补齐+69,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1780668289567</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1780668289568</updated>
+    </task>
+    <task id="LOCAL-00309" summary="补齐+70,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1780668322856</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1780668322856</updated>
+    </task>
+    <option name="localTasksCounter" value="310" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,8 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="补齐+42,修复部分异常" />
-    <MESSAGE value="补齐+43,修复部分异常" />
     <MESSAGE value="补齐+44,修复部分异常" />
     <MESSAGE value="补齐+45,修复部分异常" />
     <MESSAGE value="补齐+46,修复部分异常" />
@@ -519,6 +517,8 @@
     <MESSAGE value="补齐+66,修复部分异常" />
     <MESSAGE value="补齐+67,修复部分异常" />
     <MESSAGE value="补齐+68,修复部分异常" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+68,修复部分异常" />
+    <MESSAGE value="补齐+69,修复部分异常" />
+    <MESSAGE value="补齐+70,修复部分异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+70,修复部分异常" />
   </component>
 </project>
