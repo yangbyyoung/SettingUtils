@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+70,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/appInfo_new.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appInfo_new.json" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+70,修复部分异常" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +36,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2nVgYbSMlmZauc6ppfS6KBc9Zzl" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
