@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+87,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+88,修复部分异常" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,30 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00280" summary="补齐+48,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1773475973439</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
-      <option name="project" value="LOCAL" />
-      <updated>1773475973439</updated>
-    </task>
-    <task id="LOCAL-00281" summary="补齐+48,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1773476145096</created>
-      <option name="number" value="00281" />
-      <option name="presentableId" value="LOCAL-00281" />
-      <option name="project" value="LOCAL" />
-      <updated>1773476145096</updated>
-    </task>
-    <task id="LOCAL-00282" summary="补齐+48,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1773476641883</created>
-      <option name="number" value="00282" />
-      <option name="presentableId" value="LOCAL-00282" />
-      <option name="project" value="LOCAL" />
-      <updated>1773476641883</updated>
     </task>
     <task id="LOCAL-00283" summary="补齐+50,修复部分异常">
       <option name="closed" value="true" />
@@ -481,7 +454,31 @@
       <option name="project" value="LOCAL" />
       <updated>1782823651321</updated>
     </task>
-    <option name="localTasksCounter" value="329" />
+    <task id="LOCAL-00329" summary="补齐+87,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1783130185885</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
+      <option name="project" value="LOCAL" />
+      <updated>1783130185885</updated>
+    </task>
+    <task id="LOCAL-00330" summary="补齐+88,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1783130380793</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
+      <option name="project" value="LOCAL" />
+      <updated>1783130380793</updated>
+    </task>
+    <task id="LOCAL-00331" summary="补齐+88,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1783130417818</created>
+      <option name="number" value="00331" />
+      <option name="presentableId" value="LOCAL-00331" />
+      <option name="project" value="LOCAL" />
+      <updated>1783130417818</updated>
+    </task>
+    <option name="localTasksCounter" value="332" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="补齐+58,修复部分异常" />
     <MESSAGE value="补齐+59,修复部分异常" />
     <MESSAGE value="补齐+60,修复部分异常" />
     <MESSAGE value="补齐+61,修复部分异常" />
@@ -522,6 +518,7 @@
     <MESSAGE value="补齐+84,修复部分异常" />
     <MESSAGE value="补齐+85,修复部分异常" />
     <MESSAGE value="补齐+87,修复部分异常" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+87,修复部分异常" />
+    <MESSAGE value="补齐+88,修复部分异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+88,修复部分异常" />
   </component>
 </project>
