@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+95,修复部分异常">
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+97,修复部分异常">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,22 +88,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00292" summary="补齐+55,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1776148981421</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
-      <option name="project" value="LOCAL" />
-      <updated>1776148981422</updated>
-    </task>
-    <task id="LOCAL-00293" summary="补齐+56,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1776403530282</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
-      <option name="project" value="LOCAL" />
-      <updated>1776403530283</updated>
     </task>
     <task id="LOCAL-00294" summary="补齐+57,修复部分异常">
       <option name="closed" value="true" />
@@ -481,7 +465,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783936576092</updated>
     </task>
-    <option name="localTasksCounter" value="341" />
+    <task id="LOCAL-00341" summary="补齐+96,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1783939269780</created>
+      <option name="number" value="00341" />
+      <option name="presentableId" value="LOCAL-00341" />
+      <option name="project" value="LOCAL" />
+      <updated>1783939269780</updated>
+    </task>
+    <task id="LOCAL-00342" summary="补齐+97,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1783939417177</created>
+      <option name="number" value="00342" />
+      <option name="presentableId" value="LOCAL-00342" />
+      <option name="project" value="LOCAL" />
+      <updated>1783939417177</updated>
+    </task>
+    <option name="localTasksCounter" value="343" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,8 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="补齐+67,修复部分异常" />
-    <MESSAGE value="补齐+68,修复部分异常" />
     <MESSAGE value="补齐+69,修复部分异常" />
     <MESSAGE value="补齐+70,修复部分异常" />
     <MESSAGE value="补齐+714,修复部分异常" />
@@ -522,6 +520,8 @@
     <MESSAGE value="补齐+93,修复部分异常" />
     <MESSAGE value="补齐+94,修复部分异常" />
     <MESSAGE value="补齐+95,修复部分异常" />
-    <option name="LAST_COMMIT_MESSAGE" value="补齐+95,修复部分异常" />
+    <MESSAGE value="补齐+96,修复部分异常" />
+    <MESSAGE value="补齐+97,修复部分异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="补齐+97,修复部分异常" />
   </component>
 </project>
