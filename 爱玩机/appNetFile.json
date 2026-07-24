@@ -691,7 +691,9 @@
   {
     "fileName": "lsposedModules.json",
     "fileUrl": [
-      "https://modules.lsposed.org/modules.json?sign=becf3c61feeacfb86bfdd880b9d4ad47&t=1781156588",
+
+      "https://modules.lsposed.org/modules.json?sign=5ef8979f6a33713317d25510b96d6f53&t=1784822294",
+
       "https://doc.byyoung.top/api/get-lsposed-modules.json",
       "https://modules.lsposed.org/moduls.json",
       "https://backup.modules.lsposed.org/modules.json",
