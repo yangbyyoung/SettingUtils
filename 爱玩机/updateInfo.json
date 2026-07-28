@@ -1,7 +1,7 @@
 [
   {
     "defaultColor": "GoogleBlue",
-    "modulesVersion": "22.0",
+    "modulesVersion": "22.1",
     "notificationQuery": false,
     "updateLog": "适配suu管理器模块安装逻辑\n修复刷入模块日志页面自动滑动页面自动跟随手势，往上滑动自动终止往下刷新\n应用备份功能正式开放应用云备份功能，支持webdav、smb等网盘\n适配安卓17设备，修复安卓17部分功能异常问题\n所有主题适配夜间模式，删除单独暗影模式主题\n修复部分主题夜间模式部分页面无法看清文字问题\n新增5款主题皮肤\n修复收纳盒多重操作逻辑bug",
     "updateType": "Stable",
