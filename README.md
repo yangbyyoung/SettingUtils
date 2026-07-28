@@ -6,4 +6,5 @@ git push -u origin
 git push -u master
 
 git remote set-url --add master url 
-git remote set-url --delete master url 
+git remote set-url --delete master url
+git remote -v
