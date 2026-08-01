@@ -17,7 +17,7 @@
     "fileUrl": [
       "https://wwp.lanzn.com/iePbJ23f7wgb",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
@@ -31,7 +31,7 @@
     "fileUrl": [
       "https://wwp.lanzn.com/i1Ezs32wnnnc",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
@@ -60,7 +60,7 @@
     "fileUrl": [
       "https://www.lanzoui.com/im5u70u0e2qd",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/guidePic.zip",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/guidePic.zip"
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/guidePic.zip"
     ]
   },
   {
@@ -115,7 +115,7 @@
     "fileName": "Zfb_Pay.png",
     "fileUrl": [
       "https://cdn.nlark.com/yuque/0/2023/png/23032569/1682334845266-8b366a81-d053-4020-bcfe-ee216cbd936c.png",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/Zfb_Pay.png",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/paymentPic/Zfb_Pay.png",
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=paymentPic/Zfb_Pay.png",
 
@@ -188,10 +188,11 @@
   {
     "fileName": "系统监视器.apk",
     "fileUrl": [
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E5%99%A8%E4%BE%A7.apk",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E5%99%A8%E4%BE%A7.apk",
 
 
-
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E5%99%A8%E4%BE%A7.apk",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E5%99%A8%E4%BE%A7.apk",
 
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E5%99%A8%E4%BE%A7.apk",
 
@@ -247,7 +248,7 @@
     "fileName": "安卓8.0Xposed.zip",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https://wwp.lanzouw.com/isEAB07rg3ih",
@@ -293,7 +294,7 @@
     "fileName": "xposed-magisk.zip",
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
 
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
 
@@ -309,7 +310,7 @@
   {
     "fileName": "toybox-armv7l",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/toybox-armv7l",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/toybox-armv7l",
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=toybox-armv7l",
 
@@ -324,7 +325,7 @@
   {
     "fileName": "com.variable.apkhook.apk",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E6%BA%90%E8%AE%A1%E5%88%92-com.variable.apkhook.apk",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E6%BA%90%E8%AE%A1%E5%88%92-com.variable.apkhook.apk",
 
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/%E6%BA%90%E8%AE%A1%E5%88%92-com.variable.apkhook.apk",
@@ -340,17 +341,33 @@
     "fileName": "general_new.json",
     "fileUrl": [
 
+      "https://cdn.jsdmirror.com/gh/lihenggui/blocker-general-rules@main/rules/zh-CN/general.json",
+      "https://cdn.jsdmirror.cn/gh/lihenggui/blocker-general-rules@main/rules/zh-CN/general.json",
+
+      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=general.json",
+
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=general.json",
 
 
-      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=general.json",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/general.json",
-      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/rules/zh-cn/general.json",
+      "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/rules/zh-CN/general.json",
       "https://jihulab.com/mercuryli/blocker-general-rules/-/raw/main/zh-cn/general.json"
     ]
   },
+  {
+    "fileName": "debloat.json",
+    "fileUrl": [
+      "https://cdn.jsdmirror.com/gh/MuntashirAkon/AppManager@master/app/src/main/assets/debloat.json",
+      "https://cdn.jsdmirror.cn/gh/MuntashirAkon/AppManager@master/app/src/main/assets/debloat.json",
+
+      "https://res.byyang.top/down/VIV72TiD3eDb?fname=debloat.json",
+      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=debloat.json",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/debloat.json"
+    ]
+  },
+
   {
     "fileName": "packageNameInfo.json",
     "fileUrl": [
@@ -361,20 +378,6 @@
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/packageNameInfo.json",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/packageNameInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/packageNameInfo.json"
-    ]
-  },
-  {
-    "fileName": "debloat.json",
-    "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/debloat.json",
-
-      "https://res.byyang.top/down/VIV72TiD3eDb?fname=debloat.json",
-
-
-      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=debloat.json",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/debloat.json",
-      "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/debloat.json",
-      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/debloat.json"
     ]
   },
   {
@@ -393,7 +396,7 @@
   {
     "fileName": "appInfo.json",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo.json",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo.json"
     ]
   },
@@ -425,13 +428,13 @@
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json"
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appHelper.json"
     ]
   },
   {
     "fileName": "answerInfo.json",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/answerInfo.json",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/answerInfo.json",
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=answerInfo.json",
 
@@ -485,7 +488,7 @@
   {
     "fileName": "rom_demo.zip",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/rom_demo.zip",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/rom_demo.zip",
 
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=rom_demo.zip",
@@ -501,7 +504,7 @@
     "fileName": "defaultCover.jpg",
     "fileUrl": [
       "https://api.hanximeng.com/ranimg/api.php",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
 
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=defaultCover.jpg",
 
@@ -517,7 +520,7 @@
   {
     "fileName": "donateDemo.png",
     "fileUrl": [
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/donateDemo.png",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/donateDemo.png",
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%85%B6%E4%BB%96/donateDemo.png",
 
@@ -533,7 +536,7 @@
     "fileName": "device.json",
     "fileUrl": [
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/device.json",
 
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=device.json",
@@ -554,7 +557,7 @@
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json"
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/vipInfo.json"
     ]
   },
   {
@@ -583,7 +586,7 @@
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/privilegeInfo_new",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/privilegeInfo_new",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/privilegeInfo_new",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/privilegeInfo_new"
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/privilegeInfo_new"
     ]
   },
   {
@@ -599,7 +602,7 @@
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/authorInfo.json.gz",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/authorInfo.json.gz",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/authorInfo.json.gz",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/authorInfo.json.gz"
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/authorInfo.json.gz"
     ]
   },
   {
@@ -683,7 +686,7 @@
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json",
-      "https://jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json"
+      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/brushBoxInfo.json"
     ]
   },
   {
