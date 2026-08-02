@@ -46,6 +46,9 @@
     "fileName": "Busybox_for_Android_ADB.zip",
     "fileUrl": [
       "https://wwgh.lanzouu.com/ivwn932vyv9g",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_ADB.zip",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_ADB.zip",
+
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_ADB.zip",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_ADB.zip",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_ADB.zip",
@@ -506,6 +509,9 @@
       "https://api.hanximeng.com/ranimg/api.php",
       "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
 
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/defaultCover.jpg",
+
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=defaultCover.jpg",
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=defaultCover.jpg",
@@ -520,7 +526,8 @@
   {
     "fileName": "donateDemo.png",
     "fileUrl": [
-      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/donateDemo.png",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/donateDemo.png",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%85%B6%E4%BB%96/donateDemo.png",
 
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%85%B6%E4%BB%96/donateDemo.png",
 
