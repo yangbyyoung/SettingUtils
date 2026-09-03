@@ -564,6 +564,14 @@
     ]
   },
   {
+    "fileName": "superMaster.json",
+    "fileUrl": [
+      "https://res.byyang.top/down/VIV72TiD3eDb?fname=superMaster.json",
+      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=superMaster.json",
+      "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/superMaster.json"
+    ]
+  },
+  {
     "fileName": "lsposedModules.json",
     "fileUrl": [
       "https://modules.lsposed.org/modules.json?sign=bebd1e1ac836659812304c9ecf2a0f2d&t=1788059803",
