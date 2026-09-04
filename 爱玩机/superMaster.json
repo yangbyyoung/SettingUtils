@@ -1,21 +1,27 @@
 {
   "com.topjohnwu.magisk": {
+    "label": "Magisk(原版)",
     "superMaster": "MAGISKSU",
     "latest": "https://api.github.com/repos/topjohnwu/Magisk/releases/latest"
   },
   "io.github.vvb2060.magisk": {
+    "label": "Magisk(阿尔法)",
     "superMaster": "MAGISKSU",
     "latest": "https://api.github.com/repos/vvb2060/Magisk/releases/latest"
   },
   "io.github.seyud.weave": {
+    "label": "Magisk(Weave)",
     "superMaster": "MAGISKSU",
     "latest": "https://api.github.com/repos/Seyud/WeaveMask/releases/latest"
   },
   "io.github.x0eg0.magisk": {
+    "label": "Kitsune Mask",
     "superMaster": "MAGISKSU",
     "latest": "https://api.github.com/repos/QOS3/Magisk/releases/latest"
   },
   "io.github.huskydg.magisk": {
+    "label": "Kitsune Mask",
+    "hidden": true,
     "superMaster": "MAGISKSU",
     "latest": "https://api.github.com/repos/QOS3/Magisk/releases/latest"
   },
@@ -36,6 +42,10 @@
     "latest": "https://api.github.com/repos/ReSukiSU/ReSukiSU/releases/latest"
   },
   "com.twj.wksu": {
+    "superMaster": "KernelSU",
+    "latest": "https://api.github.com/repos/WildKernels/Wild_KSU/releases/latest"
+  },
+  "viwbhj.dmkuib.afywfl": {
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/WildKernels/Wild_KSU/releases/latest"
   },
