@@ -36,14 +36,17 @@
     "latest": "https://api.github.com/repos/KernelSU-Next/KernelSU-Next/releases/latest"
   },
   "com.sukisu.ultra": {
+    "label": "KernelSU(SukiSu)",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/SukiSU-Ultra/SukiSU-Ultra/releases/latest"
   },
   "com.resukisu.resukisu": {
+    "hidden": true,
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/ReSukiSU/ReSukiSU/releases/latest"
   },
   "com.twj.wksu": {
+    "hidden": true,
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/WildKernels/Wild_KSU/releases/latest"
   },
