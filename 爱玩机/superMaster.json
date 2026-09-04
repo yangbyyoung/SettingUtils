@@ -56,12 +56,12 @@
   },
   "me.bmax.apatch": {
     "label": "Apatch(原版)",
-    "superMaster": "ApatchSU",
+    "superMaster": "Apatch",
     "latest": "https://api.github.com/repos/bmax121/APatch/releases/latest"
   },
   "me.yuki.folk": {
     "label": "Apatch(FolkPatch)",
-    "superMaster": "ApatchSU",
+    "superMaster": "Apatch",
     "latest": "https://api.github.com/repos/matsuzaka-yuki/FolkPatch/releases/latest"
   }
 }
