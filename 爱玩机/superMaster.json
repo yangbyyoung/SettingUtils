@@ -66,5 +66,10 @@
     "label": "APatch(FolkPatch)",
     "superMaster": "APatch",
     "latest": "https://api.github.com/repos/matsuzaka-yuki/FolkPatch/releases/latest"
+  },
+  "com.thirdparty.superuser": {
+    "hidden": true,
+    "label": "SuperSU(模拟器)",
+    "superMaster": "com.thirdparty.superuser"
   }
 }
