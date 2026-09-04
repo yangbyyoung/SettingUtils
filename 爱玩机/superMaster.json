@@ -26,10 +26,12 @@
     "latest": "https://api.github.com/repos/QOS3/Magisk/releases/latest"
   },
   "me.weishu.kernelsu": {
+    "label": "KernelSU(原版)",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/tiann/KernelSU/releases/latest"
   },
   "com.rifsxd.ksunext": {
+    "label": "KernelSU(Next)",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/KernelSU-Next/KernelSU-Next/releases/latest"
   },
@@ -53,10 +55,12 @@
     "superMaster": "KernelSU"
   },
   "me.bmax.apatch": {
+    "label": "Apatch(原版)",
     "superMaster": "ApatchSU",
     "latest": "https://api.github.com/repos/bmax121/APatch/releases/latest"
   },
   "me.yuki.folk": {
+    "label": "Apatch(FolkPatch)",
     "superMaster": "ApatchSU",
     "latest": "https://api.github.com/repos/matsuzaka-yuki/FolkPatch/releases/latest"
   }
