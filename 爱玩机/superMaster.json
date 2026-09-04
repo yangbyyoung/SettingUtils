@@ -55,13 +55,13 @@
     "superMaster": "KernelSU"
   },
   "me.bmax.apatch": {
-    "label": "Apatch(原版)",
-    "superMaster": "Apatch",
+    "label": "APatch(原版)",
+    "superMaster": "APatch",
     "latest": "https://api.github.com/repos/bmax121/APatch/releases/latest"
   },
   "me.yuki.folk": {
-    "label": "Apatch(FolkPatch)",
-    "superMaster": "Apatch",
+    "label": "APatch(FolkPatch)",
+    "superMaster": "APatch",
     "latest": "https://api.github.com/repos/matsuzaka-yuki/FolkPatch/releases/latest"
   }
 }
