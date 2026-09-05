@@ -234,24 +234,27 @@
   {
     "fileName": "xposed-v87-v88.zip",
     "fileUrl": [
+      "https://alist.byyoung.top/d/%E8%93%9D%E5%A5%8F%E4%BC%98%E4%BA%AB/%E7%88%B1%E7%8E%A9%E6%9C%BA%E5%B7%A5%E5%85%B7%E7%AE%B1/%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90/assets-v21/xposed-v87-v88.zip",
+
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
-      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
-      "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
-      "https://wwp.lanzouw.com/iyZn20c0h13e"
+      "https://wwp.lanzouw.com/iyZn20c0h13e",
+      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
+      "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip"
     ]
   },
   {
     "fileName": "xposed-magisk.zip",
     "fileUrl": [
+      "https://alist.byyoung.top/d/%E8%93%9D%E5%A5%8F%E4%BC%98%E4%BA%AB/%E7%88%B1%E7%8E%A9%E6%9C%BA%E5%B7%A5%E5%85%B7%E7%AE%B1/%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90/assets-v21/xposed-magisk.zip",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
       "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
-      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
-      "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
       "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
-      "https://wwp.lanzouw.com/im5OB0c16reb"
+      "https://wwp.lanzouw.com/im5OB0c16reb",
+      "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
+      "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip"
     ]
   },
   {
@@ -366,10 +369,11 @@
   {
     "fileName": "updateInfo.json",
     "fileUrl": [
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/updateInfo.json",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@master/%E7%88%B1%E7%8E%A9%E6%9C%BA/updateInfo.json",
+
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=updateInfo.json",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=updateInfo.json",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/updateInfo.json",
-      "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/updateInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/updateInfo.json"
     ]
   },
