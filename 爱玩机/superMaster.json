@@ -41,7 +41,6 @@
     "latest": "https://api.github.com/repos/SukiSU-Ultra/SukiSU-Ultra/releases/latest"
   },
   "com.resukisu.resukisu": {
-    "hidden": true,
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/ReSukiSU/ReSukiSU/releases/latest"
   },
