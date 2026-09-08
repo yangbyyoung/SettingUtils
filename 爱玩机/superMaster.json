@@ -31,17 +31,17 @@
     "latest": "https://api.github.com/repos/tiann/KernelSU/releases/latest"
   },
   "com.rifsxd.ksunext": {
-    "label": "KernelSU(Next)",
+    "label": "KernelSU-Next",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/KernelSU-Next/KernelSU-Next/releases/latest"
   },
   "com.sukisu.ultra": {
-    "label": "KernelSU(SukiSu)",
+    "label": "SukiSu",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/SukiSU-Ultra/SukiSU-Ultra/releases/latest"
   },
   "com.resukisu.resukisu": {
-
+    "label": "ReSukiSu",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/ReSukiSU/ReSukiSU/releases/latest"
   },
@@ -51,6 +51,7 @@
     "latest": "https://api.github.com/repos/WildKernels/Wild_KSU/releases/latest"
   },
   "viwbhj.dmkuib.afywfl": {
+    "label": "Wild-Ksu",
     "superMaster": "KernelSU",
     "latest": "https://api.github.com/repos/WildKernels/Wild_KSU/releases/latest"
   },
