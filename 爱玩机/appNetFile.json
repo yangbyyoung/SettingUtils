@@ -12,15 +12,12 @@
   },
   {
     "fileName": "爱玩机全机型兼容包_New.zip",
+    "deprecated": true,
     "fileUrl": [
       "https://wwp.lanzn.com/iePbJ23f7wgb",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https://www.lanzoui.com/iwYNK0uz9b0b",
-      "http\\res.byyang.top/down/h2e9Reh42Mgr?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
       "https://wwgh.lanzouu.com/iePbJ23f7wgb"
     ]
   },
@@ -28,10 +25,9 @@
     "fileName": "Busybox_for_Android_Core.zip",
     "fileUrl": [
       "https://wwp.lanzn.com/i1Ezs32wnnnc",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@654bc07b5f25dd0e966c31b6cd90064061e1b243/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@654bc07b5f25dd0e966c31b6cd90064061e1b243/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
-      "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_NDK.zip",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
-      "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
       "https://www.lanzoui.com/iwYNK0uz9b0b",
       "http\\res.byyang.top/down/h2e9Reh42Mgr?fname=/%E7%88%B1%E7%8E%A9%E6%9C%BA/Busybox_for_Android_Core.zip",
