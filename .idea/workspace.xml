@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+148,修复部分异常">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱玩机/appNetFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱玩机/appNetFile.json" afterDir="false" />
-    </list>
+    <list default="true" id="00aa080b-11dd-4dd4-9e6e-255e6319ef1c" name="更改" comment="补齐+148,修复部分异常" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729063707220</updated>
-    </task>
-    <task id="LOCAL-00347" summary="补齐+101,修复部分异常">
-      <option name="closed" value="true" />
-      <created>1784860262113</created>
-      <option name="number" value="00347" />
-      <option name="presentableId" value="LOCAL-00347" />
-      <option name="project" value="LOCAL" />
-      <updated>1784860262114</updated>
     </task>
     <task id="LOCAL-00348" summary="补齐+102,修复部分异常">
       <option name="closed" value="true" />
@@ -478,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790298755818</updated>
     </task>
-    <option name="localTasksCounter" value="396" />
+    <task id="LOCAL-00396" summary="补齐+148,修复部分异常">
+      <option name="closed" value="true" />
+      <created>1790334074136</created>
+      <option name="number" value="00396" />
+      <option name="presentableId" value="LOCAL-00396" />
+      <option name="project" value="LOCAL" />
+      <updated>1790334074136</updated>
+    </task>
+    <option name="localTasksCounter" value="397" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
