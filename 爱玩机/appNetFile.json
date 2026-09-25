@@ -207,7 +207,7 @@
   },
   {
     "fileName": "安卓8.0Xposed.zip",
-    "deep": true,
+    "deprecated": true,
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Magisk%E6%A8%A1%E5%9D%97/%E5%AE%89%E5%8D%938.0Xposed.zip",
@@ -321,7 +321,7 @@
   },
   {
     "fileName": "appInfo.json",
-    "deep": true,
+    "deprecated": true,
     "fileUrl": [
       "https\\jihulab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo.json",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/appInfo.json"
@@ -374,7 +374,7 @@
   },
   {
     "fileName": "payload_arm64",
-    "deep": true,
+    "deprecated": true,
     "fileUrl": [
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=payload_arm64",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=payload_arm64",
@@ -447,7 +447,7 @@
   },
   {
     "fileName": "vipInfo.json",
-    "deep": true,
+    "deprecated": true,
     "fileUrl": [
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=vipInfo.json",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=vipInfo.json",
@@ -532,7 +532,7 @@
   },
   {
     "fileName": "magisk_modules_repo.json",
-    "deep": true,
+    "deprecated": true,
     "fileUrl": [
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk_modules_repo.json",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk_modules_repo.json",
