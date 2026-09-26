@@ -221,8 +221,8 @@
   {
     "fileName": "xposed_26.zip",
     "fileUrl": [
-      "https://netdisk.byyoung.top/parser?url=https://wwast.lanzouu.com/i0UXA48prycb",
       "https://wwast.lanzouu.com/i0UXA48prycb",
+      "https://netdisk.byyoung.top/parser?url=https://wwast.lanzouu.com/i0UXA48prycb",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/Xposed/assets-v26/%E5%AE%89%E5%8D%938.0Xposed.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/%E5%AE%89%E5%8D%938.0Xposed.zip",
 
@@ -233,10 +233,8 @@
   {
     "fileName": "xposed-v87-v88.zip",
     "fileUrl": [
-      "https://netdisk.byyoung.top/parser?url=https://wwast.lanzouu.com/i3aJp48ps51c",
-
       "https://wwast.lanzouu.com/i3aJp48ps51c",
-
+      "https://netdisk.byyoung.top/parser?url=https://wwast.lanzouu.com/i3aJp48ps51c",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-v87-v88.zip",
 
@@ -247,9 +245,8 @@
   {
     "fileName": "xposed-magisk.zip",
     "fileUrl": [
-      "https://netdisk.byyoung.top/parser?url=https://wwast.lanzouu.com/i0t5i48ps29c",
-
       "https://wwast.lanzouu.com/i0t5i48ps29c",
+      "https://netdisk.byyoung.top/parser?url=https://wwast.lanzouu.com/i0t5i48ps29c",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E5%8E%9F%E7%94%9FXposed/xposed-magisk.zip",
 
