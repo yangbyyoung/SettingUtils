@@ -504,27 +504,26 @@
   {
     "fileName": "magisk.xml.gz",
     "fileUrl": [
-      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@7abb6ed4c2659e7055c0f19b351311613bee1a8f/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
-      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@7abb6ed4c2659e7055c0f19b351311613bee1a8f/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
 
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
-      "https\\raw.gitcode.com/xiaobyyoung/SettingUtils/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https\\gitea.com/yangbyyoung552/SettingUtils/raw/branch/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz"
     ]
   },
   {
     "fileName": "xposed.xml.gz",
     "fileUrl": [
-      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@7abb6ed4c2659e7055c0f19b351311613bee1a8f/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
-      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@7abb6ed4c2659e7055c0f19b351311613bee1a8f/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
 
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://raw.githubusercontent.com/yangbyyoung/SettingUtils/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
-      "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz"
+      "https://res.byyang.top/down/VIV72TiD3eDb?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz"
     ]
   },
   {
