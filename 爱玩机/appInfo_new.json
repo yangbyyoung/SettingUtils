@@ -520,12 +520,12 @@
     "https://shrill-pond-3e81.hunsh.workers.dev"
   ],
   "notificationInfo": {
-    "isQuery": false,
+    "isQuery": true,
     "allUser": true,
     "pushTime": "",
-    "title": "新年快乐,爱玩机集体工作人员给您拜年啦~",
-    "summary": "快乐码：6a8a0a14b7(内含50-100抽奖券，1000-5000K币，50-200M云盘，一个月-1年会员等奖励，请自行留意资源上限，以免领取无效浪费)\n活动时间：2026年02月16日0晨-2026年02月20日23点\n\n温馨提示：点击此处可搜索‘PY’查阅使用文档！",
-    "intent": "https://doc.byyoung.top/guide/account_item#_7-py%E7%A0%81-%E5%AE%98%E6%96%B9%E6%B4%BB%E5%8A%A8py"
+    "title": "重要版本更新提示~",
+    "summary": "因酷安审核机制问题，后期将不再酷安上更新应用，此版本开始已移除酷安检测更新逻辑\n紧急修复部分安卓17设备无法启动软件问题，修复用户无法上传下载模块与云备份问题\n\n文件下载链接：https://1814159284.share.123pan.cn/123pan/DuvbVv-ADN13\n避免内测稳定版更新出问题，可前往QQ交流群反馈（注意群公告，严禁聊外挂）：651865037",
+    "intent": "https://1814159284.share.123pan.cn/123pan/DuvbVv-ADN13"
   },
   "telegramChannel": "https://t.me/+jbABrZEzR3UyZDQ1",
   "qqChannel": "https://pd.qq.com/s/g0y0p9s02",
