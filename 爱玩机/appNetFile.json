@@ -504,8 +504,8 @@
   {
     "fileName": "magisk.xml.gz",
     "fileUrl": [
-      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
-      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@a54b5f5066790ec1b9fa3e63f6fc7dca7b32e2bf/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@a54b5f5066790ec1b9fa3e63f6fc7dca7b32e2bf/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
 
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/magisk.xml.gz",
@@ -517,8 +517,8 @@
   {
     "fileName": "xposed.xml.gz",
     "fileUrl": [
-      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
-      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@dfb1c76b426d70193433b6e7566cd63c739023eb/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
+      "https://cdn.jsdmirror.com/gh/yangbyyoung/SettingUtils@a54b5f5066790ec1b9fa3e63f6fc7dca7b32e2bf/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
+      "https://cdn.jsdmirror.cn/gh/yangbyyoung/SettingUtils@a54b5f5066790ec1b9fa3e63f6fc7dca7b32e2bf/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
 
       "https://gitlab.com/yangbyyoung/SettingUtils/-/raw/master/%E7%88%B1%E7%8E%A9%E6%9C%BA/%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
       "https://res.byyoung.top/down/NOAUMqTnACCx?fname=%E7%A6%BB%E7%BA%BF%E4%BB%93%E5%BA%93/xposed.xml.gz",
